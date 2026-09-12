@@ -215,14 +215,6 @@ Scene2_RedEast_RedEast_March_Build:Strings@|0|{
     [F] - [E7] -  | [Am] - - - |
 }
 
-Scene2_RedEast_RedEast_March_Build:Drums@|0|{
-    <8*>
-    | A 0 S 0  A 0 S S | A 0 S 0  A 0 S S |
-    | A 0 S 0  A 0 S S | A S A S  A 0 S 0 |
-    | A 0 S 0  A 0 S S | A 0 S 0  A 0 S S |
-    | A 0 S 0  A 0 S S | A S A S  B - - - |
-}
-
 Scene2_RedEast_RedEast_March_Build:Timpani@|0|{
     <4*>
     | 6__ - 3__ - | 4__ - 3__ - |
@@ -285,14 +277,6 @@ Scene2_RedEast_RedEast_Storm_Tutti:Strings@|0|{
     [Am] - [Em] - | [Am] - [Em] - |
     [Am] - [C] -  | [E7] - - - |
     [F] - [E7] -  | [Am] - - - |
-}
-
-Scene2_RedEast_RedEast_Storm_Tutti:Drums@|0|{
-    <8*>
-    | A 0 S 0  A 0 S S | A 0 S 0  A 0 S S |
-    | A 0 S 0  A 0 S S | A S A S  A 0 S 0 |
-    | A 0 S 0  A 0 S S | A 0 S 0  A 0 S S |
-    | A 0 S 0  A 0 S S | A S A S  B - B - |
 }
 
 Scene2_RedEast_RedEast_Storm_Tutti:Timpani@|0|{
