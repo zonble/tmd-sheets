@@ -30,6 +30,7 @@
 -> SevenBombs_Impacts_4_to_6
 -> SevenBombs_Seventh_Final_Blast
 -> SevenBombs_Burning_Ashes_Dirge
+-> SevenBombs_Ending_Silence
 -> #
 
 /* -------------------------------------------------------------------
@@ -230,3 +231,17 @@ SevenBombs_Burning_Ashes_Dirge:Timpani@|0|{
     | 0 - - - | 0 - - - |
     | 0 - - - | 1__ 0 0 0 |
 }
+
+/* -------------------------------------------------------------------
+   燃燒彈餘燼後隔開一小節死寂空白，銜接將軍的主題變奏
+   ------------------------------------------------------------------- */
+SevenBombs_Ending_Silence:Cello@|0|{
+    <4*>
+    | 0 - - - |
+}
+
+SevenBombs_Ending_Silence:Strings@|0|{
+    <4*>
+    | 0 - - - |
+}
+

@@ -34,6 +34,7 @@
 -> Scene3_SevenBombs_SevenBombs_Impacts_4_to_6
 -> Scene3_SevenBombs_SevenBombs_Seventh_Final_Blast
 -> Scene3_SevenBombs_SevenBombs_Burning_Ashes_Dirge
+-> Scene3_Transition_Silence
 -> Scene4_GeneralVariation_General_Proud_March
 -> Scene4_GeneralVariation_General_Fall_Disruption
 -> Scene4_GeneralVariation_General_Confinement_Variation
@@ -520,6 +521,19 @@ Scene3_SevenBombs_SevenBombs_Burning_Ashes_Dirge:Timpani@|0|{
     <4*>
     | 0 - - - | 0 - - - |
     | 0 - - - | 1__ 0 0 0 |
+}
+
+/* -------------------------------------------------------------------
+   燃燒彈餘燼與將軍行進之間的 1 小節死寂凝結
+   ------------------------------------------------------------------- */
+Scene3_Transition_Silence:Cello@|0|{
+    <4*>
+    | 0 - - - |
+}
+
+Scene3_Transition_Silence:Strings@|0|{
+    <4*>
+    | 0 - - - |
 }
 
 
