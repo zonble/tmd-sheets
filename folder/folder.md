@@ -26,5 +26,5 @@
 - 將軍的主題變奏（英雄幽禁：general_theme_variation.tmd）
 - 大象與宗治的童謠賦格 (elephant_zongzhi_nursery_fugue.tmd)
 - 宗治的主題變奏（大園空難・極度哀慟：zongzhi_theme_variation.tmd）
-- 大象的主題變奏
+- 大象的主題變奏（老象長眠：elephant_theme_variation.tmd）
 - 回憶的主題（「我」的主題：memory_theme.tmd）
