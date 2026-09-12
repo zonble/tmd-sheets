@@ -686,25 +686,25 @@ Scene4_GeneralVariation_General_Distant_Brass_Salute:Strings@|0|{
 Scene4_GeneralVariation_General_Silent_Echo:Clarinet@|0|{
     <4*>
     | 3 - 2 - | 1 - 7_ - |
-    | 6_ - - - | 6_ 0 0 0 |
+    | 6_ - - - | 1 - 2 - |
 }
 
 Scene4_GeneralVariation_General_Silent_Echo:Flute@|0|{
     <4*>
     | 0 - - - | 0 - - - |
-    | 0 - - - | 0 - - - |
+    | 0 - - - | 0 0 3^ 5^ |
 }
 
 Scene4_GeneralVariation_General_Silent_Echo:Cello@|0|{
     <4*>
     | 6__ - - - | 5__ - - - |
-    | 6__ - - - | 6__ 0 0 0 |
+    | 4__ - - - | 5__ - - - |
 }
 
 Scene4_GeneralVariation_General_Silent_Echo:Strings@|0|{
     <4*>
     [Am] - - - | [Em] - - - |
-    [Am] - - - | [Am] 0 0 0 |
+    [F] - - -  | [G] - - - |
 }
 
 
@@ -847,31 +847,31 @@ Scene5_NurseryFugue_Fugue_Tutti_Joy:Cello@|0|{
 Scene5_NurseryFugue_Fugue_Coda:Flute@|0|{
     <4*>
     | 1^ - 3^ - | 5^ - 1^^ - |
-    | 1^^ - - - | 1^^ 0 0 0 |
+    | 1^^ - - - | 1^^ - - - |
 }
 
 Scene5_NurseryFugue_Fugue_Coda:Clarinet@|0|{
     <4*>
     | 3 - 5 - | 1^ - 3^ - |
-    | 1^ - - - | 1^ 0 0 0 |
+    | 1^ - - - | 1^ - - - |
 }
 
 Scene5_NurseryFugue_Fugue_Coda:Bassoon@|0|{
     <8*>
     | 5_ 3_ 2_ 3_  1_ - - - |
-    | 5_ 3_ 2_ 3_  1_ 0 0 0 |
+    | 5_ 3_ 2_ 3_  1_ - - - |
 }
 
 Scene5_NurseryFugue_Fugue_Coda:Cello@|0|{
     <4*>
     | 1_ - 5__ - | 1_ - - - |
-    | 1_ - - - | 1_ 0 0 0 |
+    | 1_ - - - | 1_ - - - |
 }
 
 Scene5_NurseryFugue_Fugue_Coda:Strings@|0|{
     <4*>
     [C] - [G] - | [C] - - - |
-    [C] - - - | [C] 0 0 0 |
+    [C] - - - | [C] - - - |
 }
 
 
