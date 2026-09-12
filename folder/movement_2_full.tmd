@@ -1,0 +1,927 @@
+::SCORE::
+** Zongzhi's October 1945 - Movement II: Voyage, Blood on Snow, and Island Landing **
+** (第二樂章：遠航、血雪、登陸南島) **
+
+!= 72
+?= C
+<4/4>
+
+/* 
+ * ===================================================================
+ * 宗治的 1945 年 10 月
+ * 第二樂章：遠航、血雪、登陸南島（完整總譜）
+ *
+ * 【章節結構】
+ * 第一景：時空之門（回憶的主題 / 「我」的主題）
+ * 第二景：航海主題一：黃埔港的鋼鐵巨獸 (美軍運輸艦與出征號角)
+ * 第三景：航海主題二：茫茫的海洋 (深藍海浪與雙聲部交錯)
+ * 第四景：冰雪的主題 (關外雪原死寂與暴風雪、定音鼓不規則戰火)
+ * 第五景：新一軍主題變奏：長春圍城 (送葬進行曲與軍歌哀鳴)
+ * 第六景：宗治與茫茫的海洋賦格 (嶺南文人記憶與大海波濤對位)
+ * 第七景：台灣民謠主題（融合大象與宗治主題回歸結尾）
+ * ===================================================================
+ */
+
+-> Scene1_Memory_Memory_Solo_Piano
+-> Scene1_Memory_Memory_Full_Ensemble
+-> Scene1_Memory_Memory_Handoff_To_Zongzhi
+-> Scene2_SteelBehemoth_Steel_Disturbance_Intro
+-> Scene2_SteelBehemoth_Steel_Engine_Ignition
+-> Scene2_SteelBehemoth_Steel_Rhythm_Build
+-> Scene2_SteelBehemoth_Steel_Behemoth_Tutti
+-> Scene2_SteelBehemoth_Steel_Whistle_Departure
+-> Scene3_OceanVoyage_Ocean_Waves_Intro
+-> Scene3_OceanVoyage_Ocean_Theme_Voice1
+-> Scene3_OceanVoyage_Ocean_Theme_Counterpoint
+-> Scene3_OceanVoyage_Ocean_Theme_FullSwell
+-> Scene3_OceanVoyage_Ocean_Fade_Into_Distance
+-> Scene4_SnowBattle_Snow_Wind_Whisper
+-> Scene4_SnowBattle_Snow_Deadly_Piano
+-> Scene4_SnowBattle_Snow_War_Explosion
+-> Scene5_SiegeChangchun_Siege_Cold_Hunger
+-> Scene5_SiegeChangchun_Siege_Army_Dirge
+-> Scene5_SiegeChangchun_Siege_Collapse_Death
+-> Scene6_OceanFugue_Fugue_Exposition
+-> Scene6_OceanFugue_Fugue_Counterpoint
+-> Scene6_OceanFugue_Fugue_Ocean_Swell
+-> Scene6_OceanFugue_Fugue_Coda
+-> Scene7_TaiwanFolk_Taiwan_Island_Intro
+-> Scene7_TaiwanFolk_Taiwan_Folk_Melody_Woodwinds
+-> Scene7_TaiwanFolk_Taiwan_Folk_Tutti_Warmth
+-> Scene7_TaiwanFolk_Taiwan_Welcoming_Echo
+-> #
+
+/* === Scene1_Memory === */
+Scene1_Memory_Memory_Solo_Piano:Piano@|0|{
+    <4*>
+    
+    | 0 3 2 1 | 2 1 - - | 0 (3 3)%(-) 2 1 | 2 1 5_ - |
+    | 0 3 2 3 | 5 - 3 - | 2 - 5 - | 3 - - - |
+}
+
+Scene1_Memory_Memory_Solo_Piano:Strings@|0|{
+    <1*>
+    [C] | [Am] | [F] | [C] |
+    [Em] | [Am] | [G] | [C] |
+}
+
+Scene1_Memory_Memory_Solo_Piano:Cello@|0|{
+    <1*>
+    1_ | 6__ | 4__ | 1_ |
+    3__ | 6__ | 5__ | 1_ |
+}
+
+
+
+
+
+Scene1_Memory_Memory_Full_Ensemble:Clarinet@|0|{
+    <4*>
+    
+    | 0 3 2 1 | 2 1 - - | 0 (3 3)%(-) 2 1 | (2 2)%(-) 1 5_ - |
+    | 0 3 2 1 | 7_ - 5_ - | 7_ - 2 3 | 1 6_ - - |
+}
+
+Scene1_Memory_Memory_Full_Ensemble:Piano@|0|{
+    <8*>
+    | 1 3 5 3  1 3 5 3 | 6_ 1 3 1  6_ 1 3 1 | 4_ 6_ 1 6_  4_ 6_ 1 6_ | 1 3 5 3  5_ 1 3 1 |
+    | 6_ 1 3 1  6_ 1 3 1 | 5_ 7_ 2 7_  5_ 2 7_ 2 | 5_ 7_ 2 7_  5_ 2 3 2 | 6_ 1 3 1  6_ - - - |
+}
+
+Scene1_Memory_Memory_Full_Ensemble:Strings@|0|{
+    <4*>
+    [C] - [C] - | [Am] - [Am] - | [F] - [F] - | [C] - [G] - |
+    [Am] - [Am] - | [Em] - [G] - | [G] - [Em] - | [Am] - - - |
+}
+
+Scene1_Memory_Memory_Full_Ensemble:Cello@|0|{
+    <1*>
+    1_ | 6__ | 4__ | 1_ |
+    6__ | 3__ | 5__ | 6__ |
+}
+
+
+
+
+
+Scene1_Memory_Memory_Handoff_To_Zongzhi:Flute@|0|{
+    <4*>
+    | 0 3 2 1 | 2 1 - - | 0 2 3 2 | 6_ - - - |
+}
+
+Scene1_Memory_Memory_Handoff_To_Zongzhi:Piano@|0|{
+    <4*>
+    | 0 - - - | 0 - - - | 0 - - - | 6_ 3_ 6__ - |
+}
+
+Scene1_Memory_Memory_Handoff_To_Zongzhi:Strings@|0|{
+    <1*>
+    [F] | [C] | [Esus4] | [Am] |
+}
+
+Scene1_Memory_Memory_Handoff_To_Zongzhi:Cello@|0|{
+    <1*>
+    4__ | 1_ | 3__ | 6__ |
+}
+
+/* === Scene2_SteelBehemoth === */
+Scene2_SteelBehemoth_Steel_Disturbance_Intro:Tuba@|0|{
+    <8*>
+    | 6___ - - - - - - - | 6___ - - - - - - - |
+    | 6___ - - - - - - - | 6___ - - - - - - - |
+}
+
+Scene2_SteelBehemoth_Steel_Disturbance_Intro:Trombone@|0|{
+    <8*>
+    | 0 - - - - - - - | 0 - - - - - - - |
+    | 6__ - - - - - - - | 6__ - - - - - - - |
+}
+
+Scene2_SteelBehemoth_Steel_Disturbance_Intro:Timpani@|0|{
+    <4*>
+    | 1__ - - - | 0 - - - |
+    | 1__ - - - | 1__ 1__ 1__ 0 |
+}
+
+Scene2_SteelBehemoth_Steel_Disturbance_Intro:Strings@|0|{
+    <1*>
+    [Am] | [Am] | [Am] | [Esus4] |
+}
+
+
+Scene2_SteelBehemoth_Steel_Engine_Ignition:Trombone@|0|{
+    <8*>
+    /* 汽笛長鳴 (Ship Foghorn siren) 初次響起 */
+    | 6__ - - - - - - - | 6__ - - - - - - - |
+    | 0 - - - - - - - | 0 - - - - - - - |
+}
+
+Scene2_SteelBehemoth_Steel_Engine_Ignition:Horn@|0|{
+    <8*>
+    /* 蒸氣汽笛共鳴 */
+    | 6_ - - - - - - - | 6_ - - - - - - - |
+    | 0 - - - - - - - | 0 - - - - - - - |
+}
+
+Scene2_SteelBehemoth_Steel_Engine_Ignition:Trumpet@|0|{
+    <4*>
+    | 0 - - - | (1 3 5)%(-) 1^ - - |
+    | 0 - - - | 0 - - - |
+}
+
+Scene2_SteelBehemoth_Steel_Engine_Ignition:Cello@|0|{
+    <8*>
+    | 6__ - - - - - - - | 6__ - - - - - - - |
+    | 4__ 6__ 4__ 6__  5__ 6__ 5__ 6__ | 1_ 6__ 1_ 6__  7__ 6__ 7__ 6__ |
+}
+
+Scene2_SteelBehemoth_Steel_Engine_Ignition:Bassoon@|0|{
+    <8*>
+    | 6__ - - - - - - - | 6__ - - - - - - - |
+    | 4__ 6__ 4__ 6__  5__ 6__ 5__ 6__ | 1_ 6__ 1_ 6__  7__ 6__ 7__ 6__ |
+}
+
+Scene2_SteelBehemoth_Steel_Engine_Ignition:Strings@|0|{
+    <4*>
+    [Am] - - - | [Am] - - - |
+    [F] - [G] - | [Am] - [Em] - |
+}
+
+Scene2_SteelBehemoth_Steel_Engine_Ignition:Drums@|0|{
+    <8*>
+    | A - - - A - - - | A - - - A - - - |
+    | A - S - A - S - | A - S - A - S S |
+}
+
+
+Scene2_SteelBehemoth_Steel_Rhythm_Build:Viola@|0|{
+    <8*>
+    | 6_ - - - - - - - | 6_ - - - - - - - |
+    | 4_ 6_ 4_ 6_  5_ 6_ 5_ 6_ | 1 6_ 1 6_  7_ 6_ 7_ 6_ |
+}
+
+Scene2_SteelBehemoth_Steel_Rhythm_Build:Clarinet@|0|{
+    <8*>
+    | 6_ - - - - - - - | 6_ - - - - - - - |
+    | 4_ 6_ 4_ 6_  5_ 6_ 5_ 6_ | 1 6_ 1 6_  7_ 6_ 7_ 6_ |
+}
+
+Scene2_SteelBehemoth_Steel_Rhythm_Build:Cello@|0|{
+    <8*>
+    | 6__ 3_ 6__ 3_  6__ 3_ 6__ 3_ | 6__ 3_ 6__ 3_  6__ 3_ 6__ 3_ |
+    | 4__ 1_ 4__ 1_  5__ 2_ 5__ 2_ | 6__ 3_ 6__ 3_  7__ 3_ 7__ 3_ |
+}
+
+Scene2_SteelBehemoth_Steel_Rhythm_Build:Strings@|0|{
+    <4*>
+    [Am] - [Am] - | [Am] - [Am] - |
+    [F] - [G] -   | [Am] - [E7] - |
+}
+
+Scene2_SteelBehemoth_Steel_Rhythm_Build:Drums@|0|{
+    <8*>
+    | A - S - A - S - | A - S - A - S S |
+    | A - S - A - S - | A - S S A - S S |
+}
+
+Scene2_SteelBehemoth_Steel_Rhythm_Build:Timpani@|0|{
+    <4*>
+    | 1__ 0 0 0 | 1__ 0 0 0 |
+    | 1__ 0 1__ 0 | 1__ 1__ 1__ 1__ |
+}
+
+
+Scene2_SteelBehemoth_Steel_Behemoth_Tutti:Trumpet@|0|{
+    <8*>
+    | 6 - - - - - - - | 6 - - - - - (1 3 5)%(--) |
+    | 4 6 4 6  5 6 5 6 | 1^ 6 1^ 6  7 6 7 6 |
+    | 6 - - - - - - - | 6 - - - - - (1 3 5)%(--) |
+    | 4 6 4 6  5 6 5 6 | 1^ 6 1^ 6  7 6 7 6 |
+}
+
+Scene2_SteelBehemoth_Steel_Behemoth_Tutti:Horn@|0|{
+    <8*>
+    | 6_ - - - - - - - | 6_ - - - - - (1_ 3_ 5_)%(--) |
+    | 4_ 6_ 4_ 6_  5_ 6_ 5_ 6_ | 1 6_ 1 6_  7_ 6_ 7_ 6_ |
+    | 6_ - - - - - - - | 6_ - - - - - (1_ 3_ 5_)%(--) |
+    | 4_ 6_ 4_ 6_  5_ 6_ 5_ 6_ | 1 6_ 1 6_  7_ 6_ 7_ 6_ |
+}
+
+Scene2_SteelBehemoth_Steel_Behemoth_Tutti:Trombone@|0|{
+    <8*>
+    
+    | 3_ - - - - - - - | - - - - - - - - |
+    | 4__ - - -  5__ - - - | 6__ - - -  7__ - - - |
+    | 3_ - - - - - - - | - - - - - - - - |
+    | 4__ - - -  5__ - - - | 6__ - - -  3__ - - - |
+}
+
+Scene2_SteelBehemoth_Steel_Behemoth_Tutti:Tuba@|0|{
+    <8*>
+    | 6___ - - - - - - - | 6___ - - - - - - - |
+    | 4___ - - -  5___ - - - | 6___ - - -  7___ - - - |
+    | 6___ - - - - - - - | 6___ - - - - - - - |
+    | 4___ - - -  5___ - - - | 6___ - - -  3___ - - - |
+}
+
+Scene2_SteelBehemoth_Steel_Behemoth_Tutti:Strings@|0|{
+    <8*>
+    | 6_ 3 6_ 3  6_ 3 6_ 3 | 6_ 3 6_ 3  6_ 3 6_ 3 |
+    | 4 1 4 1  5 2 5 2 | 6 3 6 3  7 3 7 3 |
+    | 6_ 3 6_ 3  6_ 3 6_ 3 | 6_ 3 6_ 3  6_ 3 6_ 3 |
+    | 4 1 4 1  5 2 5 2 | 6 3 6 3  3 7_ 3 7_ |
+}
+
+Scene2_SteelBehemoth_Steel_Behemoth_Tutti:Drums@|0|{
+    <8*>
+    | B - - - A - S - | A - S - A - S S |
+    | B - S - A - S - | A - S - A - S S |
+    | B - - - A - S - | A - S - A - S S |
+    | B - S - A - S - | A - S S B - B - |
+}
+
+Scene2_SteelBehemoth_Steel_Behemoth_Tutti:Timpani@|0|{
+    <4*>
+    | 1__ - - - | 1__ 0 1__ 0 |
+    | 1__ 1__ 1__ 1__ | 1__ - - 0 |
+    | 1__ - - - | 1__ 0 1__ 0 |
+    | 1__ 1__ 1__ 1__ | 1__ - - - |
+}
+
+
+Scene2_SteelBehemoth_Steel_Whistle_Departure:Trombone@|0|{
+    <8*>
+    | 6__ - - - - - - - | - - - - - - - - |
+    | 0 - - - - - - - | 0 - - - - - - - |
+}
+
+Scene2_SteelBehemoth_Steel_Whistle_Departure:Horn@|0|{
+    <8*>
+    | 3_ - - - - - - - | - - - - - - - - |
+    | 0 - - - - - - - | 0 - - - - - - - |
+}
+
+Scene2_SteelBehemoth_Steel_Whistle_Departure:Cello@|0|{
+    <8*>
+    | 4__ 6__ 4__ 6__  5__ 6__ 5__ 6__ | 6__ - - - - - - - |
+    | 6__ - - - - - - - | 6__ - - - - - - - |
+}
+
+Scene2_SteelBehemoth_Steel_Whistle_Departure:Strings@|0|{
+    <4*>
+    [F] - [G] - | [Am] - - - |
+    [Am] - - - | [Am] - - - |
+}
+
+Scene2_SteelBehemoth_Steel_Whistle_Departure:Timpani@|0|{
+    <4*>
+    | 1__ - - - | 1__ - - - |
+    | 1__ 0 0 0 | 0 - - - |
+}
+
+Scene2_SteelBehemoth_Steel_Whistle_Departure:Drums@|0|{
+    <8*>
+    | B - - - - - - - | 0 - - - - - - - |
+    | 0 - - - - - - - | 0 - - - - - - - |
+}
+
+Scene2_SteelBehemoth_Steel_Whistle_Departure:Seashore@|0|{
+    <1*>
+    0 | 0 | 1 | 1 |
+}
+
+/* === Scene3_OceanVoyage === */
+Scene3_OceanVoyage_Ocean_Waves_Intro:Violin@|0|{
+    <8*>
+    | 3 5 6 1^ 3^ 1^ 6 5 | 2 5 7 2^ 5^ 2^ 7 5 |
+    | 1 3 6 1^ 3^ 1^ 6 3 | 7_ 3 5 7 3^ 7 5 3 |
+}
+
+Scene3_OceanVoyage_Ocean_Waves_Intro:Cello@|0|{
+    <4*>
+    | 6__ - - - | 5__ - - - |
+    | 4__ - - - | 3__ - - - |
+}
+
+Scene3_OceanVoyage_Ocean_Waves_Intro:Strings@|0|{
+    <4*>
+    [Am] - - - | [G] - - - |
+    [F] - - -  | [Em] - - - |
+}
+
+Scene3_OceanVoyage_Ocean_Waves_Intro:Seashore@|0|{
+    <1*>
+    1 | 1 | 1 | 1 |
+}
+
+
+Scene3_OceanVoyage_Ocean_Theme_Voice1:Clarinet@|0|{
+    <4*>
+    | 3 2 1 7_ | 1 7_ 6_ 5_ | 6_ 6_ 5_ 2 | 1 7_ 5_ 6_ |
+}
+
+Scene3_OceanVoyage_Ocean_Theme_Voice1:Violin@|0|{
+    <8*>
+    | 3 5 6 1^ 3^ 1^ 6 5 | 2 5 7 2^ 5^ 2^ 7 5 |
+    | 1 3 6 1^ 3^ 1^ 6 3 | 7_ 3 5 7 3^ 7 5 3 |
+}
+
+Scene3_OceanVoyage_Ocean_Theme_Voice1:Cello@|0|{
+    <4*>
+    | 6__ - - - | 5__ - - - |
+    | 4__ - - - | 3__ - 6__ - |
+}
+
+Scene3_OceanVoyage_Ocean_Theme_Voice1:Strings@|0|{
+    <4*>
+    [Am] - - - | [Em] - - - |
+    [F] - [G] - | [Am] - - - |
+}
+
+Scene3_OceanVoyage_Ocean_Theme_Voice1:Seashore@|0|{
+    <1*>
+    1 | 1 | 1 | 1 |
+}
+
+
+Scene3_OceanVoyage_Ocean_Theme_Counterpoint:Flute@|0|{
+    <4*>
+    
+    | 3^ 2^ 1^ 7 | 1^ 7 6 5 | 6 6 5 2^ | 1^ 7 5 6 |
+    | 3^ 2^ 1^ 7 | 1^ 7 6 5 | 6 6 5 2^ | 1^ 7 5 6 |
+}
+
+Scene3_OceanVoyage_Ocean_Theme_Counterpoint:Clarinet@|0|{
+    <4*>
+    
+    | 0 - - - | 0 - - - |
+    | 3 2 1 7_ | 1 7_ 6_ 5_ |
+    | 6_ 6_ 5_ 2 | 1 7_ 5_ 6_ |
+    | 3 2 1 7_ | 1 7_ 5_ 6_ |
+}
+
+Scene3_OceanVoyage_Ocean_Theme_Counterpoint:Cello@|0|{
+    <8*>
+    | 6__ 3_ 6__ 3_  6__ 3_ 6__ 3_ | 5__ 2_ 5__ 2_  5__ 2_ 5__ 2_ |
+    | 4__ 1_ 4__ 1_  5__ 2_ 5__ 2_ | 6__ 3_ 6__ 3_  6__ 3_ 6__ 3_ |
+    | 6__ 3_ 6__ 3_  6__ 3_ 6__ 3_ | 5__ 2_ 5__ 2_  5__ 2_ 5__ 2_ |
+    | 4__ 1_ 4__ 1_  5__ 2_ 5__ 2_ | 6__ - - - - - - - |
+}
+
+Scene3_OceanVoyage_Ocean_Theme_Counterpoint:Strings@|0|{
+    <4*>
+    [Am] - - - | [Em] - - - | [F] - [G] - | [Am] - - - |
+    [Am] - - - | [Em] - - - | [F] - [G] - | [Am] - - - |
+}
+
+Scene3_OceanVoyage_Ocean_Theme_Counterpoint:Seashore@|0|{
+    <1*>
+    1 | 1 | 1 | 1 |
+    1 | 1 | 1 | 1 |
+}
+
+
+Scene3_OceanVoyage_Ocean_Theme_FullSwell:Horn@|0|{
+    <4*>
+    | 3 2 1 7_ | 1 7_ 6_ 5_ | 6_ 6_ 5_ 2 | 1 7_ 5_ 6_ |
+}
+
+Scene3_OceanVoyage_Ocean_Theme_FullSwell:Violin@|0|{
+    <4*>
+    | 3^ 2^ 1^ 7 | 1^ 7 6 5 | 6 6 5 2^ | 1^ 7 5 6 |
+}
+
+Scene3_OceanVoyage_Ocean_Theme_FullSwell:Flute@|0|{
+    <8*>
+    | 3^ 5^ 6^ 1^^  3^^ 1^^ 6^ 5^ | 2^ 5^ 7^ 2^^  5^^ 2^^ 7^ 5^ |
+    | 1^ 4^ 6^ 1^^  2^ 5^ 7^ 2^^  | 6^ 1^^ 3^^ 1^^  6^ - - - |
+}
+
+Scene3_OceanVoyage_Ocean_Theme_FullSwell:Cello@|0|{
+    <4*>
+    | 6__ - - - | 5__ - - - |
+    | 4__ - 5__ - | 6__ - - - |
+}
+
+Scene3_OceanVoyage_Ocean_Theme_FullSwell:Strings@|0|{
+    <4*>
+    [Am] - - - | [G] - - - |
+    [F] - [G] - | [Am] - - - |
+}
+
+Scene3_OceanVoyage_Ocean_Theme_FullSwell:Seashore@|0|{
+    <1*>
+    1 | 1 | 1 | 1 |
+}
+
+
+Scene3_OceanVoyage_Ocean_Fade_Into_Distance:Flute@|0|{
+    <4*>
+    | 3^ 2^ 1^ 7 | 1^ 7 6 5 |
+    | 6 - - - | 0 - - - |
+}
+
+Scene3_OceanVoyage_Ocean_Fade_Into_Distance:Clarinet@|0|{
+    <4*>
+    | 0 - - - | 3 2 1 7_ |
+    | 6_ - - - | 0 - - - |
+}
+
+Scene3_OceanVoyage_Ocean_Fade_Into_Distance:Cello@|0|{
+    <4*>
+    | 6__ - - - | 5__ - - - |
+    | 6__ - - - | 6__ 0 0 0 |
+}
+
+Scene3_OceanVoyage_Ocean_Fade_Into_Distance:Strings@|0|{
+    <4*>
+    [Am] - - - | [Em] - - - |
+    [Am] - - - | [Am] 0 0 0 |
+}
+
+Scene3_OceanVoyage_Ocean_Fade_Into_Distance:Seashore@|0|{
+    <1*>
+    1 | 1 | 1 | 0 |
+}
+
+/* === Scene4_SnowBattle === */
+Scene4_SnowBattle_Snow_Wind_Whisper:Piano@|0|{
+    <16*>
+    | 3^^ 2^^ 1^^ 7^  6^ 5^ 4^ 3^  2^ 1^ 7 6  5 4 3 2 | 1 - - - 0 - - -  0 - - - 0 - - - |
+}
+
+
+Scene4_SnowBattle_Snow_Deadly_Piano:Piano@|0|{
+    <1*>
+    3^ | 3^ | 3^ | 3^ |
+}
+
+Scene4_SnowBattle_Snow_Deadly_Piano:Cello@|0|{
+    <1*>
+    6__ | 6__ |
+    6__ | 3__ |
+}
+
+Scene4_SnowBattle_Snow_Deadly_Piano:Strings@|0|{
+    <1*>
+    [Am] | [Am] |
+    [Am] | [Em] |
+}
+
+
+Scene4_SnowBattle_Snow_War_Explosion:Timpani@|0|{
+    <16*>
+    
+    | 1__ - 1__ 0  0 1__ 1__ 0  1__ 1__ 1__ 0  1__ 0 0 0 |
+    
+    | 0 1__ 0 0  1__ 1__ 0 1__  0 0 1__ 1__  1__ 1__ 1__ 0 |
+    
+    | 1__ - - -  0 0 1__ 0  1__ - - -  0 0 0 0 |
+    
+    | 1__ 0 1__ 1__  0 1__ 0 0  1__ 1__ 0 1__  1__ 0 1__ 0 |
+    
+    | 1__ 1__ 1__ 0  0 1__ 1__ 1__  1__ 0 0 1__  0 1__ 0 0 |
+    
+    | 1__ - 0 0  1__ 0 0 1__  0 0 0 0  1__ 0 0 0 |
+    
+    | 1__ - 1__ 0  0 0 1__ -  1__ 0 0 0  0 - - - |
+}
+
+
+Scene4_SnowBattle_Snow_War_Explosion:Piano@|0|{
+    <4*>
+    | 3^ 0 0 0 | 3^ 0 3^ 0 |
+    | 3^ 3^ 3^ 3^ | 3^ - 3^ 0 |
+    | 3^ 0 3^ 0 | 3^ 3^ 3^ 0 |
+    | 3^ 3^ 3^ 3^ | 3^ 0 0 0 |
+}
+
+/* === Scene5_SiegeChangchun === */
+Scene5_SiegeChangchun_Siege_Cold_Hunger:Cello@|0|{
+    <4*>
+    | 6__ - - - | 4__ - - - |
+    | 2__ - - - | 3__ - - - |
+}
+
+Scene5_SiegeChangchun_Siege_Cold_Hunger:Strings@|0|{
+    <4*>
+    [Am] - - - | [F] - - - |
+    [Dm] - - - | [E7] - - - |
+}
+
+Scene5_SiegeChangchun_Siege_Cold_Hunger:Timpani@|0|{
+    <4*>
+    
+    | 1__ 0 0 0 | 1__ 0 0 0 |
+    | 1__ 0 0 0 | 1__ - - 0 |
+}
+
+
+Scene5_SiegeChangchun_Siege_Army_Dirge:Trumpet@|0|{
+    <4*>
+    
+    | 0 - 0 (5_ 1)%(-) | (1. 2)%(-) 3 - 1 | 5_ 5_ (2. 1)%(-) 7_ | 2 5 - 0 |
+    
+    | 0 - 0 (1 1)%(-) | 6 5 4 (2. 2)%(-) | 5 (3. 1)%(-) 2 3 | 1 0 (3. 2)%(-) (1. 7_)%(-) |
+    
+    | 6_ 0 (2. 6_)%(-) (7_. 6_)%(-) |
+    
+    | 5_ 0 5_ (7_. 3)%(-) | 5 - - (5 1 3)%(-) | 6 - - (0. 2)%(-) | 5 (3. 1)%(-) 2 - | 1 - - 0 |
+}
+
+Scene5_SiegeChangchun_Siege_Army_Dirge:Piano@|0|{
+    <4*>
+    
+    | 0 - - - | [Am] - - - | [F] - - - | [Em] - - - |
+    | [Am] - - - | [Dm] - - - | [C] - [G] - | [Am] - - - |
+    | [Dm] - [Am] - |
+    | [Em] - - - | [Am] - [F] - | [Dm] - - - | [E7] - - - | [Am] - - - |
+}
+
+Scene5_SiegeChangchun_Siege_Army_Dirge:Cello@|0|{
+    <4*>
+    | 0 - - - | 6__ - - - | 4__ - - - | 3__ - - - |
+    | 6__ - - - | 2__ - - - | 1_ - 5__ - | 6__ - - - |
+    | 2__ - 6__ - |
+    | 3__ - - - | 6__ - 4__ - | 2__ - - - | 3__ - - - | 6__ - - - |
+}
+
+Scene5_SiegeChangchun_Siege_Army_Dirge:Strings@|0|{
+    <4*>
+    | 0 - - - | [Am] - - - | [F] - - - | [Em] - - - |
+    | [Am] - - - | [Dm] - - - | [C] - [G] - | [Am] - - - |
+    | [Dm] - [Am] - |
+    | [Em] - - - | [Am] - [F] - | [Dm] - - - | [E7] - - - | [Am] - - - |
+}
+
+Scene5_SiegeChangchun_Siege_Army_Dirge:Drums@|0|{
+    <4*>
+    
+    | 0 - - - | A 0 S 0 | A 0 0 0 | A 0 S 0 |
+    | A 0 0 0 | A 0 S 0 | A 0 S 0 | A 0 0 0 |
+    | A 0 S 0 |
+    | A 0 0 0 | A 0 S 0 | A 0 S 0 | A 0 0 0 | B - - - |
+}
+
+
+Scene5_SiegeChangchun_Siege_Collapse_Death:Tuba@|0|{
+    <4*>
+    | 6___ - - - | 4___ - - - |
+    | 3___ - - - | 6___ - - - |
+    | 6___ - - - | 0 - - - |
+}
+
+Scene5_SiegeChangchun_Siege_Collapse_Death:Horn@|0|{
+    <4*>
+    | 1 - - 5_ | 1 - - - |
+    | 7_ - - - | 6_ - - - |
+    | 0 - - - | 0 - - - |
+}
+
+Scene5_SiegeChangchun_Siege_Collapse_Death:Strings@|0|{
+    <4*>
+    [Am] - - - | [Dm] - - - |
+    [E7] - - - | [Am] - - - |
+    [Am] - - - | [Am] - - - |
+}
+
+Scene5_SiegeChangchun_Siege_Collapse_Death:Timpani@|0|{
+    <4*>
+    | 1__ - - - | 0 - - - |
+    | 1__ - - - | 1__ 0 0 0 |
+    | 1__ - - - | 0 - - - |
+}
+
+Scene5_SiegeChangchun_Siege_Collapse_Death:Seashore@|0|{
+    <1*>
+    0 | 0 |
+    0 | 0 |
+    1 | 1 |
+}
+
+/* === Scene6_OceanFugue === */
+Scene6_OceanFugue_Fugue_Exposition:Cello@|0|{
+    <4*>
+    
+    | 3_ 6_ 5_ 3_ | 6_ - - 7__ | 5_ 3_ 3_ 1 | 2 7_ 7_ 5_ |
+    
+    | 6__ - - - | 5__ - - - | 4__ - 5__ - | 6__ - - - |
+}
+
+Scene6_OceanFugue_Fugue_Exposition:Clarinet@|0|{
+    <4*>
+    
+    | 0 - - - | 0 - - - | 0 - - - | 0 - - - |
+    
+    | 3 2 1 7_ | 1 7_ 6_ 5_ | 6_ 6_ 5_ 2 | 1 7_ 5_ 6_ |
+}
+
+Scene6_OceanFugue_Fugue_Exposition:Strings@|0|{
+    <4*>
+    [Am] - [Em] - | [F] - [C] - | [Dm] - [Am] - | [E7] - - - |
+    [Am] - - -    | [Em] - - - | [F] - [G] -   | [Am] - - - |
+}
+
+Scene6_OceanFugue_Fugue_Exposition:Seashore@|0|{
+    <1*>
+    1 | 1 | 1 | 1 |
+    1 | 1 | 1 | 1 |
+}
+
+
+Scene6_OceanFugue_Fugue_Counterpoint:Flute@|0|{
+    <4*>
+    
+    | 3^ 2^ 1^ 7 | 1^ 7 6 5 | 6 6 5 2^ | 1^ 7 5 6 |
+    | 3^ 2^ 1^ 7 | 1^ 7 6 5 | 6 6 5 2^ | 1^ 7 5 6 |
+}
+
+Scene6_OceanFugue_Fugue_Counterpoint:Horn@|0|{
+    <4*>
+    
+    | 3 6 5 3 | 6 - - 7_ | 5 3 3 1 | 2 7_ 7_ 5_ |
+    | 3 6 5 3 | 6 - - 7_ | 5 3 3 1 | 2 7_ 2 6_ |
+}
+
+Scene6_OceanFugue_Fugue_Counterpoint:Clarinet@|0|{
+    <8*>
+    
+    | 3 6 1^ 6  3 6 1^ 6 | 2 5 7 5  2 5 7 5 |
+    | 1 4 6 4  2 5 7 5   | 3 6 1^ 6  3 6 1^ 6 |
+    | 3 6 1^ 6  3 6 1^ 6 | 2 5 7 5  2 5 7 5 |
+    | 1 4 6 4  2 5 7 5   | 3 6 1^ 6  3 6 1^ 6 |
+}
+
+Scene6_OceanFugue_Fugue_Counterpoint:Cello@|0|{
+    <4*>
+    | 6__ - - - | 5__ - - - | 4__ - 5__ - | 6__ - - - |
+    | 6__ - - - | 5__ - - - | 4__ - 5__ - | 6__ - - - |
+}
+
+Scene6_OceanFugue_Fugue_Counterpoint:Strings@|0|{
+    <4*>
+    [Am] - - - | [Em] - - - | [F] - [G] - | [Am] - - - |
+    [Am] - - - | [Em] - - - | [F] - [G] - | [Am] - - - |
+}
+
+Scene6_OceanFugue_Fugue_Counterpoint:Seashore@|0|{
+    <1*>
+    1 | 1 | 1 | 1 |
+    1 | 1 | 1 | 1 |
+}
+
+
+Scene6_OceanFugue_Fugue_Ocean_Swell:Violin@|0|{
+    <4*>
+    
+    | 3^ 6^ 5^ 3^ | 6^ - - 7^ | 5^ 3^ 3^ 1^ | 2^ 7 7 5 |
+    | 3^ 6^ 5^ 3^ | 6^ - - 7^ | 5^ 3^ 3^ 1^ | 2^ 7 2 6_ |
+}
+
+Scene6_OceanFugue_Fugue_Ocean_Swell:Trumpet@|0|{
+    <4*>
+    
+    | 3^ 2^ 1^ 7 | 1^ 7 6 5 | 6 6 5 2^ | 1^ 7 5 6 |
+    | 3^ 2^ 1^ 7 | 1^ 7 6 5 | 6 6 5 2^ | 1^ 7 5 6 |
+}
+
+Scene6_OceanFugue_Fugue_Ocean_Swell:Horn@|0|{
+    <4*>
+    | 3 6 5 3 | 6 - - 7 | 5 3 3 1^ | 2 7_ 7_ 5_ |
+    | 3 6 5 3 | 6 - - 7 | 5 3 3 1^ | 2 5 6 - |
+}
+
+Scene6_OceanFugue_Fugue_Ocean_Swell:Cello@|0|{
+    <8*>
+    | 6__ 3_ 6__ 3_  6__ 3_ 6__ 3_ | 5__ 2_ 5__ 2_  5__ 2_ 5__ 2_ |
+    | 4__ 1_ 4__ 1_  5__ 2_ 5__ 2_ | 6__ 3_ 6__ 3_  6__ 3_ 6__ 3_ |
+    | 6__ 3_ 6__ 3_  6__ 3_ 6__ 3_ | 5__ 2_ 5__ 2_  5__ 2_ 5__ 2_ |
+    | 4__ 1_ 4__ 1_  5__ 2_ 5__ 2_ | 6__ 3_ 6__ 3_  6__ - - - |
+}
+
+Scene6_OceanFugue_Fugue_Ocean_Swell:Strings@|0|{
+    <4*>
+    [Am] - - - | [Em] - - - | [F] - [G] - | [Am] - - - |
+    [Am] - - - | [Em] - - - | [F] - [G] - | [Am] - - - |
+}
+
+Scene6_OceanFugue_Fugue_Ocean_Swell:Timpani@|0|{
+    <4*>
+    | 1__ - - - | 1__ - - - |
+    | 1__ 0 1__ 0 | 1__ - - 0 |
+    | 1__ - - - | 1__ - - - |
+    | 1__ 1__ 1__ 1__ | 1__ - - - |
+}
+
+Scene6_OceanFugue_Fugue_Ocean_Swell:Seashore@|0|{
+    <1*>
+    1 | 1 | 1 | 1 |
+    1 | 1 | 1 | 1 |
+}
+
+
+Scene6_OceanFugue_Fugue_Coda:Clarinet@|0|{
+    <4*>
+    
+    | 3 6 5 3 | 6 - - - |
+    | 2 7_ 2 6_ | 5_ - - - |
+}
+
+Scene6_OceanFugue_Fugue_Coda:Flute@|0|{
+    <4*>
+    
+    | 0 - - - | 3^ 2^ 1^ 7 |
+    | 1^ 7 5 6 | 0 - - - |
+}
+
+Scene6_OceanFugue_Fugue_Coda:Cello@|0|{
+    <4*>
+    | 6__ - - - | 5__ - - - |
+    | 4__ - - - | 1_ - - - |
+}
+
+Scene6_OceanFugue_Fugue_Coda:Strings@|0|{
+    <4*>
+    [Am] - - - | [Em] - - - |
+    [F] - - -  | [C] - - -  |
+}
+
+Scene6_OceanFugue_Fugue_Coda:Seashore@|0|{
+    <1*>
+    1 | 1 | 1 | 1 |
+}
+
+/* === Scene7_TaiwanFolk === */
+Scene7_TaiwanFolk_Taiwan_Island_Intro:Violin@|0|{
+    <8*>
+    | 1 3 5 3  1 3 5 3 | 2 5 7 5  2 5 7 5 |
+    | 1 3 5 3  1 3 5 3 | 1 5 1^ 5  1^ - - - |
+}
+
+Scene7_TaiwanFolk_Taiwan_Island_Intro:Clarinet@|0|{
+    <8*>
+    | 1 - - -  0 - - - | 0 - - -  0 - - - |
+    | 0 - - -  0 - - - | 0 0 5_ 1  2 - 3 - |
+}
+
+Scene7_TaiwanFolk_Taiwan_Island_Intro:Cello@|0|{
+    <4*>
+    | 1_ 0 1_ 0 | 5__ 0 5__ 0 |
+    | 1_ 0 1_ 0 | 1_ - - - |
+}
+
+Scene7_TaiwanFolk_Taiwan_Island_Intro:Strings@|0|{
+    <4*>
+    [C] - - - | [G] - - - |
+    [C] - - - | [C] - - - |
+}
+
+
+Scene7_TaiwanFolk_Taiwan_Folk_Melody_Woodwinds:Clarinet@|0|{
+    <8*>
+    | 1 - 1 5_  1 5_ 1 2 | 5 - 5 -  3 - - - |
+    | 1 - 1 5_  1 5_ 1 2 | 3 - 2 -  1 - - - |
+    | 1 - 1 5_  1 5_ 1 2 | 5 - 5 -  3 - - - |
+    | 1 - 1 5_  1 5_ 1 2 | 3 - 2 -  1 - - - |
+}
+
+Scene7_TaiwanFolk_Taiwan_Folk_Melody_Woodwinds:Flute@|0|{
+    <8*>
+    | 0 - - - - - - - | 0 - - - - - - - |
+    | 0 - - - - - - - | 0 - - - - - - - |
+    | 1^ - 1^ 5  1^ 5 1^ 2^ | 5^ - 5^ -  3^ - - - |
+    | 1^ - 1^ 5  1^ 5 1^ 2^ | 3^ - 2^ -  1^ - - - |
+}
+
+Scene7_TaiwanFolk_Taiwan_Folk_Melody_Woodwinds:Cello@|0|{
+    <8*>
+    | 1_ - - -  5__ - - - | 5__ - - -  1_ - - - |
+    | 4__ - - -  5__ - - - | 1_ - 5__ -  1_ - - - |
+    | 1_ - - -  5__ - - - | 5__ - - -  1_ - - - |
+    | 4__ - - -  5__ - - - | 1_ - 5__ -  1_ - - - |
+}
+
+Scene7_TaiwanFolk_Taiwan_Folk_Melody_Woodwinds:Strings@|0|{
+    <4*>
+    [C] - [G] - | [G] - [C] - |
+    [F] - [G] - | [C] - - - |
+    [C] - [G] - | [G] - [C] - |
+    [F] - [G] - | [C] - - - |
+}
+
+
+Scene7_TaiwanFolk_Taiwan_Folk_Tutti_Warmth:Violin@|0|{
+    <8*>
+    | 1^ - 1^ 5  1^ 5 1^ 2^ | 5^ - 5^ -  3^ - - - |
+    | 1^ - 1^ 5  1^ 5 1^ 2^ | 3^ - 2^ -  1^ - - - |
+    | 1^ - 1^ 5  1^ 5 1^ 2^ | 5^ - 5^ -  3^ - - - |
+    | 1^ - 1^ 5  1^ 5 1^ 2^ | 3^ - 2^ -  1^ - - - |
+}
+
+Scene7_TaiwanFolk_Taiwan_Folk_Tutti_Warmth:Horn@|0|{
+    <8*>
+    | 1 - 1 5_  1 5_ 1 2 | 5 - 5 -  3 - - - |
+    | 1 - 1 5_  1 5_ 1 2 | 3 - 2 -  1 - - - |
+    | 1 - 1 5_  1 5_ 1 2 | 5 - 5 -  3 - - - |
+    | 1 - 1 5_  1 5_ 1 2 | 3 - 2 -  1 - - - |
+}
+
+Scene7_TaiwanFolk_Taiwan_Folk_Tutti_Warmth:Flute@|0|{
+    <8*>
+    | 3^ 5^ 1^^ 5^  3^ 5^ 1^^ 2^^ | 5^^ - 5^^ -  3^^ - - - |
+    | 3^ 5^ 1^^ 5^  3^ 5^ 1^^ 2^^ | 3^^ - 2^^ -  1^^ - - - |
+    | 3^ 5^ 1^^ 5^  3^ 5^ 1^^ 2^^ | 5^^ - 5^^ -  3^^ - - - |
+    | 3^ 5^ 1^^ 5^  3^ 5^ 1^^ 2^^ | 3^^ - 2^^ -  1^^ - - - |
+}
+
+Scene7_TaiwanFolk_Taiwan_Folk_Tutti_Warmth:Tuba@|0|{
+    <8*>
+    /* 大象踏上台灣泥土的厚重步伐融入民謠齊奏 */
+    | 5__ 5__ 5__ 5__  5__ 3__ 2__ 3__ | 1__ - - - - - - - |
+    | 6___ 1__ 2__ 3__  5__ 3__ 2__ 3__ | 1__ - - - - - - - |
+    | 5__ 5__ 5__ 5__  5__ 3__ 2__ 3__ | 1__ - - - - - - - |
+    | 6___ 1__ 2__ 3__  5__ 3__ 2__ 3__ | 1__ - - - - - - - |
+}
+
+Scene7_TaiwanFolk_Taiwan_Folk_Tutti_Warmth:Cello@|0|{
+    <8*>
+    | 1_ 5_ 1_ 5_  5__ 2_ 5__ 2_ | 5__ 2_ 5__ 2_  1_ 5_ 1_ 5_ |
+    | 4__ 1_ 4__ 1_  5__ 2_ 5__ 2_ | 1_ 5_ 5__ 2_  1_ - - - |
+    | 1_ 5_ 1_ 5_  5__ 2_ 5__ 2_ | 5__ 2_ 5__ 2_  1_ 5_ 1_ 5_ |
+    | 4__ 1_ 4__ 1_  5__ 2_ 5__ 2_ | 1_ 5_ 5__ 2_  1_ - - - |
+}
+
+Scene7_TaiwanFolk_Taiwan_Folk_Tutti_Warmth:Strings@|0|{
+    <4*>
+    [C] - [G] - | [G] - [C] - |
+    [F] - [G] - | [C] - - - |
+    [C] - [G] - | [G] - [C] - |
+    [F] - [G] - | [C] - - - |
+}
+
+
+Scene7_TaiwanFolk_Taiwan_Welcoming_Echo:Clarinet@|0|{
+    <4*>
+    /* 單簧管與長笛讓出高頻，以柔和長音與最後的宗治動機相呼應 */
+    | 1 - - - | 0 - - - |
+    | 0 - - - | 1 - - - |
+}
+
+Scene7_TaiwanFolk_Taiwan_Welcoming_Echo:Flute@|0|{
+    <4*>
+    | 3^ - - - | 2^ - - - |
+    | 1^ - - - | 1^ - - - |
+}
+
+Scene7_TaiwanFolk_Taiwan_Welcoming_Echo:Cello@|0|{
+    <4*>
+    /* 宗治主題清晰浮現：廣東文人的深情回望，隨後安然落入島嶼大調 */
+    | 3_ 6_ 5_ 3_ | 6_ - - 7__ |
+    | 5_ 3_ 2_ 3_ | 1_ - - - |
+}
+
+Scene7_TaiwanFolk_Taiwan_Welcoming_Echo:Strings@|0|{
+    <4*>
+    [F] - [G] - | [Am] - - - |
+    [F] - [G] - | [C] - - - |
+}
