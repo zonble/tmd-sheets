@@ -25,6 +25,6 @@
 - 1955 年宗治二哥身上的七顆燃燒彈 (seven_bombs_1955.tmd)
 - 將軍的主題變奏（英雄幽禁：general_theme_variation.tmd）
 - 大象與宗治的童謠賦格 (elephant_zongzhi_nursery_fugue.tmd)
-- 宗治的主題變奏
+- 宗治的主題變奏（大園空難・極度哀慟：zongzhi_theme_variation.tmd）
 - 大象的主題變奏
 - 回憶的主題（「我」的主題：memory_theme.tmd）
