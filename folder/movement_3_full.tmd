@@ -1,0 +1,1181 @@
+::SCORE::
+** Zongzhi's October 1945 - Movement III: The Red Curtain, The Fire, The General and The Legacy **
+** (第三樂章：紅幕、烈火、將軍與遺產・全劇終章) **
+
+!= 72
+?= C
+<4/4>
+
+/* 
+ * ===================================================================
+ * 宗治的 1945 年 10 月
+ * 第三樂章：紅幕、烈火、將軍與遺產（完整總譜）
+ *
+ * 【章節結構】
+ * 第一景：時空之門（回憶的主題 / 「我」的主題）
+ * 第二景：東方紅主題（陰沉小調冷酷狂飆）
+ * 第三景：1955 年宗治二哥身上的七顆燃燒彈
+ * 第四景：將軍的主題變奏（英雄幽禁：隔著鐵幕的殘陽軍禮）
+ * 第五景：大象與宗治的童謠賦格（32121 序奏、林旺與宗治歡樂賦格）
+ * 第六景：宗治的主題變奏（大園 1998・極度哀慟）
+ * 第七景：大象的主題變奏（老象長眠・平靜的告別）
+ * 第八景：全劇終幕：回憶與遺產・宏大終曲（Legacy 交響齊鳴・最後的 32121 與 3211）
+ * ===================================================================
+ */
+
+-> Scene1_Memory_Memory_Solo_Piano
+-> Scene1_Memory_Memory_Full_Ensemble
+-> Scene1_Memory_Memory_Handoff_To_Zongzhi
+-> Scene2_RedEast_RedEast_Gale_Intro
+-> Scene2_RedEast_RedEast_March_Build
+-> Scene2_RedEast_RedEast_Storm_Tutti
+-> Scene2_RedEast_RedEast_Iron_Curtain_End
+-> Scene3_SevenBombs_SevenBombs_Impacts_1_to_3
+-> Scene3_SevenBombs_SevenBombs_Impacts_4_to_6
+-> Scene3_SevenBombs_SevenBombs_Seventh_Final_Blast
+-> Scene3_SevenBombs_SevenBombs_Burning_Ashes_Dirge
+-> Scene4_GeneralVariation_General_Proud_March
+-> Scene4_GeneralVariation_General_Fall_Disruption
+-> Scene4_GeneralVariation_General_Confinement_Variation
+-> Scene4_GeneralVariation_General_Distant_Brass_Salute
+-> Scene4_GeneralVariation_General_Silent_Echo
+-> Scene5_NurseryFugue_Nursery_32121_Solo
+-> Scene5_NurseryFugue_Fugue_Subject_Zongzhi
+-> Scene5_NurseryFugue_Fugue_Answer_Elephant
+-> Scene5_NurseryFugue_Fugue_Tutti_Joy
+-> Scene5_NurseryFugue_Fugue_Coda
+-> Scene6_ZongzhiDayuan_Dayuan_Night_Omen
+-> Scene6_ZongzhiDayuan_Zongzhi_Elegy_Cello
+-> Scene6_ZongzhiDayuan_Ashes_Desolation
+-> Scene6_ZongzhiDayuan_Unanswered_Cry
+-> Scene7_ElephantFarewell_Elder_Elephant_Theme
+-> Scene7_ElephantFarewell_Farewell_Gentle_Giant
+-> Scene8_LegacyEpilogue_Epilogue_Piano_Solitude
+-> Scene8_LegacyEpilogue_Epilogue_Existential_Cry
+-> Scene8_LegacyEpilogue_Epilogue_Grand_Chorus_Legacy
+-> Scene8_LegacyEpilogue_Epilogue_Final_Farewell
+-> #
+
+
+/* === Scene1_Memory === */
+Scene1_Memory_Memory_Solo_Piano:Piano@|0|{
+    <4*>
+    /* 前半段：一聲長嘆，思緒回到從前 */
+    | 0 3 2 1 | 2 1 - - | 0 (3 3)%(-) 2 1 | 2 1 5_ - |
+    | 0 3 2 3 | 5 - 3 - | 2 - 5 - | 3 - - - |
+}
+
+Scene1_Memory_Memory_Solo_Piano:Strings@|0|{
+    <1*>
+    [C] | [Am] | [F] | [C] |
+    [Em] | [Am] | [G] | [C] |
+}
+
+Scene1_Memory_Memory_Solo_Piano:Cello@|0|{
+    <1*>
+    1_ | 6__ | 4__ | 1_ |
+    3__ | 6__ | 5__ | 1_ |
+}
+
+Scene1_Memory_Memory_Full_Ensemble:Clarinet@|0|{
+    <4*>
+    /* 後半段：思念綿延，走向那個懸在半空的 6_ */
+    | 0 3 2 1 | 2 1 - - | 0 (3 3)%(-) 2 1 | (2 2)%(-) 1 5_ - |
+    | 0 3 2 1 | 7_ - 5_ - | 7_ - 2 3 | 1 6_ - - |
+}
+
+Scene1_Memory_Memory_Full_Ensemble:Piano@|0|{
+    <8*>
+    | 1 3 5 3  1 3 5 3 | 6_ 1 3 1  6_ 1 3 1 | 4_ 6_ 1 6_  4_ 6_ 1 6_ | 1 3 5 3  5_ 1 3 1 |
+    | 6_ 1 3 1  6_ 1 3 1 | 5_ 7_ 2 7_  5_ 2 7_ 2 | 5_ 7_ 2 7_  5_ 2 3 2 | 6_ 1 3 1  6_ - - - |
+}
+
+Scene1_Memory_Memory_Full_Ensemble:Strings@|0|{
+    <4*>
+    [C] - [C] - | [Am] - [Am] - | [F] - [F] - | [C] - [G] - |
+    [Am] - [Am] - | [Em] - [G] - | [G] - [Em] - | [Am] - - - |
+}
+
+Scene1_Memory_Memory_Full_Ensemble:Cello@|0|{
+    <1*>
+    1_ | 6__ | 4__ | 1_ |
+    6__ | 3__ | 5__ | 6__ |
+}
+
+Scene1_Memory_Memory_Handoff_To_Zongzhi:Flute@|0|{
+    <4*>
+    | 0 3 2 1 | 2 1 - - | 0 2 3 2 | 6_ - - - |
+}
+
+Scene1_Memory_Memory_Handoff_To_Zongzhi:Piano@|0|{
+    <4*>
+    | 0 - - - | 0 - - - | 0 - - - | 6_ 3_ 6__ - |
+}
+
+Scene1_Memory_Memory_Handoff_To_Zongzhi:Strings@|0|{
+    <1*>
+    [F] | [C] | [Esus4] | [Am] |
+}
+
+Scene1_Memory_Memory_Handoff_To_Zongzhi:Cello@|0|{
+    <1*>
+    4__ | 1_ | 3__ | 6__ |
+}
+
+
+/* === Scene2_RedEast === */
+Scene2_RedEast_RedEast_Gale_Intro:Tuba@|0|{
+    <4*>
+    | 6___ - - - | 0 - - - |
+    | 3___ - - - | 0 - - - |
+    | 6___ - - - | 4___ - - - |
+    | 3___ - - - | 6___ 0 0 0 |
+}
+
+Scene2_RedEast_RedEast_Gale_Intro:Trombone@|0|{
+    <4*>
+    | 0 - - - | 0 - - - |
+    | 0 - - - | 0 - - - |
+    | 6__ - - - | 3__ - - - |
+    | 3__ - - - | 6__ 0 0 0 |
+}
+
+Scene2_RedEast_RedEast_Gale_Intro:Timpani@|0|{
+    <4*>
+    /* 沉悶心跳與孤立單音敲擊 */
+    | 6__ 0 0 0 | 0 - - - |
+    | 3__ 0 0 0 | 0 - - - |
+    | 6__ 0 0 0 | 4__ 0 0 0 |
+    | 3__ 0 0 0 | 6__ 0 6__ 0 |
+}
+
+Scene2_RedEast_RedEast_Gale_Intro:Cello@|0|{
+    <4*>
+    | 6__ - - - | 0 - - - |
+    | 3__ - - - | 0 - - - |
+    | 6__ - - - | 4__ - - - |
+    | 3__ - - - | 6__ 0 0 0 |
+}
+
+Scene2_RedEast_RedEast_Gale_Intro:Piano@|0|{
+    <4*>
+    /* 鋼琴極低音區單音沉重敲擊 */
+    | 6___ 0 0 0 | 0 - - - |
+    | 3___ 0 0 0 | 0 - - - |
+    | 6___ 0 0 0 | 4___ 0 0 0 |
+    | 3___ 0 0 0 | 6___ 0 0 0 |
+}
+
+Scene2_RedEast_RedEast_Gale_Intro:Strings@|0|{
+    <4*>
+    | 0 - - - | 0 - - - |
+    | 0 - - - | 0 - - - |
+    [Am] - - - | [F] - - - |
+    [E7] - - - | [Am] 0 0 0 |
+}
+
+Scene2_RedEast_RedEast_March_Build:Trumpet@|0|{
+    <4*>
+    | 1^ (1^ 2^)%(-) 5 - | 4 (4 2)%(-) 3 - |
+    | 6 6 3 2 | 1 7_ 6_ 7_ |
+    | 1 3 2 1 | 7_ - - - |
+    | 6_ 7_ 1 7_ | 6_ - - - |
+}
+
+Scene2_RedEast_RedEast_March_Build:Horn@|0|{
+    <4*>
+    | 1 (1 2)%(-) 5_ - | 4_ (4_ 2_)%(-) 3_ - |
+    | 0 - - - | 0 - - - |
+    | 6_ 1 7_ 6_ | 5_ - - - |
+    | 4_ 5_ 6_ 5_ | 6_ - - - |
+}
+
+Scene2_RedEast_RedEast_March_Build:Bassoon@|0|{
+    <8*>
+    | 6__ 3_ 6__ 3_  6__ 3_ 6__ 3_ | 4__ 1_ 4__ 1_  3__ 7__ 3__ 7__ |
+    | 6__ 3_ 6__ 3_  6__ 3_ 6__ 3_ | 6__ 3_ 6__ 3_  3__ 7__ 3__ 7__ |
+    | 6__ 3_ 6__ 3_  6__ 3_ 6__ 3_ | 3__ 7__ 3__ 7__  3__ - - - |
+    | 4__ 1_ 4__ 1_  3__ 7__ 3__ 7__ | 6__ 3_ 6__ 3_  6__ - - - |
+}
+
+Scene2_RedEast_RedEast_March_Build:Cello@|0|{
+    <4*>
+    | 6__ 0 3__ 0 | 4__ 0 3__ 0 |
+    | 6__ 0 3__ 0 | 6__ 0 3__ 0 |
+    | 6__ 0 3__ 0 | 3__ - - - |
+    | 4__ 0 3__ 0 | 6__ - - - |
+}
+
+Scene2_RedEast_RedEast_March_Build:Strings@|0|{
+    <4*>
+    [Am] - [Em] - | [F] - [E7] - |
+    [Am] - [Em] - | [Am] - [Em] - |
+    [Am] - [C] -  | [E7] - - - |
+    [F] - [E7] -  | [Am] - - - |
+}
+
+Scene2_RedEast_RedEast_March_Build:Drums@|0|{
+    <8*>
+    | A 0 S 0  A 0 S S | A 0 S 0  A 0 S S |
+    | A 0 S 0  A 0 S S | A S A S  A 0 S 0 |
+    | A 0 S 0  A 0 S S | A 0 S 0  A 0 S S |
+    | A 0 S 0  A 0 S S | A S A S  B - - - |
+}
+
+Scene2_RedEast_RedEast_March_Build:Timpani@|0|{
+    <4*>
+    | 6__ - 3__ - | 4__ - 3__ - |
+    | 6__ - 3__ - | 6__ 0 0 0 |
+    | 6__ - 1__ - | 3__ - - - |
+    | 4__ - 3__ - | 6__ 6__ 6__ 6__ |
+}
+
+Scene2_RedEast_RedEast_Storm_Tutti:Trumpet@|0|{
+    <4*>
+    | 1^ (1^ 2^)%(-) 5 - | 4 (4 2)%(-) 3 - |
+    | 6^ 6^ 3^ 2^ | 1^ 7 6 7 |
+    | 1^ 3^ 2^ 1^ | 7 - - - |
+    | 6 7 1^ 7 | 6 - - - |
+}
+
+Scene2_RedEast_RedEast_Storm_Tutti:Flute@|0|{
+    <4*>
+    | 1^^ (1^^ 2^^)%(-) 5^ - | 4^ (4^ 2^)%(-) 3^ - |
+    | 6^^ 6^^ 3^^ 2^^ | 1^^ 7^ 6^ 7^ |
+    | 1^^ 3^^ 2^^ 1^^ | 7^ - - - |
+    | 6^ 7^ 1^^ 7^ | 6^ - - - |
+}
+
+Scene2_RedEast_RedEast_Storm_Tutti:Horn@|0|{
+    <4*>
+    | 1 (1 2)%(-) 5_ - | 4_ (4_ 2_)%(-) 3_ - |
+    | 6 6 3 2 | 1 7_ 6_ 7_ |
+    | 6 1^ 7 6 | 5 - - - |
+    | 4 5 6 5 | 6 - - - |
+}
+
+Scene2_RedEast_RedEast_Storm_Tutti:Trombone@|0|{
+    <4*>
+    | 6_ - 3_ - | 4_ - 3_ - |
+    | 6_ - 3_ - | 6_ - 3_ - |
+    | 6_ - 1 -  | 3_ - - - |
+    | 4_ - 3_ - | 6_ - - - |
+}
+
+Scene2_RedEast_RedEast_Storm_Tutti:Tuba@|0|{
+    <4*>
+    | 6___ - 3___ - | 4___ - 3___ - |
+    | 6___ - 3___ - | 6___ - 3___ - |
+    | 6___ - 1___ - | 3___ - - - |
+    | 4___ - 3___ - | 6___ - - - |
+}
+
+Scene2_RedEast_RedEast_Storm_Tutti:Piano@|0|{
+    <8*>
+    | 6_ 1 3 1  3_ 7_ 2 7_ | 4_ 6_ 1 6_  3_ 7_ 2 7_ |
+    | 6_ 1 3 1  3_ 7_ 2 7_ | 6_ 1 3 1  3_ 7_ 2 7_ |
+    | 6_ 1 3 1  1 3 5 3    | 3_ 7_ 2 7_  3_ 7_ 2 7_ |
+    | 4_ 6_ 1 6_  3_ 7_ 2 7_ | 6_ 1 3 1  6_ - - - |
+}
+
+Scene2_RedEast_RedEast_Storm_Tutti:Strings@|0|{
+    <4*>
+    [Am] - [Em] - | [F] - [E7] - |
+    [Am] - [Em] - | [Am] - [Em] - |
+    [Am] - [C] -  | [E7] - - - |
+    [F] - [E7] -  | [Am] - - - |
+}
+
+Scene2_RedEast_RedEast_Storm_Tutti:Drums@|0|{
+    <8*>
+    | A 0 S 0  A 0 S S | A 0 S 0  A 0 S S |
+    | A 0 S 0  A 0 S S | A S A S  A 0 S 0 |
+    | A 0 S 0  A 0 S S | A 0 S 0  A 0 S S |
+    | A 0 S 0  A 0 S S | A S A S  B - B - |
+}
+
+Scene2_RedEast_RedEast_Storm_Tutti:Timpani@|0|{
+    <4*>
+    | 6__ 6__ 3__ 3__ | 4__ 4__ 3__ 3__ |
+    | 6__ 6__ 3__ 3__ | 6__ 6__ 3__ 3__ |
+    | 6__ 6__ 1__ 1__ | 3__ 3__ 3__ 3__ |
+    | 4__ 4__ 3__ 3__ | 6__ 6__ 6__ 6__ |
+}
+
+Scene2_RedEast_RedEast_Iron_Curtain_End:Trombone@|0|{
+    <4*>
+    | 3_ - - - | - - - - |
+    | 3_ - - - | 3_ 0 0 0 |
+}
+
+Scene2_RedEast_RedEast_Iron_Curtain_End:Trumpet@|0|{
+    <4*>
+    | 3 - - - | - - - - |
+    | 3 - - - | 3 0 0 0 |
+}
+
+Scene2_RedEast_RedEast_Iron_Curtain_End:Horn@|0|{
+    <4*>
+    | 7_ - - - | - - - - |
+    | 7_ - - - | 7_ 0 0 0 |
+}
+
+Scene2_RedEast_RedEast_Iron_Curtain_End:Tuba@|0|{
+    <4*>
+    | 3___ - - - | - - - - |
+    | 3___ - - - | 3___ 0 0 0 |
+}
+
+Scene2_RedEast_RedEast_Iron_Curtain_End:Timpani@|0|{
+    <4*>
+    | 3__ - - - | - - - - |
+    | 3__ - - - | 3__ 0 0 0 |
+}
+
+Scene2_RedEast_RedEast_Iron_Curtain_End:Strings@|0|{
+    <4*>
+    [E7] - - - | [E7] - - - |
+    [E7] - - - | [E7] 0 0 0 |
+}
+
+
+/* === Scene3_SevenBombs === */
+Scene3_SevenBombs_SevenBombs_Impacts_1_to_3:Timpani@|0|{
+    <4*>
+    /* 第 1 擊 */
+    | 1__ - 1__ 0 | 0 - - - |
+    /* 第 2 擊 */
+    | 1__ - 1__ 0 | 0 - - - |
+    /* 第 3 擊 (更沉重雙重轟擊) */
+    | 1__ 1__ 1__ 0 | 0 - - - |
+}
+
+Scene3_SevenBombs_SevenBombs_Impacts_1_to_3:Drums@|0|{
+    <4*>
+    /* 巨響爆炸聲 (B=Bass Drum, S=Snare shockwave) */
+    | B - S 0 | 0 - - - |
+    | B - S 0 | 0 - - - |
+    | B S B 0 | 0 - - - |
+}
+
+Scene3_SevenBombs_SevenBombs_Impacts_1_to_3:Piano@|0|{
+    <4*>
+    /* 極低音不協和音簇重砸 (Cluster Bomb) + 極高音尖嘯 */
+    | (1___ 2___ 3___)%(-) - - 0 | 0 - - - |
+    | (1___ 2___ 3___)%(-) - - 0 | 0 - - - |
+    | (1___ 2___ 3___)%(-) - - 0 | 0 - - - |
+}
+
+Scene3_SevenBombs_SevenBombs_Impacts_1_to_3:Strings@|0|{
+    <4*>
+    /* 烈火焚燒撕裂顫音 (Tremolo) */
+    | [Am] - - 0 | [Am] - - - |
+    | [Bdim] - - 0 | [Bdim] - - - |
+    | [F] - - 0 | [E7] - - - |
+}
+
+Scene3_SevenBombs_SevenBombs_Impacts_1_to_3:Trombone@|0|{
+    <4*>
+    | 0 - - - | 0 - - - |
+    | 0 - - - | 0 - - - |
+    | 6__ - - 0 | 3__ - - - |
+}
+
+Scene3_SevenBombs_SevenBombs_Impacts_1_to_3:Tuba@|0|{
+    <4*>
+    | 6___ - - 0 | 0 - - - |
+    | 6___ - - 0 | 0 - - - |
+    | 4___ - - 0 | 3___ - - - |
+}
+
+Scene3_SevenBombs_SevenBombs_Impacts_4_to_6:Timpani@|0|{
+    <4*>
+    /* 第 4 擊 */
+    | 1__ 1__ 1__ 1__ | 1__ 0 0 0 |
+    /* 第 5 擊 */
+    | 1__ 1__ 1__ 1__ | 1__ 0 0 0 |
+    /* 第 6 擊 */
+    | 1__ 1__ 1__ 1__ | 1__ 1__ 1__ 0 |
+}
+
+Scene3_SevenBombs_SevenBombs_Impacts_4_to_6:Drums@|0|{
+    <4*>
+    | B S B S | B 0 0 0 |
+    | B S B S | B 0 0 0 |
+    | B S B S | B S B 0 |
+}
+
+Scene3_SevenBombs_SevenBombs_Impacts_4_to_6:Piano@|0|{
+    <8*>
+    | 1___ 2___ 3___ 1___  0 - - - | 0 - - - - - - - |
+    | 1___ 2___ 3___ 1___  0 - - - | 0 - - - - - - - |
+    | 1___ 2___ 3___ 1___  0 - - - | 0 - - - - - - - |
+}
+
+Scene3_SevenBombs_SevenBombs_Impacts_4_to_6:Flute@|0|{
+    <4*>
+    /* 高空刺耳呼嘯下墜尖叫 */
+    | 3^^ - - 0 | 0 - - - |
+    | 4^^ - - 0 | 0 - - - |
+    | 5^^ - - 0 | 0 - - - |
+}
+
+Scene3_SevenBombs_SevenBombs_Impacts_4_to_6:Trumpet@|0|{
+    <4*>
+    | 0 - - - | 3^ 0 0 0 |
+    | 0 - - - | 4^ 0 0 0 |
+    | 0 - - - | 5^ 0 0 0 |
+}
+
+Scene3_SevenBombs_SevenBombs_Impacts_4_to_6:Trombone@|0|{
+    <4*>
+    | 6__ - - 0 | 0 - - - |
+    | 4__ - - 0 | 0 - - - |
+    | 3__ - - 0 | 0 - - - |
+}
+
+Scene3_SevenBombs_SevenBombs_Impacts_4_to_6:Tuba@|0|{
+    <4*>
+    | 6___ - - 0 | 0 - - - |
+    | 4___ - - 0 | 0 - - - |
+    | 3___ - - 0 | 0 - - - |
+}
+
+Scene3_SevenBombs_SevenBombs_Impacts_4_to_6:Strings@|0|{
+    <4*>
+    [Am] - [Dm] - | [E7] - - - |
+    [F] - [Bdim] - | [E7] - - - |
+    [Dm] - [E7] - | [Am] - [E7] - |
+}
+
+Scene3_SevenBombs_SevenBombs_Seventh_Final_Blast:Timpani@|0|{
+    <4*>
+    /* 第 7 擊：毀滅性連環重槌爆裂 */
+    | 1__ 1__ 1__ 1__ | 1__ 1__ 1__ 1__ |
+    | 1__ - - - | 0 - - - |
+}
+
+Scene3_SevenBombs_SevenBombs_Seventh_Final_Blast:Drums@|0|{
+    <4*>
+    | B S B S | B S B S |
+    | B - - - | 0 - - - |
+}
+
+Scene3_SevenBombs_SevenBombs_Seventh_Final_Blast:Piano@|0|{
+    <4*>
+    | (1___ 2___ 3___ 4___)%(-) - - - | - - - - |
+    | 0 - - - | 0 - - - |
+}
+
+Scene3_SevenBombs_SevenBombs_Seventh_Final_Blast:Trumpet@|0|{
+    <4*>
+    | 6^ - - - | - - - - |
+    | 0 - - - | 0 - - - |
+}
+
+Scene3_SevenBombs_SevenBombs_Seventh_Final_Blast:Flute@|0|{
+    <4*>
+    | 6^^ - - - | - - - - |
+    | 0 - - - | 0 - - - |
+}
+
+Scene3_SevenBombs_SevenBombs_Seventh_Final_Blast:Trombone@|0|{
+    <4*>
+    | 6_ - - - | - - - - |
+    | 0 - - - | 0 - - - |
+}
+
+Scene3_SevenBombs_SevenBombs_Seventh_Final_Blast:Tuba@|0|{
+    <4*>
+    | 6___ - - - | - - - - |
+    | 0 - - - | 0 - - - |
+}
+
+Scene3_SevenBombs_SevenBombs_Seventh_Final_Blast:Strings@|0|{
+    <4*>
+    [Am] - - - | - - - - |
+    [Am] - - - | [Am] 0 0 0 |
+}
+
+Scene3_SevenBombs_SevenBombs_Burning_Ashes_Dirge:Cello@|0|{
+    <4*>
+    /* 宗治主題在至親焦黑肉身前的無聲痛哭 */
+    | 3_ 6_ 5_ 3_ | 6_ - - 7__ |
+    | 5_ 3_ 2_ 1_ | 6__ - - - |
+}
+
+Scene3_SevenBombs_SevenBombs_Burning_Ashes_Dirge:Clarinet@|0|{
+    <4*>
+    | 0 - - - | 3 2 1 7_ |
+    | 1 7_ 6_ 5_ | 6_ - - - |
+}
+
+Scene3_SevenBombs_SevenBombs_Burning_Ashes_Dirge:Strings@|0|{
+    <4*>
+    [Am] - - - | [Dm] - - - |
+    [E7] - - - | [Am] - - - |
+}
+
+Scene3_SevenBombs_SevenBombs_Burning_Ashes_Dirge:Timpani@|0|{
+    <4*>
+    | 0 - - - | 0 - - - |
+    | 0 - - - | 1__ 0 0 0 |
+}
+
+
+/* === Scene4_GeneralVariation === */
+Scene4_GeneralVariation_General_Proud_March:Horn@|0|{
+    <4*>
+    | 6_ - 3 - | 5_ - 3 - | 4_ - 3 - | 5_ - 3 - |
+    | 6_ - 3 - | 5_ - 3 - | 4_ - 5_ - | 1 - - - |
+}
+
+Scene4_GeneralVariation_General_Proud_March:Trumpet@|0|{
+    <4*>
+    | 0 - - - | 0 - - - | 0 - - - | 0 - - - |
+    | 6 - 3^ - | 5 - 3^ - | 4 - 5 - | 1^ - - - |
+}
+
+Scene4_GeneralVariation_General_Proud_March:Flute@|0|{
+    <8*>
+    | 1 3 5 3  1 3 5 3 | 5_ 7_ 2 7_  5_ 7_ 2 7_ |
+    | 6_ 1 4 1  6_ 1 4 1 | 5_ 7_ 2 7_  5_ 7_ 2 7_ |
+    | 1 3 5 3  1 3 5 3 | 5_ 7_ 2 7_  5_ 7_ 2 7_ |
+    | 6_ 1 4 1  5_ 7_ 2 7_ | 1 3 5 1^  1 - - - |
+}
+
+Scene4_GeneralVariation_General_Proud_March:Strings@|0|{
+    <4*>
+    [C] - [C] - | [G] - [Em] - | [F] - [C] - | [G] - [G7] - |
+    [C] - [C] - | [G] - [Em] - | [F] - [G7] - | [C] - - - |
+}
+
+Scene4_GeneralVariation_General_Proud_March:Cello@|0|{
+    <4*>
+    | 1_ 0 5__ 0 | 7__ 0 5__ 0 | 6__ 0 1_ 0 | 7__ 0 5__ 0 |
+    | 1_ 0 5__ 0 | 7__ 0 5__ 0 | 4__ 0 5__ 0 | 1_ - - - |
+}
+
+Scene4_GeneralVariation_General_Proud_March:Drums@|0|{
+    <8*>
+    | A 0 S 0  A 0 S S | A 0 S 0  A 0 S S |
+    | A 0 S 0  A 0 S S | A 0 S 0  A S A S |
+    | A 0 S 0  A 0 S S | A 0 S 0  A 0 S S |
+    | A 0 S 0  A 0 S S | A S A S  B 0 0 0 |
+}
+
+Scene4_GeneralVariation_General_Proud_March:Timpani@|0|{
+    <4*>
+    | 1__ 0 5___ 0 | 5___ 0 1__ 0 | 4___ 0 5___ 0 | 5___ 0 1__ 0 |
+    | 1__ 0 5___ 0 | 5___ 0 1__ 0 | 4___ 0 5___ 0 | 1__ - - 0 |
+}
+
+Scene4_GeneralVariation_General_Fall_Disruption:Trumpet@|0|{
+    <4*>
+    | 1^ - - - | 7 - - - |
+    | 6 - - - | 6 - - - |
+}
+
+Scene4_GeneralVariation_General_Fall_Disruption:Horn@|0|{
+    <4*>
+    | 3 - - - | 2 - - - |
+    | 1 - - - | 7_ - - - |
+}
+
+Scene4_GeneralVariation_General_Fall_Disruption:Trombone@|0|{
+    <4*>
+    | 6__ - - - | 5__ - - - |
+    | 4__ - - - | 3__ - - - |
+}
+
+Scene4_GeneralVariation_General_Fall_Disruption:Tuba@|0|{
+    <4*>
+    | 6___ - - - | 5___ - - - |
+    | 4___ - - - | 3___ - - - |
+}
+
+Scene4_GeneralVariation_General_Fall_Disruption:Strings@|0|{
+    <4*>
+    [Am] - - - | [Em] - - - |
+    [F] - - -  | [E7] - - - |
+}
+
+Scene4_GeneralVariation_General_Fall_Disruption:Cello@|0|{
+    <4*>
+    | 6__ - - - | 5__ - - - |
+    | 4__ - - - | 3__ - - - |
+}
+
+Scene4_GeneralVariation_General_Fall_Disruption:Timpani@|0|{
+    <4*>
+    | 6__ - - - | 0 - - - |
+    | 4__ - - - | 3__ - - - |
+}
+
+Scene4_GeneralVariation_General_Confinement_Variation:Clarinet@|0|{
+    <4*>
+    /* 將軍動機小調變奏：昔日昂揚化為滄桑獨白 */
+    | 6_ - 3 - | 5_ - 3 - | 4_ - 3 - | 2_ - 3_ - |
+    | 6_ - 3 - | 5_ - 3 - | 4_ - 3_ - | 6__ - - - |
+}
+
+Scene4_GeneralVariation_General_Confinement_Variation:Flute@|0|{
+    <4*>
+    | 0 - - - | 0 - - - | 0 - - - | 0 - - - |
+    | 6 - 3^ - | 5 - 3^ - | 4 - 3 - | 1 - - - |
+}
+
+Scene4_GeneralVariation_General_Confinement_Variation:Cello@|0|{
+    <4*>
+    | 6__ - - - | 3__ - - - | 4__ - - - | 3__ - - - |
+    | 6__ - - - | 3__ - - - | 4__ - 3__ - | 6__ - - - |
+}
+
+Scene4_GeneralVariation_General_Confinement_Variation:Strings@|0|{
+    <4*>
+    [Am] - - - | [Em] - - - | [F] - - - | [Em] - [E7] - |
+    [Am] - - - | [Em] - - - | [F] - [E7] - | [Am] - - - |
+}
+
+Scene4_GeneralVariation_General_Distant_Brass_Salute:Horn@|0|{
+    <4*>
+    /* 遠方長空中的悲壯軍號 */
+    | 6 - 3^ - | 5 - 3^ - | 4 - 3^ - | 2 - 3 - |
+    | 6 - 3^ - | 5 - 3^ - | 4 - 3 -  | 1 - - - |
+}
+
+Scene4_GeneralVariation_General_Distant_Brass_Salute:Trombone@|0|{
+    <4*>
+    /* 長號低沉莊嚴的軍禮對位 */
+    | 6_ - - - | 3_ - - - | 4_ - - - | 5_ - - - |
+    | 6_ - - - | 3_ - - - | 4_ - 3_ - | 6__ - - - |
+}
+
+Scene4_GeneralVariation_General_Distant_Brass_Salute:Tuba@|0|{
+    <4*>
+    | 6___ - - - | 3___ - - - | 4___ - - - | 5___ - - - |
+    | 6___ - - - | 3___ - - - | 4___ - 3___ - | 6___ - - - |
+}
+
+Scene4_GeneralVariation_General_Distant_Brass_Salute:Cello@|0|{
+    <4*>
+    | 6__ - - - | 3__ - - - | 4__ - - - | 3__ - - - |
+    | 6__ - - - | 3__ - - - | 4__ - 3__ - | 6__ - - - |
+}
+
+Scene4_GeneralVariation_General_Distant_Brass_Salute:Strings@|0|{
+    <4*>
+    [Am] - - - | [Em] - - - | [F] - - - | [Em] - [E7] - |
+    [Am] - - - | [Em] - - - | [F] - [E7] - | [Am] - - - |
+}
+
+Scene4_GeneralVariation_General_Silent_Echo:Clarinet@|0|{
+    <4*>
+    | 3 - 2 - | 1 - 7_ - |
+    | 6_ - - - | 6_ 0 0 0 |
+}
+
+Scene4_GeneralVariation_General_Silent_Echo:Flute@|0|{
+    <4*>
+    | 0 - - - | 0 - - - |
+    | 0 - - - | 0 - - - |
+}
+
+Scene4_GeneralVariation_General_Silent_Echo:Cello@|0|{
+    <4*>
+    | 6__ - - - | 5__ - - - |
+    | 6__ - - - | 6__ 0 0 0 |
+}
+
+Scene4_GeneralVariation_General_Silent_Echo:Strings@|0|{
+    <4*>
+    [Am] - - - | [Em] - - - |
+    [Am] - - - | [Am] 0 0 0 |
+}
+
+
+/* === Scene5_NurseryFugue === */
+Scene5_NurseryFugue_Nursery_32121_Solo:Flute@|0|{
+    <4*>
+    | 3 2 1 2 | 1 - - - |
+    | 3 2 1 2 | 1 - - 0 |
+}
+
+Scene5_NurseryFugue_Nursery_32121_Solo:Piano@|0|{
+    <4*>
+    | 3 2 1 2 | 1 - - - |
+    | 3 2 1 2 | 1 - - - |
+}
+
+Scene5_NurseryFugue_Nursery_32121_Solo:Clarinet@|0|{
+    <4*>
+    | 0 - - - | 0 - - - |
+    | 0 - - - | 0 0 5_ 7_ |
+}
+
+Scene5_NurseryFugue_Nursery_32121_Solo:Strings@|0|{
+    <4*>
+    [C] - - - | [F] - [C] - |
+    [C] - - - | [F] - [C] - |
+}
+
+Scene5_NurseryFugue_Nursery_32121_Solo:Cello@|0|{
+    <4*>
+    | 1_ 0 5__ 0 | 1_ 0 1_ 0 |
+    | 1_ 0 5__ 0 | 1_ 0 1_ 0 |
+}
+
+Scene5_NurseryFugue_Fugue_Subject_Zongzhi:Clarinet@|0|{
+    <4*>
+    /* 愉快的宗治主題：洗盡戰火煙硝，如漫步在南台灣的稻香小徑 */
+    | 3 6 (5 6 5 3)%(--) | 6 - - (7. 6)%(-) | 5. 3 3 (5. 1)%(-) | 2 7_ 7_ 5_ |
+    | 3 6 (5 6 5 3)%(--) | 6 - - (7. 6)%(-) | 5. 3 2 3 | 1 - - - |
+}
+
+Scene5_NurseryFugue_Fugue_Subject_Zongzhi:Flute@|0|{
+    <8*>
+    | 0 - - - 0 - - - | 1^ 3^ 5^ 3^  1^ 0 0 0 |
+    | 0 - - - 0 - - - | 5 7 2^ 7  5 0 0 0 |
+    | 0 - - - 0 - - - | 1^ 3^ 5^ 3^  1^ 0 0 0 |
+    | 6 1^ 4^ 1^  5 7 2^ 7 | 1^ 3^ 5^ 1^^  1^ - - - |
+}
+
+Scene5_NurseryFugue_Fugue_Subject_Zongzhi:Strings@|0|{
+    <4*>
+    [C] - [C] - | [Am] - [Am] - | [F] - [C] - | [G] - [G7] - |
+    [C] - [C] - | [Am] - [Am] - | [F] - [G7] - | [C] - - - |
+}
+
+Scene5_NurseryFugue_Fugue_Subject_Zongzhi:Cello@|0|{
+    <4*>
+    | 1_ 0 5__ 0 | 6__ 0 3__ 0 | 4__ 0 1_ 0 | 5__ 0 2_ 0 |
+    | 1_ 0 5__ 0 | 6__ 0 3__ 0 | 4__ 0 5__ 0 | 1_ 0 1_ 0 |
+}
+
+Scene5_NurseryFugue_Fugue_Answer_Elephant:Bassoon@|0|{
+    <8*>
+    /* 林旺主題（中音清晰版）：大象長長的鼻子正昂揚 */
+    | 5_ 5_ 5_ 5_  5_ 3_ 2_ 3_ | 1_ - - - - - - - |
+    | 5_ 5_ 5_ 5_  5_ 3_ 2_ 3_ | 2_ - - - - - - - |
+    | 5_ 5_ 5_ 5_  5_ 3_ 2_ 3_ | 1_ - - - - - - - |
+    | 6__ 1_ 2_ 3_  5_ 3_ 2_ 3_ | 1_ - - - - - - - |
+}
+
+Scene5_NurseryFugue_Fugue_Answer_Elephant:Cello@|0|{
+    <8*>
+    /* 大提琴與低音管齊奏，強化顆粒感與清晰線條 */
+    | 5_ 5_ 5_ 5_  5_ 3_ 2_ 3_ | 1_ - - - - - - - |
+    | 5_ 5_ 5_ 5_  5_ 3_ 2_ 3_ | 2_ - - - - - - - |
+    | 5_ 5_ 5_ 5_  5_ 3_ 2_ 3_ | 1_ - - - - - - - |
+    | 6__ 1_ 2_ 3_  5_ 3_ 2_ 3_ | 1_ - - - - - - - |
+}
+
+Scene5_NurseryFugue_Fugue_Answer_Elephant:Clarinet@|0|{
+    <4*>
+    /* 宗治主題在上方跳躍對位 */
+    | 3 6 (5 6 5 3)%(--) | 6 - - (7. 6)%(-) | 5. 3 3 (5. 1)%(-) | 2 7_ 7_ 5_ |
+    | 3 6 (5 6 5 3)%(--) | 6 - - (7. 6)%(-) | 5. 3 2 3 | 1 - - - |
+}
+
+Scene5_NurseryFugue_Fugue_Answer_Elephant:Strings@|0|{
+    <4*>
+    /* 撥奏式短促背景，不掩蓋大象與宗治線條 */
+    [C] 0 [C] 0 | [C] 0 [C] 0 |
+    [G] 0 [G] 0 | [G] 0 [G7] 0 |
+    [C] 0 [C] 0 | [C] 0 [C] 0 |
+    [F] 0 [G] 0 | [C] 0 [C] 0 |
+}
+
+Scene5_NurseryFugue_Fugue_Tutti_Joy:Horn@|0|{
+    <8*>
+    /* 法國號主唱大象主題：威風又憨厚的巨獸 */
+    | 5 5 5 5  5 3 2 3 | 1 - - - - - - - |
+    | 5 5 5 5  5 3 2 3 | 2 - - - - - - - |
+    | 5 5 5 5  5 3 2 3 | 1 - - - - - - - |
+    | 6_ 1 2 3  5 3 2 3 | 1 - - - - - - - |
+}
+
+Scene5_NurseryFugue_Fugue_Tutti_Joy:Violin@|0|{
+    <4*>
+    /* 小提琴明亮歌唱宗治主題 */
+    | 3^ 6^ (5^ 6^ 5^ 3^)%(--) | 6^ - - (7^. 6^)%(-) | 5^. 3^ 3^ (5^ 1^)%(-) | 2^ 7 7 5 |
+    | 3^ 6^ (5^ 6^ 5^ 3^)%(--) | 6^ - - (7^. 6^)%(-) | 5^. 3^ 2^ 3^ | 1^ - - - |
+}
+
+Scene5_NurseryFugue_Fugue_Tutti_Joy:Flute@|0|{
+    <8*>
+    | 1^ 3^ 5^ 3^  1^ 3^ 5^ 3^ | 1^ 3^ 6^ 3^  1^ 3^ 6^ 3^ |
+    | 2^ 4^ 6^ 4^  2^ 4^ 6^ 4^ | 5 7 2^ 7  5 7 2^ 7 |
+    | 1^ 3^ 5^ 3^  1^ 3^ 5^ 3^ | 1^ 3^ 6^ 3^  1^ 3^ 6^ 3^ |
+    | 4^ 6^ 1^^ 6^  5^ 7^ 2^^ 7^ | 1^^ 5^ 3^ 1^  1^ - - - |
+}
+
+Scene5_NurseryFugue_Fugue_Tutti_Joy:Bassoon@|0|{
+    <8*>
+    | 5_ 5_ 5_ 5_  5_ 3_ 2_ 3_ | 1_ - - - - - - - |
+    | 5_ 5_ 5_ 5_  5_ 3_ 2_ 3_ | 2_ - - - - - - - |
+    | 5_ 5_ 5_ 5_  5_ 3_ 2_ 3_ | 1_ - - - - - - - |
+    | 6__ 1_ 2_ 3_  5_ 3_ 2_ 3_ | 1_ - - - - - - - |
+}
+
+Scene5_NurseryFugue_Fugue_Tutti_Joy:Strings@|0|{
+    <4*>
+    [C] - [C] - | [Am] - [Am] - | [Dm] - [Dm] - | [G] - [G7] - |
+    [C] - [C] - | [Am] - [Am] - | [F] - [G7] -  | [C] - - - |
+}
+
+Scene5_NurseryFugue_Fugue_Tutti_Joy:Cello@|0|{
+    <4*>
+    | 1_ 0 5__ 0 | 6__ 0 3__ 0 | 2__ 0 6__ 0 | 5__ 0 2_ 0 |
+    | 1_ 0 5__ 0 | 6__ 0 3__ 0 | 4__ 0 5__ 0 | 1_ - - - |
+}
+
+Scene5_NurseryFugue_Fugue_Coda:Flute@|0|{
+    <4*>
+    | 1^ - 3^ - | 5^ - 1^^ - |
+    | 1^^ - - - | 1^^ 0 0 0 |
+}
+
+Scene5_NurseryFugue_Fugue_Coda:Clarinet@|0|{
+    <4*>
+    | 3 - 5 - | 1^ - 3^ - |
+    | 1^ - - - | 1^ 0 0 0 |
+}
+
+Scene5_NurseryFugue_Fugue_Coda:Bassoon@|0|{
+    <8*>
+    | 5_ 3_ 2_ 3_  1_ - - - |
+    | 5_ 3_ 2_ 3_  1_ 0 0 0 |
+}
+
+Scene5_NurseryFugue_Fugue_Coda:Cello@|0|{
+    <4*>
+    | 1_ - 5__ - | 1_ - - - |
+    | 1_ - - - | 1_ 0 0 0 |
+}
+
+Scene5_NurseryFugue_Fugue_Coda:Strings@|0|{
+    <4*>
+    [C] - [G] - | [C] - - - |
+    [C] - - - | [C] 0 0 0 |
+}
+
+
+/* === Scene6_ZongzhiDayuan === */
+Scene6_ZongzhiDayuan_Dayuan_Night_Omen:Timpani@|0|{
+    <4*>
+    | 6___ 0 0 0 | 6___ 0 0 0 |
+    | 6___ 0 0 0 | 6___ - - 0 |
+}
+
+Scene6_ZongzhiDayuan_Dayuan_Night_Omen:Cello@|0|{
+    <4*>
+    | 6__ - - - | 5__ - - - |
+    | 4__ - - - | 3__ - - - |
+}
+
+Scene6_ZongzhiDayuan_Dayuan_Night_Omen:Strings@|0|{
+    <4*>
+    [Am] - - - | [Am/G] - - - |
+    [F#dim] - - - | [Esus4] - [E] - |
+}
+
+Scene6_ZongzhiDayuan_Dayuan_Night_Omen:Piano@|0|{
+    <4*>
+    | 0 - - - | 0 - - - |
+    | 0 - - - | 0 0 0 3 |
+}
+
+Scene6_ZongzhiDayuan_Zongzhi_Elegy_Cello:Cello@|0|{
+    <4*>
+    /* 撕裂的宗治主題：高音淒厲、顫抖、哭泣 */
+    | 3 6 (5 6 5 3)%(--) | 6 - - (7_ 6_)%(-) | 5 3 3 (5 1)%(-) | 2 7_ 7_ 5_ |
+    | 3 6 (5 6 5 3)%(--) | 6 - - (7_ 6_)%(-) | 5 3 2 3 | 6__ - - - |
+}
+
+Scene6_ZongzhiDayuan_Zongzhi_Elegy_Cello:Strings@|0|{
+    <4*>
+    /* 刺骨尖銳的不協和與痛徹心扉的減和弦 */
+    [Am] - - -   | [Dm] - - - |
+    [Bdim] - - - | [E7] - - - |
+    [Am] - [Am/G] - | [F] - - - |
+    [Dm6] - [E7] -  | [Am] - - - |
+}
+
+Scene6_ZongzhiDayuan_Zongzhi_Elegy_Cello:Piano@|0|{
+    <8*>
+    | 6_ 1 3 1  6_ 1 3 1 | 2 4 6 4  2 4 6 4 |
+    | 7_ 2 4 2  7_ 2 4 2 | 7_ 2 3 2  7_ 2 3 2 |
+    | 6_ 1 3 1  5_ 7_ 2 7_ | 4_ 6_ 1 6_  4_ 6_ 1 6_ |
+    | 2_ 4_ 6_ 4_  3_ 5_ 7_ 5_ | 6_ - - -  6_ 0 0 0 |
+}
+
+Scene6_ZongzhiDayuan_Zongzhi_Elegy_Cello:Clarinet@|0|{
+    <4*>
+    | 0 - - - | 0 - - - |
+    | 0 - - - | 0 0 0 7_ |
+    | 1 - - - | 1 - - - |
+    | 2 - 3 - | 6_ - - - |
+}
+
+Scene6_ZongzhiDayuan_Ashes_Desolation:Clarinet@|0|{
+    <4*>
+    /* 破碎零落的音符，像是在殘骸堆中發抖呼喚親人的名字 */
+    | 3_ - 6_ - | 5_ - 3_ - |
+    | 6_ - - -  | 5_ - 3_ - |
+    | 2_ - 7__ - | 6__ - - - |
+    | 3__ - - - | 6__ - - - |
+}
+
+Scene6_ZongzhiDayuan_Ashes_Desolation:Flute@|0|{
+    <4*>
+    /* 長笛如冰冷的夜風吹過大園公路 */
+    | 0 - - - | 0 - - - |
+    | 3^ - - - | 2^ - 1^ - |
+    | 7 - - -  | 6 - - - |
+    | 3^ - 2^ - | 1^ - - - |
+}
+
+Scene6_ZongzhiDayuan_Ashes_Desolation:Cello@|0|{
+    <4*>
+    | 6__ - - - | 5__ - - - |
+    | 4__ - - - | 3__ - - - |
+    | 2__ - - - | 3__ - - - |
+    | 6___ - - - | 6___ - - - |
+}
+
+Scene6_ZongzhiDayuan_Ashes_Desolation:Strings@|0|{
+    <4*>
+    [Am] - - - | [Em] - - - |
+    [F] - - -  | [C] - - - |
+    [Dm] - - - | [E7] - - - |
+    [Am] - - - | [Am] - - - |
+}
+
+Scene6_ZongzhiDayuan_Unanswered_Cry:Piano@|0|{
+    <4*>
+    | 0 3^^ 0 0 | 0 2^^ 0 0 |
+    | 0 1^^ 0 0 | 6^ - - - |
+}
+
+Scene6_ZongzhiDayuan_Unanswered_Cry:Clarinet@|0|{
+    <4*>
+    | 6__ - - - | 3__ - - - |
+    | 6__ - - - | 6__ - - - |
+}
+
+Scene6_ZongzhiDayuan_Unanswered_Cry:Cello@|0|{
+    <4*>
+    | 6___ - - - | 6___ - - - |
+    | 6___ - - - | 6___ - - - |
+}
+
+Scene6_ZongzhiDayuan_Unanswered_Cry:Strings@|0|{
+    <4*>
+    [Am] - - - | [Am] - - - |
+    [Am] - - - | [Am] - - - |
+}
+
+
+/* === Scene7_ElephantFarewell === */
+Scene7_ElephantFarewell_Elder_Elephant_Theme:Bassoon@|0|{
+    <8*>
+    /* 大象長長的鼻子正昂揚（晚年安詳版） */
+    | 5_ 5_ 5_ 5_  5_ 3_ 2_ 3_ | 1_ - - - - - - - |
+    | 6__ 1_ 2_ 3_  5_ 3_ 2_ 3_ | 1_ - - - - - - - |
+}
+
+Scene7_ElephantFarewell_Elder_Elephant_Theme:Cello@|0|{
+    <8*>
+    | 5_ 5_ 5_ 5_  5_ 3_ 2_ 3_ | 1_ - - - - - - - |
+    | 6__ 1_ 2_ 3_  5_ 3_ 2_ 3_ | 1_ - - - - - - - |
+}
+
+Scene7_ElephantFarewell_Elder_Elephant_Theme:Clarinet@|0|{
+    <4*>
+    | 0 - - - | 3 - 2 - |
+    | 0 - - - | 2 - 1 - |
+}
+
+Scene7_ElephantFarewell_Elder_Elephant_Theme:Strings@|0|{
+    <4*>
+    [C] - - - | [F] - [C] - |
+    [C] - - - | [F] - [C] - |
+}
+
+Scene7_ElephantFarewell_Farewell_Gentle_Giant:Clarinet@|0|{
+    <4*>
+    | 5 - 3 - | 2 - 3 - |
+    | 1 - - - | 1 - - - |
+}
+
+Scene7_ElephantFarewell_Farewell_Gentle_Giant:Horn@|0|{
+    <4*>
+    | 1 - - - | 7_ - - - |
+    | 1 - - - | 1 - - - |
+}
+
+Scene7_ElephantFarewell_Farewell_Gentle_Giant:Bassoon@|0|{
+    <8*>
+    | 5_ 3_ 2_ 3_  1_ - - - |
+    | 1_ - - - - - - - |
+}
+
+Scene7_ElephantFarewell_Farewell_Gentle_Giant:Cello@|0|{
+    <4*>
+    | 1_ - 5__ - | 1_ - - - |
+    | 1_ - - - | 1_ - - - |
+}
+
+Scene7_ElephantFarewell_Farewell_Gentle_Giant:Strings@|0|{
+    <4*>
+    [C] - [G] - | [Am] - [Em] - |
+    [F] - [G] - | [C] - - - |
+}
+
+
+/* === Scene8_LegacyEpilogue === */
+Scene8_LegacyEpilogue_Epilogue_Piano_Solitude:Piano@|0|{
+    <4*>
+    /* 多希望 能夠 一直 牽巨 人的手 */
+    | 0 3 2 1 | 2 1 - - | 0 (3 3)%(-) 2 1 | 2 1 5_ - |
+    /* 一直在 燈 塔 照 耀 中 */
+    | 0 3 2 3 | 5 - 3 - | 2 - 5 - | 3 - - - |
+}
+
+Scene8_LegacyEpilogue_Epilogue_Piano_Solitude:Cello@|0|{
+    <4*>
+    | 1_ - - - | 7__ - - - | 6__ - - - | 5__ - - - |
+    | 4__ - - - | 3__ - - - | 2__ - - - | 5__ - - - |
+}
+
+Scene8_LegacyEpilogue_Epilogue_Piano_Solitude:Strings@|0|{
+    <4*>
+    [C] - - - | [G/B] - - - | [Am] - - - | [C/G] - - - |
+    [F] - - - | [C/E] - - - | [Dm] - - - | [G] - - - |
+}
+
+Scene8_LegacyEpilogue_Epilogue_Existential_Cry:Clarinet@|0|{
+    <4*>
+    /* 我一向 都 平 凡 無 奇，我根本 都 無 足 輕 重 */
+    | 0 3 1 3 | 4 - 1 - | 6_ - 4 - | 3 - - - |
+    | 0 3 1 3 | 5 - 3 - | 2_ - 5 - | 3 - - - |
+}
+
+Scene8_LegacyEpilogue_Epilogue_Existential_Cry:Flute@|0|{
+    <4*>
+    | 0 - - - | 0 - - - | 0 - - - | 0 - - - |
+    | 0 3^ 1^ 3^ | 5^ - 3^ - | 2^ - 5^ - | 3^ - - - |
+}
+
+Scene8_LegacyEpilogue_Epilogue_Existential_Cry:Cello@|0|{
+    <4*>
+    | 4__ - - - | 4__ - - - | 3__ - - - | 3__ - - - |
+    | 2__ - - - | 2__ - - - | 6__ - - - | 6__ - - - |
+}
+
+Scene8_LegacyEpilogue_Epilogue_Existential_Cry:Strings@|0|{
+    <4*>
+    [F] - - - | [F] - - - | [Em] - - - | [Em] - - - |
+    [Dm] - - - | [Dm] - - - | [Am] - - - | [Am] - - - |
+}
+
+Scene8_LegacyEpilogue_Epilogue_Existential_Cry:Piano@|0|{
+    <8*>
+    | 4_ 6_ 1 6_  4_ 6_ 1 6_ | 4_ 6_ 1 6_  4_ 6_ 1 6_ | 3_ 5_ 7_ 5_  3_ 5_ 7_ 5_ | 3_ 5_ 7_ 5_  3_ 5_ 7_ 5_ |
+    | 2_ 4_ 6_ 4_  2_ 4_ 6_ 4_ | 2_ 4_ 6_ 4_  2_ 4_ 6_ 4_ | 6__ 1_ 3_ 1_  6__ 1_ 3_ 1_ | 6__ 1_ 3_ 1_  6__ - - - |
+}
+
+Scene8_LegacyEpilogue_Epilogue_Grand_Chorus_Legacy:Horn@|0|{
+    <4*>
+    /* 多麼希望我可以 讓自己不只是自己 讓我不只是我 */
+    | 4 - 4 1 | 1^ - 4 6 | 5 - - (5 5)%(-) | 5 (5 5)%(-) 3 6 |
+    | 5 - - 5 | 5 5 2 5 | 3 - - - | 0 - - - |
+    /* 多麼希望我可以 對誰說一句 說一句 我能夠 */
+    | 4 - 4 1 | 1^ - 7 6 | 5 3 - - | 6 5 5 3 |
+    | 5 2 - - | 0 - 1 2 | 6_ - - - | 0 - - - |
+}
+
+Scene8_LegacyEpilogue_Epilogue_Grand_Chorus_Legacy:Trumpet@|0|{
+    <4*>
+    | 0 - - - | 0 - - - | 0 - - - | 0 - - - |
+    | 0 - - - | 0 - - - | 0 - - - | 0 - - - |
+    | 4 - 4 1 | 1^ - 7 6 | 5 3 - - | 6 5 5 3 |
+    | 5 2 - - | 0 - 1 2 | 1 - - - | 0 - - - |
+}
+
+Scene8_LegacyEpilogue_Epilogue_Grand_Chorus_Legacy:Violin@|0|{
+    <4*>
+    /* 高音小提琴副歌飛翔歌唱 */
+    | 4^ - 4^ 1^ | 1^^ - 4^ 6^ | 5^ - - (5^ 5^)%(-) | 5^ (5^ 5^)%(-) 3^ 6^ |
+    | 5^ - - 5^ | 5^ 5^ 2^ 5^ | 3^ - - - | 0 3^ 2^ 1^ |
+    | 4^ - 4^ 1^ | 1^^ - 7^ 6^ | 5^ 3^ - - | 6^ 5^ 5^ 3^ |
+    | 5^ 2^ - - | 0 - 1^ 2^ | 6 - - - | 0 - - - |
+}
+
+Scene8_LegacyEpilogue_Epilogue_Grand_Chorus_Legacy:Flute@|0|{
+    <4*>
+    /* 32121 對位穿插 */
+    | 0 - - - | 0 3^ 2^ 1^ | 2^ 1^ - - | 0 - - - |
+    | 0 - - - | 0 3^ 2^ 1^ | 2^ 1^ - - | 0 - - - |
+    | 0 - - - | 0 3^ 2^ 1^ | 2^ 1^ - - | 0 - - - |
+    | 0 - - - | 0 3^ 2^ 1^ | 2^ 1^ 6 - | 1^ - - - |
+}
+
+Scene8_LegacyEpilogue_Epilogue_Grand_Chorus_Legacy:Strings@|0|{
+    <4*>
+    [F] - - - | [F] - - - | [G] - - - | [G] - - - |
+    [Em] - - - | [Em] - - - | [Am] - - - | [Am] - - - |
+    [F] - - - | [F] - - - | [G] - - - | [G] - - - |
+    [Dm] - - - | [G] - - - | [Am] - - - | [Am] - - - |
+}
+
+Scene8_LegacyEpilogue_Epilogue_Grand_Chorus_Legacy:Cello@|0|{
+    <4*>
+    | 4__ - - - | 4__ - - - | 5__ - - - | 5__ - - - |
+    | 3__ - - - | 3__ - - - | 6__ - - - | 6__ - - - |
+    | 4__ - - - | 4__ - - - | 5__ - - - | 5__ - - - |
+    | 2__ - - - | 5__ - - - | 6__ - - - | 6__ - - - |
+}
+
+Scene8_LegacyEpilogue_Epilogue_Grand_Chorus_Legacy:Timpani@|0|{
+    <4*>
+    | 4___ 0 0 0 | 4___ 0 0 0 | 5___ 0 0 0 | 5___ 0 0 0 |
+    | 3___ 0 0 0 | 3___ 0 0 0 | 6___ 0 0 0 | 6___ 0 0 0 |
+    | 4___ 0 0 0 | 4___ 0 0 0 | 5___ 0 0 0 | 5___ 0 0 0 |
+    | 2___ 0 0 0 | 5___ 0 0 0 | 6___ - - - | 6___ - - - |
+}
+
+Scene8_LegacyEpilogue_Epilogue_Final_Farewell:Clarinet@|0|{
+    <4*>
+    /* 多麼希望我可以 對誰說一句 我能夠…… */
+    | 4 - 4 1 | 1^ - 7 6 | 5 3 - - | 6 5 5 3 |
+    | 5 2 - - | 0 - 1 7_ | 1 - - - | 1 - - - |
+}
+
+Scene8_LegacyEpilogue_Epilogue_Final_Farewell:Flute@|0|{
+    <4*>
+    /* 長笛在第 5-6 小節輕輕唱出 3 2 1 2 1 */
+    | 0 - - - | 0 - - - | 0 - - - | 0 - - - |
+    | 0 3^ 2^ 1^ | 2^ 1^ - - | 0 - - - | 0 - - - |
+}
+
+Scene8_LegacyEpilogue_Epilogue_Final_Farewell:Piano@|0|{
+    <4*>
+    /* 鋼琴：在最後 3 2 1 1 之前，清晰響起一次 3 2 1 2 1，隨後以 3 2 1 1 溫柔合上琴蓋 */
+    | 0 - - - | 0 - - - | 0 - - - | 0 - - - |
+    | 0 3 2 1 | 2 1 - - | 0 3 2 1 | 1 - - - |
+}
+
+Scene8_LegacyEpilogue_Epilogue_Final_Farewell:Cello@|0|{
+    <4*>
+    | 4__ - - - | 5__ - - - | 3__ - - - | 6__ - - - |
+    | 2__ - - - | 5__ - - - | 1_ - - -  | 1_ - - - |
+}
+
+Scene8_LegacyEpilogue_Epilogue_Final_Farewell:Strings@|0|{
+    <4*>
+    [F] - - - | [G] - - - | [Em] - - - | [Am] - - - |
+    [Dm] - - - | [G7] - - - | [C] - - - | [C] - - - |
+}
+
