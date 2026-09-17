@@ -1,0 +1,323 @@
+::SCORE::
+** 品川雙車交會 (Shinagawa: Two Trains) **
+~ "composer: zonble"
+~ "arranger: Antigravity"
+!= 126
+?= C
+<4/4>
+
+/*
+  Concept: Two Trains (Train 1 & Train 2) at Shinagawa Station
+  Total Duration: ~2 mins (64 bars at 126 BPM)
+
+  The Core Dialogue Motif (2 measures):
+    Bar 1 (Train 1): | 5 - 4 - 3 - 1 - |
+    Bar 2 (Train 2): | 1 2 1 3 1 4 1 5 |
+
+  Structure:
+  1. Platform_At_Rest (8 bars):
+     - At the platform, Train 1 sounds the warning, Train 2 answers. Repeated 4 times.
+  2. Parallel_Departure (8 bars):
+     - Both trains accelerate simultaneously along parallel tracks.
+     - Train 1 (Marimba / Bass) vs Train 2 (Glockenspiel / high chime).
+     - Rhythm of rail clicks (Drums) kicks in.
+  3. Parallel_Racing (16 bars):
+     - Racing side-by-side on multi-track railway:
+       Train 1 (Tenor Sax / Clarinet) calls, Train 2 (Flute / Violin) responds.
+       Dynamic passing and syncopated track grooves.
+  4. Scenic_Flyover (16 bars):
+     - Flying over the crossover junction:
+       Train 1 (Cello / lower strings) provides rolling ground,
+       Train 2 (Violin / woodwind) soars in expansive singing melodies.
+  5. Station_Arrival (16 bars):
+     - Slowing down into the next terminal:
+       Tutti dialogue between Train 1 and Train 2,
+       train brakes hiss and bell echoes fade away into the distance.
+*/
+
+-> Platform_At_Rest
+-> Parallel_Departure
+-> Parallel_Racing
+-> Scenic_Flyover
+-> Station_Arrival
+-> #
+
+/* ========================================================================= */
+/* 1. PLATFORM_AT_REST (8 bars): The Initial 4-Cycle Dialogue                */
+/* ========================================================================= */
+
+Platform_At_Rest:Train_1_Piano@|0|{
+    <8*>
+    /* Cycle 1 */
+    | 5 - 4 - 3 - 1 - | 0 - - - 0 - - - |
+    /* Cycle 2 */
+    | 5 - 4 - 3 - 1 - | 0 - - - 0 - - - |
+    /* Cycle 3 */
+    | 5 - 4 - 3 - 1 - | 0 - - - 0 - - - |
+    /* Cycle 4 */
+    | 5 - 4 - 3 - 1 - | 0 - - - 0 - - - |
+}
+
+Platform_At_Rest:Train_2_Celesta@|0|{
+    <8*>
+    /* Cycle 1 */
+    | 0 - - - 0 - - - | 1^ 2^ 1^ 3^ 1^ 4^ 1^ 5^ |
+    /* Cycle 2 */
+    | 0 - - - 0 - - - | 1^ 2^ 1^ 3^ 1^ 4^ 1^ 5^ |
+    /* Cycle 3 */
+    | 0 - - - 0 - - - | 1^ 2^ 1^ 3^ 1^ 4^ 1^ 5^ |
+    /* Cycle 4 */
+    | 0 - - - 0 - - - | 1^ 2^ 1^ 3^ 1^ 4^ 1^ 5^ |
+}
+
+/* ========================================================================= */
+/* 2. PARALLEL_DEPARTURE (8 bars): Departing side by side                   */
+/* ========================================================================= */
+
+Parallel_Departure:Train_1_Marimba@|0|{
+    <8*>
+    | 5 - 4 - 3 - 1 - | 0 - - - 0 - - - |
+    | 5 - 4 - 3 - 1 - | 0 - - - 0 - - - |
+    | 5 - 4 - 3 - 1 - | 0 - - - 0 - - - |
+    | 5 - 6 - 5 - 3 - | 0 - - - 0 - - - |
+}
+
+Parallel_Departure:Train_2_Glockenspiel@|0|{
+    <8*>
+    | 0 - - - 0 - - - | 1^ 2^ 1^ 3^ 1^ 4^ 1^ 5^ |
+    | 0 - - - 0 - - - | 1^ 2^ 1^ 3^ 1^ 4^ 1^ 5^ |
+    | 0 - - - 0 - - - | 1^ 2^ 1^ 3^ 1^ 4^ 1^ 5^ |
+    | 0 - - - 0 - - - | 2^ - 1^ - 1^ - - - |
+}
+
+Parallel_Departure:Rail_Bass@|0|{
+    <4*>
+    /* Steady iron rail pulsation */
+    | 1_ - 3_ - | 5_ - 3_ - |
+    | 1_ - 3_ - | 5_ - 3_ - |
+    | 4_ - 6_ - | 1 - 6_ - |
+    | 5_ - 7__ - | 1_ - - - |
+    | 1_ - 3_ - | 5_ - 3_ - |
+    | 1_ - 3_ - | 5_ - 3_ - |
+    | 4_ - 4_ - | 5_ - 5_ - |
+    | 1_ - 5_ - | 1_ - - - |
+}
+
+Parallel_Departure:Rail_Clicks_Drums@|0|{
+    <16*>
+    /* Steel wheel track clicks */
+    | t-t- t-t- t-t- t-t- | t-t- t-t- t-t- t-t- |
+    | t-t- t-t- t-t- t-t- | t-t- t-t- t-t- t-t- |
+    | t-t- t-t- t-t- t-t- | t-t- t-t- t-t- t-t- |
+    | t-t- t-t- t-t- t-t- | t-t- t-t- t-s X--- |
+    | t-t- t-t- t-t- t-t- | t-t- t-t- t-t- t-t- |
+    | t-t- t-t- t-t- t-t- | t-t- t-t- t-t- t-t- |
+    | t-t- t-t- t-t- t-t- | t-t- t-t- t-t- t-t- |
+    | t-t- t-t- t-t- t-t- | X-s- X-s- X--- 0--- |
+}
+
+/* ========================================================================= */
+/* 3. PARALLEL_RACING (16 bars): Two trains racing on multi-track line      */
+/* ========================================================================= */
+
+Parallel_Racing:Train_1_Clarinet@|0|{
+    <8*>
+    /* Train 1 leads the charge */
+    | 5 - 4 - 3 - 1 - | 0 - - - 0 - - - |
+    | 6 - 5 - 4 - 2 - | 0 - - - 0 - - - |
+    | 5 - 4 - 3 - 1 - | 0 - - - 0 - - - |
+    | 4 - 3 - 2 - 7_ - | 0 - - - 0 - - - |
+
+    /* Fast passing sequence */
+    | 5 3 1 3 5 3 1 3 | 0 - - - 0 - - - |
+    | 5 3 1 3 5 3 1 3 | 0 - - - 0 - - - |
+    | 5 3 1 3 5 3 1 3 | 0 - - - 0 - - - |
+    | 5 4 3 2 1 7_ 6_ 5_ | 0 - - - 0 - - - |
+}
+
+Parallel_Racing:Train_2_Flute@|0|{
+    <8*>
+    /* Train 2 overtakes with nimble flutter */
+    | 0 - - - 0 - - - | 1^ 2^ 1^ 3^ 1^ 4^ 1^ 5^ |
+    | 0 - - - 0 - - - | 2^ 3^ 2^ 4^ 2^ 5^ 2^ 6^ |
+    | 0 - - - 0 - - - | 1^ 2^ 1^ 3^ 1^ 4^ 1^ 5^ |
+    | 0 - - - 0 - - - | 1^ - - - 1^ - - - |
+
+    /* Playful high-speed response */
+    | 0 - - - 0 - - - | 6^ 4^ 1^ 4^ 6^ 4^ 1^ 4^ |
+    | 0 - - - 0 - - - | 4^ 2^ 7 2^ 4^ 2^ 7 2^ |
+    | 0 - - - 0 - - - | 6^ 4^ 2^ 4^ 6^ 4^ 2^ 4^ |
+    | 0 - - - 0 - - - | 1^ - - - 1^ - - - |
+}
+
+Parallel_Racing:Power_Piano@|0|{
+    <4*>
+    /* Electric engine rhythmic power */
+    | [C] - [C] - | [C] - [C] - |
+    | [Dm] - [Dm] - | [Dm] - [Dm] - |
+    | [C] - [C] - | [C] - [C] - |
+    | [G] - [G] - | [C] - [C] - |
+
+    | [C] - [C] - | [F] - [F] - |
+    | [C] - [C] - | [G] - [G] - |
+    | [Am] - [Am] - | [Dm] - [Dm] - |
+    | [G] - [G] - | [C] - [C] - |
+}
+
+Parallel_Racing:Rail_Bass@|0|{
+    <8*>
+    | 1_ - 1_ - 1_ - 1_ - | 1_ - 1_ - 1_ - 1_ - |
+    | 2_ - 2_ - 2_ - 2_ - | 2_ - 2_ - 2_ - 2_ - |
+    | 1_ - 1_ - 1_ - 1_ - | 1_ - 1_ - 1_ - 1_ - |
+    | 5_ - 5_ - 5_ - 5_ - | 1_ - 1_ - 1_ - 1_ - |
+
+    | 1_ - 1_ - 1_ - 1_ - | 4_ - 4_ - 4_ - 4_ - |
+    | 1_ - 1_ - 1_ - 1_ - | 5_ - 5_ - 5_ - 5_ - |
+    | 6_ - 6_ - 6_ - 6_ - | 2_ - 2_ - 2_ - 2_ - |
+    | 5_ - 5_ - 5_ - 5_ - | 1_ - 5_ - 1_ - - - |
+}
+
+Parallel_Racing:Rail_Clicks_Drums@|0|{
+    <16*>
+    | X-t- s-t- X-t- s-t- | X-t- s-t- X-t- s-t- |
+    | X-t- s-t- X-t- s-t- | X-t- s-t- X-t- s-t- |
+    | X-t- s-t- X-t- s-t- | X-t- s-t- X-t- s-t- |
+    | X-t- s-t- X-t- s-t- | X-s- X-s- X-X- s-s- |
+
+    | X-t- s-t- X-t- s-t- | X-t- s-t- X-t- s-t- |
+    | X-t- s-t- X-t- s-t- | X-t- s-t- X-t- s-t- |
+    | X-t- s-t- X-t- s-t- | X-t- s-t- X-t- s-t- |
+    | X-t- s-t- X-t- s-t- | X--- s--- X-s- X--- |
+}
+
+/* ========================================================================= */
+/* 4. SCENIC_FLYOVER (16 bars): Elevated crossing & expansive view           */
+/* ========================================================================= */
+
+Scenic_Flyover:Train_1_Cello@|0|{
+    <8*>
+    /* Train 1 on ground viaduct */
+    | 5 - - - 3 - 1 - | 0 - - - 0 - - - |
+    | 6 - - - 4 - 2 - | 0 - - - 0 - - - |
+    | 7 - - - 5 - 3 - | 0 - - - 0 - - - |
+    | 2 - - - - - - - | 0 - - - 0 - - - |
+
+    | 5 - 4 - 3 - 1 - | 0 - - - 0 - - - |
+    | 6 - 5 - 4 - 2 - | 0 - - - 0 - - - |
+    | 5 - 6 - 7 - 1^ - | 0 - - - 0 - - - |
+    | 5 - - - 2 - - - | 0 - - - 0 - - - |
+}
+
+Scenic_Flyover:Train_2_Violin@|0|{
+    <8*>
+    /* Train 2 on elevated bridge overhead */
+    | 0 - - - 0 - - - | 2^ - 3^ - 4^ - 5^ - |
+    | 0 - - - 0 - - - | 3^ - 4^ - 5^ - 6^ - |
+    | 0 - - - 0 - - - | 6^ - 5^ - 4^ - 3^ - |
+    | 0 - - - 0 - - - | 5^ - - - - - - - |
+
+    | 0 - - - 0 - - - | 1^ 2^ 1^ 3^ 1^ 4^ 1^ 5^ |
+    | 0 - - - 0 - - - | 2^ 3^ 2^ 4^ 2^ 5^ 2^ 6^ |
+    | 0 - - - 0 - - - | 2^^ - 1^^ - 7^ - 6^ - |
+    | 0 - - - 0 - - - | 1^ - - - 1^ - - - |
+}
+
+Scenic_Flyover:Window_View_Piano@|0|{
+    <8*>
+    /* Cityscape gliding past the train window */
+    | 1 3 5 1^ 3^ 1^ 5 3 | 1 4 6 1^ 4^ 1^ 6 4 |
+    | 2 4 6 2^ 4^ 2^ 6 4 | 7_ 2 5 7 2^ 7 5 2 |
+    | 1 3 5 1^ 3^ 1^ 5 3 | 6_ 1 3 6 1^ 6 3 1 |
+    | 2 4 6 2^ 4^ 2^ 6 4 | 5_ 7_ 2 5 7 5 2 7_ |
+
+    | 1 3 5 1^ 3^ 1^ 5 3 | 1 4 6 1^ 4^ 1^ 6 4 |
+    | 2 4 6 2^ 4^ 2^ 6 4 | 7_ 2 5 7 2^ 7 5 2 |
+    | 3 5 1^ 3^ 4 6 1^ 4^ | 5 7 2^ 5^ 6 1^ 3^ 6^ |
+    | 5 3 1 3 5 4 2 7_ | 1 3 5 1^ 1 - - - |
+}
+
+Scenic_Flyover:Rail_Bass@|0|{
+    <2*>
+    | 1_ - | 4_ - |
+    | 2_ - | 5_ - |
+    | 1_ - | 6_ - |
+    | 2_ - | 5_ - |
+
+    | 1_ - | 4_ - |
+    | 2_ - | 5_ - |
+    | 1_ - | 4_ - |
+    | 5_ - | 1_ - |
+}
+
+Scenic_Flyover:Rail_Clicks_Drums@|0|{
+    <8*>
+    | X - s - X - s - | X - s - X - s - |
+    | X - s - X - s - | X - s - X - s - |
+    | X - s - X - s - | X - s - X - s - |
+    | X - s - X - s - | X - s - X s s s |
+
+    | X - s - X - s - | X - s - X - s - |
+    | X - s - X - s - | X - s - X - s - |
+    | X - s - X - s - | X - s - X - s - |
+    | X - s - X - s - | X - - - 0 - - - |
+}
+
+/* ========================================================================= */
+/* 5. STATION_ARRIVAL (16 bars): Decelerating & Final Platform Bell Ring     */
+/* ========================================================================= */
+
+Station_Arrival:Train_1_Horn_Piano@|0|{
+    <8*>
+    /* Train 1 arrival call */
+    | 5 - 4 - 3 - 1 - | 0 - - - 0 - - - |
+    | 5 - 4 - 3 - 1 - | 0 - - - 0 - - - |
+    | 5 - 4 - 3 - 1 - | 0 - - - 0 - - - |
+    | 5 - 6 - 7 - 1^ - | 0 - - - 0 - - - |
+
+    /* Decelerating to a stop */
+    | 5 - 4 - 3 - 1 - | 0 - - - 0 - - - |
+    | 5 - 4 - 3 - 1 - | 0 - - - 0 - - - |
+    | 5 - - - 3 - - - | 0 - - - 0 - - - |
+    | 0 - - - 0 - - - | [C] - - - - - - - |
+}
+
+Station_Arrival:Train_2_Bell_Celesta@|0|{
+    <8*>
+    /* Train 2 arrival response */
+    | 0 - - - 0 - - - | 1^ 2^ 1^ 3^ 1^ 4^ 1^ 5^ |
+    | 0 - - - 0 - - - | 1^ 2^ 1^ 3^ 1^ 4^ 1^ 5^ |
+    | 0 - - - 0 - - - | 1^ 2^ 1^ 3^ 1^ 4^ 1^ 5^ |
+    | 0 - - - 0 - - - | 1^^ - - - 1^^ - - - |
+
+    /* Final platform chime echo */
+    | 0 - - - 0 - - - | 1^ 2^ 1^ 3^ 1^ 4^ 1^ 5^ |
+    | 0 - - - 0 - - - | 1^ - - - 0 - - - |
+    | 0 - - - 0 - - - | 1^ - - - - - - - |
+    | 0 - - - 0 - - - | 1^^ - - - - - - - |
+}
+
+Station_Arrival:Rail_Bass@|0|{
+    <4*>
+    | 1_ - 3_ - | 5_ - 3_ - |
+    | 1_ - 3_ - | 5_ - 3_ - |
+    | 4_ - 5_ - | 1_ - 3_ - |
+    | 4_ - 5_ - | 1_ - - - |
+
+    | 1_ - 3_ - | 5_ - 3_ - |
+    | 1_ - 3_ - | 1_ - 0 - |
+    | 1_ - - - | 1_ - - - |
+    | 0 - - - | 1_ - - - |
+}
+
+Station_Arrival:Rail_Clicks_Drums@|0|{
+    <16*>
+    | X-t- s-t- X-t- s-t- | X-t- s-t- X-t- s-t- |
+    | X-t- s-t- X-t- s-t- | X-t- s-t- X-t- s-t- |
+    | X-t- s-t- X-t- s-t- | X-t- s-t- X-t- s-t- |
+    | X-s- X-s- X-s- X-s- | X--- 0--- 0--- 0--- |
+
+    | 0--- 0--- 0--- 0--- | 0--- 0--- 0--- 0--- |
+    | 0--- 0--- 0--- 0--- | 0--- 0--- 0--- 0--- |
+    | 0--- 0--- 0--- 0--- | 0--- 0--- 0--- 0--- |
+    | 0--- 0--- 0--- 0--- | 0--- 0--- 0--- 0--- |
+}
