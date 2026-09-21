@@ -185,8 +185,8 @@ Scene2_SteelBehemoth_Steel_Engine_Ignition:Strings@|0|{
 
 Scene2_SteelBehemoth_Steel_Engine_Ignition:Drums@|0|{
     <8*>
-    | A - - - A - - - | A - - - A - - - |
-    | A - S - A - S - | A - S - A - S S |
+    | X - - - X - - - | X - - - X - - - |
+    | X - S - X - S - | X - S - X - S S |
 }
 
 
@@ -216,8 +216,8 @@ Scene2_SteelBehemoth_Steel_Rhythm_Build:Strings@|0|{
 
 Scene2_SteelBehemoth_Steel_Rhythm_Build:Drums@|0|{
     <8*>
-    | A - S - A - S - | A - S - A - S S |
-    | A - S - A - S - | A - S S A - S S |
+    | X - S - X - S - | X - S - X - S S |
+    | X - S - X - S - | X - S S X - S S |
 }
 
 Scene2_SteelBehemoth_Steel_Rhythm_Build:Timpani@|0|{
@@ -270,10 +270,10 @@ Scene2_SteelBehemoth_Steel_Behemoth_Tutti:Strings@|0|{
 
 Scene2_SteelBehemoth_Steel_Behemoth_Tutti:Drums@|0|{
     <8*>
-    | B - - - A - S - | A - S - A - S S |
-    | B - S - A - S - | A - S - A - S S |
-    | B - - - A - S - | A - S - A - S S |
-    | B - S - A - S - | A - S S B - B - |
+    | B - - - X - S - | X - S - X - S S |
+    | B - S - X - S - | X - S - X - S S |
+    | B - - - X - S - | X - S - X - S S |
+    | B - S - X - S - | X - S S B - B - |
 }
 
 Scene2_SteelBehemoth_Steel_Behemoth_Tutti:Timpani@|0|{
@@ -593,10 +593,10 @@ Scene5_SiegeChangchun_Siege_Army_Dirge:Strings@|0|{
 Scene5_SiegeChangchun_Siege_Army_Dirge:Drums@|0|{
     <4*>
     
-    | 0 - - - | A 0 S 0 | A 0 0 0 | A 0 S 0 |
-    | A 0 0 0 | A 0 S 0 | A 0 S 0 | A 0 0 0 |
-    | A 0 S 0 |
-    | A 0 0 0 | A 0 S 0 | A 0 S 0 | A 0 0 0 | B - - - |
+    | 0 - - - | X 0 S 0 | X 0 0 0 | X 0 S 0 |
+    | X 0 0 0 | X 0 S 0 | X 0 S 0 | X 0 0 0 |
+    | X 0 S 0 |
+    | X 0 0 0 | X 0 S 0 | X 0 S 0 | X 0 0 0 | B - - - |
 }
 
 
