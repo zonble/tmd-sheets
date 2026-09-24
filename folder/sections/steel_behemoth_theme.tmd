@@ -93,8 +93,8 @@ Steel_Engine_Ignition:Strings@|0|{
 
 Steel_Engine_Ignition:Drums@|0|{
     <8*>
-    | A - - - A - - - | A - - - A - - - |
-    | A - S - A - S - | A - S - A - S S |
+    | X - - - X - - - | X - - - X - - - |
+    | X - S - X - S - | X - S - X - S S |
 }
 
 /* -------------------------------------------------------------------
@@ -126,8 +126,8 @@ Steel_Rhythm_Build:Strings@|0|{
 
 Steel_Rhythm_Build:Drums@|0|{
     <8*>
-    | A - S - A - S - | A - S - A - S S |
-    | A - S - A - S - | A - S S A - S S |
+    | X - S - X - S - | X - S - X - S S |
+    | X - S - X - S - | X - S S X - S S |
 }
 
 Steel_Rhythm_Build:Timpani@|0|{
@@ -182,10 +182,10 @@ Steel_Behemoth_Tutti:Strings@|0|{
 
 Steel_Behemoth_Tutti:Drums@|0|{
     <8*>
-    | B - - - A - S - | A - S - A - S S |
-    | B - S - A - S - | A - S - A - S S |
-    | B - - - A - S - | A - S - A - S S |
-    | B - S - A - S - | A - S S B - B - |
+    | B - - - X - S - | X - S - X - S S |
+    | B - S - X - S - | X - S - X - S S |
+    | B - - - X - S - | X - S - X - S S |
+    | B - S - X - S - | X - S S B - B - |
 }
 
 Steel_Behemoth_Tutti:Timpani@|0|{

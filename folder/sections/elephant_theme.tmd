@@ -46,8 +46,8 @@ Elephant_Steps:Bassoon@|0|{
 
 Elephant_Steps:Drums@|0|{
     <4*>
-    | A 0 A 0 | A 0 A 0 |
-    | A 0 A 0 | A 0 A 0 |
+    | X 0 X 0 | X 0 X 0 |
+    | X 0 X 0 | X 0 X 0 |
 }
 
 Elephant_Steps:Strings@|0|{
@@ -94,10 +94,10 @@ LinWang_Theme_Solo:Strings@|0|{
 
 LinWang_Theme_Solo:Drums@|0|{
     <4*>
-    | A 0 A 0 | A 0 A 0 |
-    | A 0 A 0 | A 0 A 0 |
-    | A 0 A 0 | A 0 A 0 |
-    | A 0 A 0 | A 0 A 0 |
+    | X 0 X 0 | X 0 X 0 |
+    | X 0 X 0 | X 0 X 0 |
+    | X 0 X 0 | X 0 X 0 |
+    | X 0 X 0 | X 0 X 0 |
 }
 
 /* -------------------------------------------------- */
@@ -147,10 +147,10 @@ Gentle_Giant:Cello@|0|{
 
 Gentle_Giant:Drums@|0|{
     <8*>
-    | A - S - A - S - | A - S - A - S - |
-    | A - S - A - S - | A - S - A - S - |
-    | A - S - A - S - | A - S - A - S - |
-    | A - S - A - S - | A - S - B - - - |
+    | X - S - X - S - | X - S - X - S - |
+    | X - S - X - S - | X - S - X - S - |
+    | X - S - X - S - | X - S - X - S - |
+    | X - S - X - S - | X - S - B - - - |
 }
 
 /* -------------------------------------------------- */
@@ -197,10 +197,10 @@ Elephant_March:Cello@|0|{
 
 Elephant_March:Drums@|0|{
     <8*>
-    | B - S - A - S - | A - S - A - S - |
-    | B - S - A - S - | A - S - A - S - |
-    | B - S - A - S - | A - S - A - S - |
-    | B - S - A - S - | B - B - B - - - |
+    | B - S - X - S - | X - S - X - S - |
+    | B - S - X - S - | X - S - X - S - |
+    | B - S - X - S - | X - S - X - S - |
+    | B - S - X - S - | B - B - B - - - |
 }
 
 /* -------------------------------------------------- */
@@ -232,6 +232,6 @@ Coda_Steps:Strings@|0|{
 
 Coda_Steps:Drums@|0|{
     <4*>
-    | A 0 0 0 | A 0 0 0 |
-    | A 0 0 0 | 0 - - - |
+    | X 0 0 0 | X 0 0 0 |
+    | X 0 0 0 | 0 - - - |
 }

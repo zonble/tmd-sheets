@@ -284,8 +284,8 @@ Scene2_Dock_Threshold:Drums@|0|{
 Scene3_Army_Intro:Drums@|0|{
     <8*>
     {!= 120}
-    | B - S - A - S S | A - S - A - S S |
-    | A - S - A - S S | A - S - B - - - |
+    | B - S - X - S S | X - S - X - S S |
+    | X - S - X - S S | X - S - B - - - |
 }
 
 Scene3_Army_Intro:Trumpet@|0|{
@@ -331,10 +331,10 @@ Scene3_Army_Song_Full:Strings@|0|{
 
 Scene3_Army_Song_Full:Drums@|0|{
     <8*>
-    | B - S - A - S S | A - S - A - S S | A - S - A - S S | A - S - A - S S |
-    | A - S - A - S S | A - S - A - S S | A - S - A - S S | A - S - A - S S |
-    | A - S - A - S S |
-    | A - S - A - S S | B - S - A - S S | A - S - A - S S | A - S - A - S S | A - S - B - - - |
+    | B - S - X - S S | X - S - X - S S | X - S - X - S S | X - S - X - S S |
+    | X - S - X - S S | X - S - X - S S | X - S - X - S S | X - S - X - S S |
+    | X - S - X - S S |
+    | X - S - X - S S | B - S - X - S S | X - S - X - S S | X - S - X - S S | X - S - B - - - |
 }
 
 Scene3_Army_Song_Tutti:Trumpet@|0|{
@@ -363,10 +363,10 @@ Scene3_Army_Song_Tutti:Strings@|0|{
 
 Scene3_Army_Song_Tutti:Drums@|0|{
     <8*>
-    | B - S - A - S S | B - S - A - S S | A - S - A - S S | A - S - A - S S |
-    | B - S - A - S S | B - S - A - S S | A - S - A - S S | A - S - A - S S |
-    | B - S - A - S S |
-    | A - S - A - S S | B - S - A - S S | B - S - A - S S | A - S - A - S S | B - B - B - - - |
+    | B - S - X - S S | B - S - X - S S | X - S - X - S S | X - S - X - S S |
+    | B - S - X - S S | B - S - X - S S | X - S - X - S S | X - S - X - S S |
+    | B - S - X - S S |
+    | X - S - X - S S | B - S - X - S S | B - S - X - S S | X - S - X - S S | B - B - B - - - |
 }
 
 Scene3_Army_Development:Trumpet@|0|{
@@ -389,8 +389,8 @@ Scene3_Army_Development:Strings@|0|{
 
 Scene3_Army_Development:Drums@|0|{
     <8*>
-    | B - S - A - S S | A - S - A - S S | A - S - A - S S | A - S - A - S S |
-    | B - S - A - S S | A - S - A - S S | A - S - A - S S | A - S - B - - - |
+    | B - S - X - S S | X - S - X - S S | X - S - X - S S | X - S - X - S S |
+    | B - S - X - S S | X - S - X - S S | X - S - X - S S | X - S - B - - - |
 }
 
 Scene3_Zongzhi_Enlists_March:Trumpet@|0|{
@@ -407,8 +407,8 @@ Scene3_Zongzhi_Enlists_March:Strings@|0|{
 
 Scene3_Zongzhi_Enlists_March:Drums@|0|{
     <8*>
-    | B - S - A - S S | A - S - A - S S | A - S - A - S S | A - S - A - S S |
-    | B - S - A - S S | A - S - A - S S | A - S - A - S S | A - S - B - - - |
+    | B - S - X - S S | X - S - X - S S | X - S - X - S S | X - S - X - S S |
+    | B - S - X - S S | X - S - X - S S | X - S - X - S S | X - S - B - - - |
 }
 
 Scene3_Army_Zongzhi_Union:Trumpet@|0|{
@@ -431,8 +431,8 @@ Scene3_Army_Zongzhi_Union:Strings@|0|{
 
 Scene3_Army_Zongzhi_Union:Drums@|0|{
     <8*>
-    | B - S - A - S S | B - S - A - S S | B - S - A - S S | B - S - A - S S |
-    | B - S - A - S S | B - S - A - S S | A - S - A - S S | B - B - B - - - |
+    | B - S - X - S S | B - S - X - S S | B - S - X - S S | B - S - X - S S |
+    | B - S - X - S S | B - S - X - S S | X - S - X - S S | B - B - B - - - |
 }
 
 /* =================================================================== */
@@ -547,8 +547,8 @@ Scene5_Elephant_Steps:Bassoon@|0|{
 
 Scene5_Elephant_Steps:Drums@|0|{
     <4*>
-    | A 0 A 0 | A 0 A 0 |
-    | A 0 A 0 | A 0 A 0 |
+    | X 0 X 0 | X 0 X 0 |
+    | X 0 X 0 | X 0 X 0 |
 }
 
 Scene5_Elephant_Theme_Solo:Tuba@|0|{
@@ -577,10 +577,10 @@ Scene5_Elephant_Theme_Solo:Strings@|0|{
 
 Scene5_Elephant_Theme_Solo:Drums@|0|{
     <4*>
-    | A 0 A 0 | A 0 A 0 |
-    | A 0 A 0 | A 0 A 0 |
-    | A 0 A 0 | A 0 A 0 |
-    | A 0 A 0 | A 0 A 0 |
+    | X 0 X 0 | X 0 X 0 |
+    | X 0 X 0 | X 0 X 0 |
+    | X 0 X 0 | X 0 X 0 |
+    | X 0 X 0 | X 0 X 0 |
 }
 
 Scene5_Elephant_Gentle:Clarinet@|0|{
@@ -610,10 +610,10 @@ Scene5_Elephant_Gentle:Strings@|0|{
 
 Scene5_Elephant_Gentle:Drums@|0|{
     <8*>
-    | A - S - A - S - | A - S - A - S - |
-    | A - S - A - S - | A - S - A - S - |
-    | A - S - A - S - | A - S - A - S - |
-    | A - S - A - S - | A - S - B - - - |
+    | X - S - X - S - | X - S - X - S - |
+    | X - S - X - S - | X - S - X - S - |
+    | X - S - X - S - | X - S - X - S - |
+    | X - S - X - S - | X - S - B - - - |
 }
 
 /* =================================================================== */
@@ -654,9 +654,9 @@ Three_Themes_Polyphony:Strings@|0|{
 
 Three_Themes_Polyphony:Drums@|0|{
     <8*>
-    | B - S - A - S S | A - S - A - S S | A - S - A - S S | A - S - A - S S |
-    | B - S - A - S S | A - S - A - S S | A - S - A - S S | A - S - A - S S |
-    | B - S - A - S S | A - S - A - S S | A - S - A - S S | B - B - B - - - |
+    | B - S - X - S S | X - S - X - S S | X - S - X - S S | X - S - X - S S |
+    | B - S - X - S S | X - S - X - S S | X - S - X - S S | X - S - X - S S |
+    | B - S - X - S S | X - S - X - S S | X - S - X - S S | B - B - B - - - |
 }
 
 Scene6_Finale_New1stArmy:Trumpet@|0|{
@@ -699,8 +699,8 @@ Scene6_Finale_New1stArmy:Strings@|0|{
 
 Scene6_Finale_New1stArmy:Drums@|0|{
     <8*>
-    | A - S - A - S S | B - S - A - S S | B - S - A - S S | A - S - A - S S | B - S - A - S S |
-    | B - S - A - S S | B - S - A - S S | A - S - A - S S | B - B - B - B - | B - 0 - 0 - - - |
+    | X - S - X - S S | B - S - X - S S | B - S - X - S S | X - S - X - S S | B - S - X - S S |
+    | B - S - X - S S | B - S - X - S S | X - S - X - S S | B - B - B - B - | B - 0 - 0 - - - |
 }
 
 /* 結尾大終止式：小號與長笛齊奏宗治主題最後的核心音型 (3 6 1^^)，在新一軍長音終曲上定格！ */
@@ -736,5 +736,5 @@ Scene6_Grand_Cadence:Strings@|0|{
 
 Scene6_Grand_Cadence:Drums@|0|{
     <8*>
-    | B - S - A - S S | B - S - A - S S | B - B - B - B - | B - 0 - 0 - - - |
+    | B - S - X - S S | B - S - X - S S | B - B - B - B - | B - 0 - 0 - - - |
 }

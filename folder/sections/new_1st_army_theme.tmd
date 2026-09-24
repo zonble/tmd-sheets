@@ -29,8 +29,8 @@
 
 March_Intro:Drums@|0|{
     <8*>
-    | A - S - A - S S | A - S - A - S S |
-    | A - S - A - S S | A - S - B - - - |
+    | X - S - X - S S | X - S - X - S S |
+    | X - S - X - S S | X - S - B - - - |
 }
 
 March_Intro:Trumpet@|0|{
@@ -91,10 +91,10 @@ Army_Song_Full:Strings@|0|{
 
 Army_Song_Full:Drums@|0|{
     <8*>
-    | B - S - A - S S | A - S - A - S S | A - S - A - S S | A - S - A - S S |
-    | A - S - A - S S | A - S - A - S S | A - S - A - S S | A - S - A - S S |
-    | A - S - A - S S |
-    | A - S - A - S S | B - S - A - S S | A - S - A - S S | A - S - A - S S | A - S - B - - - |
+    | B - S - X - S S | X - S - X - S S | X - S - X - S S | X - S - X - S S |
+    | X - S - X - S S | X - S - X - S S | X - S - X - S S | X - S - X - S S |
+    | X - S - X - S S |
+    | X - S - X - S S | B - S - X - S S | X - S - X - S S | X - S - X - S S | X - S - B - - - |
 }
 
 /* -------------------------------------------------- */
@@ -143,10 +143,10 @@ Army_Song_Tutti:Strings@|0|{
 
 Army_Song_Tutti:Drums@|0|{
     <8*>
-    | B - S - A - S S | B - S - A - S S | A - S - A - S S | A - S - A - S S |
-    | B - S - A - S S | B - S - A - S S | A - S - A - S S | A - S - A - S S |
-    | B - S - A - S S |
-    | A - S - A - S S | B - S - A - S S | B - S - A - S S | A - S - A - S S | B - B - B - - - |
+    | B - S - X - S S | B - S - X - S S | X - S - X - S S | X - S - X - S S |
+    | B - S - X - S S | B - S - X - S S | X - S - X - S S | X - S - X - S S |
+    | B - S - X - S S |
+    | X - S - X - S S | B - S - X - S S | B - S - X - S S | X - S - X - S S | B - B - B - - - |
 }
 
 /* -------------------------------------------------- */
@@ -179,8 +179,8 @@ Fanfare_Development:Strings@|0|{
 
 Fanfare_Development:Drums@|0|{
     <8*>
-    | B - S - A - S S | A - S - A - S S | A - S - A - S S | A - S - A - S S |
-    | B - S - A - S S | A - S - A - S S | A - S - A - S S | A - S - B - - - |
+    | B - S - X - S S | X - S - X - S S | X - S - X - S S | X - S - X - S S |
+    | B - S - X - S S | X - S - X - S S | X - S - X - S S | X - S - B - - - |
 }
 
 /* -------------------------------------------------- */
@@ -213,8 +213,8 @@ Zongzhi_March:Strings@|0|{
 
 Zongzhi_March:Drums@|0|{
     <8*>
-    | B - S - A - S S | A - S - A - S S | A - S - A - S S | A - S - A - S S |
-    | B - S - A - S S | A - S - A - S S | A - S - A - S S | A - S - B - - - |
+    | B - S - X - S S | X - S - X - S S | X - S - X - S S | X - S - X - S S |
+    | B - S - X - S S | X - S - X - S S | X - S - X - S S | X - S - B - - - |
 }
 
 /* -------------------------------------------------- */
@@ -247,8 +247,8 @@ Grand_Union:Strings@|0|{
 
 Grand_Union:Drums@|0|{
     <8*>
-    | B - S - A - S S | B - S - A - S S | B - S - A - S S | B - S - A - S S |
-    | B - S - A - S S | B - S - A - S S | A - S - A - S S | B - B - B - - - |
+    | B - S - X - S S | B - S - X - S S | B - S - X - S S | B - S - X - S S |
+    | B - S - X - S S | B - S - X - S S | X - S - X - S S | B - B - B - - - |
 }
 
 /* -------------------------------------------------- */
@@ -277,5 +277,5 @@ Grand_Coda:Strings@|0|{
 
 Grand_Coda:Drums@|0|{
     <8*>
-    | B - S - A - S S | B - S - A - S S | B - B - B - B - | B - 0 - 0 - - - |
+    | B - S - X - S S | B - S - X - S S | B - B - B - B - | B - 0 - 0 - - - |
 }

@@ -80,10 +80,10 @@ General_Proud_March:Cello@|0|{
 
 General_Proud_March:Drums@|0|{
     <8*>
-    | A 0 S 0  A 0 S S | A 0 S 0  A 0 S S |
-    | A 0 S 0  A 0 S S | A 0 S 0  A S A S |
-    | A 0 S 0  A 0 S S | A 0 S 0  A 0 S S |
-    | A 0 S 0  A 0 S S | A S A S  B 0 0 0 |
+    | X 0 S 0  X 0 S S | X 0 S 0  X 0 S S |
+    | X 0 S 0  X 0 S S | X 0 S 0  X S X S |
+    | X 0 S 0  X 0 S S | X 0 S 0  X 0 S S |
+    | X 0 S 0  X 0 S S | X S X S  B 0 0 0 |
 }
 
 General_Proud_March:Timpani@|0|{

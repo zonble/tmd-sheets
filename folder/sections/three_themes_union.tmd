@@ -32,8 +32,8 @@
 
 Intro_Gathering:Drums@|0|{
     <8*>
-    | A - S - A - S S | A - S - A - S S |
-    | A - S - A - S S | A - S - B - - - |
+    | X - S - X - S S | X - S - X - S S |
+    | X - S - X - S S | X - S - B - - - |
 }
 
 Intro_Gathering:Tuba@|0|{
@@ -96,8 +96,8 @@ Layered_Entry:Strings@|0|{
 
 Layered_Entry:Drums@|0|{
     <8*>
-    | B - S - A - S S | A - S - A - S S | A - S - A - S S | A - S - A - S S |
-    | B - S - A - S S | A - S - A - S S | A - S - A - S S | A - S - B - - - |
+    | B - S - X - S S | X - S - X - S S | X - S - X - S S | X - S - X - S S |
+    | B - S - X - S S | X - S - X - S S | X - S - X - S S | X - S - B - - - |
 }
 
 /* -------------------------------------------------- */
@@ -147,9 +147,9 @@ Three_Themes_Polyphony:Strings@|0|{
 
 Three_Themes_Polyphony:Drums@|0|{
     <8*>
-    | B - S - A - S S | A - S - A - S S | A - S - A - S S | A - S - A - S S |
-    | B - S - A - S S | A - S - A - S S | A - S - A - S S | A - S - A - S S |
-    | B - S - A - S S | A - S - A - S S | A - S - A - S S | B - B - B - - - |
+    | B - S - X - S S | X - S - X - S S | X - S - X - S S | X - S - X - S S |
+    | B - S - X - S S | X - S - X - S S | X - S - X - S S | X - S - X - S S |
+    | B - S - X - S S | X - S - X - S S | X - S - X - S S | B - B - B - - - |
 }
 
 /* -------------------------------------------------- */
@@ -196,8 +196,8 @@ Finale_New1stArmy:Strings@|0|{
 
 Finale_New1stArmy:Drums@|0|{
     <8*>
-    | A - S - A - S S | B - S - A - S S | B - S - A - S S | A - S - A - S S | B - S - A - S S |
-    | B - S - A - S S | B - S - A - S S | A - S - A - S S | B - B - B - B - | B - 0 - 0 - - - |
+    | X - S - X - S S | B - S - X - S S | B - S - X - S S | X - S - X - S S | B - S - X - S S |
+    | B - S - X - S S | B - S - X - S S | X - S - X - S S | B - B - B - B - | B - 0 - 0 - - - |
 }
 
 /* -------------------------------------------------- */
@@ -236,5 +236,5 @@ Grand_Cadence:Strings@|0|{
 
 Grand_Cadence:Drums@|0|{
     <8*>
-    | B - S - A - S S | B - S - A - S S | B - B - B - B - | B - 0 - 0 - - - |
+    | B - S - X - S S | B - S - X - S S | B - B - B - B - | B - 0 - 0 - - - |
 }
