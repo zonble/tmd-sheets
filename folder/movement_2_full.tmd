@@ -135,8 +135,8 @@ Scene2_SteelBehemoth_Steel_Disturbance_Intro:Trombone@|0|{
 
 Scene2_SteelBehemoth_Steel_Disturbance_Intro:Timpani[pitchMode=fixed]@|0|{
     <4*>
-    | 1__ - - - | 0 - - - |
-    | 1__ - - - | 1__ 1__ 1__ 0 |
+    | 1_ - - - | 0 - - - |
+    | 1_ - - - | 1_ 1_ 1_ 0 |
 }
 
 Scene2_SteelBehemoth_Steel_Disturbance_Intro:Strings@|0|{
@@ -222,8 +222,8 @@ Scene2_SteelBehemoth_Steel_Rhythm_Build:Drums@|0|{
 
 Scene2_SteelBehemoth_Steel_Rhythm_Build:Timpani[pitchMode=fixed]@|0|{
     <4*>
-    | 1__ 0 0 0 | 1__ 0 0 0 |
-    | 1__ 0 1__ 0 | 1__ 1__ 1__ 1__ |
+    | 1_ 0 0 0 | 1_ 0 0 0 |
+    | 1_ 0 1_ 0 | 1_ 1_ 1_ 1_ |
 }
 
 
@@ -278,10 +278,10 @@ Scene2_SteelBehemoth_Steel_Behemoth_Tutti:Drums@|0|{
 
 Scene2_SteelBehemoth_Steel_Behemoth_Tutti:Timpani[pitchMode=fixed]@|0|{
     <4*>
-    | 1__ - - - | 1__ 0 1__ 0 |
-    | 1__ 1__ 1__ 1__ | 1__ - - 0 |
-    | 1__ - - - | 1__ 0 1__ 0 |
-    | 1__ 1__ 1__ 1__ | 1__ - - - |
+    | 1_ - - - | 1_ 0 1_ 0 |
+    | 1_ 1_ 1_ 1_ | 1_ - - 0 |
+    | 1_ - - - | 1_ 0 1_ 0 |
+    | 1_ 1_ 1_ 1_ | 1_ - - - |
 }
 
 
@@ -311,8 +311,8 @@ Scene2_SteelBehemoth_Steel_Whistle_Departure:Strings@|0|{
 
 Scene2_SteelBehemoth_Steel_Whistle_Departure:Timpani[pitchMode=fixed]@|0|{
     <4*>
-    | 1__ - - - | 1__ - - - |
-    | 1__ 0 0 0 | 0 - - - |
+    | 1_ - - - | 1_ - - - |
+    | 1_ 0 0 0 | 0 - - - |
 }
 
 Scene2_SteelBehemoth_Steel_Whistle_Departure:Drums@|0|{
@@ -508,19 +508,19 @@ Scene4_SnowBattle_Snow_Deadly_Piano:Strings@|0|{
 Scene4_SnowBattle_Snow_War_Explosion:Timpani[pitchMode=fixed]@|0|{
     <16*>
     
-    | 1__ - 1__ 0  0 1__ 1__ 0  1__ 1__ 1__ 0  1__ 0 0 0 |
+    | 1_ - 1_ 0  0 1_ 1_ 0  1_ 1_ 1_ 0  1_ 0 0 0 |
     
-    | 0 1__ 0 0  1__ 1__ 0 1__  0 0 1__ 1__  1__ 1__ 1__ 0 |
+    | 0 1_ 0 0  1_ 1_ 0 1_  0 0 1_ 1_  1_ 1_ 1_ 0 |
     
-    | 1__ - - -  0 0 1__ 0  1__ - - -  0 0 0 0 |
+    | 1_ - - -  0 0 1_ 0  1_ - - -  0 0 0 0 |
     
-    | 1__ 0 1__ 1__  0 1__ 0 0  1__ 1__ 0 1__  1__ 0 1__ 0 |
+    | 1_ 0 1_ 1_  0 1_ 0 0  1_ 1_ 0 1_  1_ 0 1_ 0 |
     
-    | 1__ 1__ 1__ 0  0 1__ 1__ 1__  1__ 0 0 1__  0 1__ 0 0 |
+    | 1_ 1_ 1_ 0  0 1_ 1_ 1_  1_ 0 0 1_  0 1_ 0 0 |
     
-    | 1__ - 0 0  1__ 0 0 1__  0 0 0 0  1__ 0 0 0 |
+    | 1_ - 0 0  1_ 0 0 1_  0 0 0 0  1_ 0 0 0 |
     
-    | 1__ - 1__ 0  0 0 1__ -  1__ 0 0 0  0 - - - |
+    | 1_ - 1_ 0  0 0 1_ -  1_ 0 0 0  0 - - - |
 }
 
 
@@ -548,8 +548,8 @@ Scene5_SiegeChangchun_Siege_Cold_Hunger:Strings@|0|{
 Scene5_SiegeChangchun_Siege_Cold_Hunger:Timpani[pitchMode=fixed]@|0|{
     <4*>
     
-    | 1__ 0 0 0 | 1__ 0 0 0 |
-    | 1__ 0 0 0 | 1__ - - 0 |
+    | 1_ 0 0 0 | 1_ 0 0 0 |
+    | 1_ 0 0 0 | 1_ - - 0 |
 }
 
 
@@ -623,9 +623,9 @@ Scene5_SiegeChangchun_Siege_Collapse_Death:Strings@|0|{
 
 Scene5_SiegeChangchun_Siege_Collapse_Death:Timpani[pitchMode=fixed]@|0|{
     <4*>
-    | 1__ - - - | 0 - - - |
-    | 1__ - - - | 1__ 0 0 0 |
-    | 1__ - - - | 0 - - - |
+    | 1_ - - - | 0 - - - |
+    | 1_ - - - | 1_ 0 0 0 |
+    | 1_ - - - | 0 - - - |
 }
 
 Scene5_SiegeChangchun_Siege_Collapse_Death:Seashore@|0|{
@@ -743,10 +743,10 @@ Scene6_OceanFugue_Fugue_Ocean_Swell:Strings@|0|{
 
 Scene6_OceanFugue_Fugue_Ocean_Swell:Timpani[pitchMode=fixed]@|0|{
     <4*>
-    | 1__ - - - | 1__ - - - |
-    | 1__ 0 1__ 0 | 1__ - - 0 |
-    | 1__ - - - | 1__ - - - |
-    | 1__ 1__ 1__ 1__ | 1__ - - - |
+    | 1_ - - - | 1_ - - - |
+    | 1_ 0 1_ 0 | 1_ - - 0 |
+    | 1_ - - - | 1_ - - - |
+    | 1_ 1_ 1_ 1_ | 1_ - - - |
 }
 
 Scene6_OceanFugue_Fugue_Ocean_Swell:Seashore@|0|{

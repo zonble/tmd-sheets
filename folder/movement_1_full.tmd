@@ -122,7 +122,7 @@ Scene1_Memory_Handoff:Cello@|0|{
 Scene2_Tension_Timpani:Timpani[pitchMode=fixed]@|0|{
     <4*>
     {!= 76}
-    | 1__ 1__ 0 0 | 1__ 1__ 0 0 |
+    | 1_ 1_ 0 0 | 1_ 1_ 0 0 |
 }
 
 Scene2_Tension_Timpani:Cello@|0|{
@@ -227,8 +227,8 @@ Scene2_River_Rush:Cello@|0|{
 Scene2_Approaching_City:Timpani[pitchMode=fixed]@|0|{
     <4*>
     {!= 132}
-    | 1__ 0 1__ 0 | 1__ 1__ 1__ 0 | 1__ 0 1__ 0 | 1__ 1__ 1__ 0 |
-    | 1__ 0 1__ 0 | 1__ 1__ 1__ 0 | 1__ 1__ 1__ 1__ | 1__ - - - |
+    | 1_ 0 1_ 0 | 1_ 1_ 1_ 0 | 1_ 0 1_ 0 | 1_ 1_ 1_ 0 |
+    | 1_ 0 1_ 0 | 1_ 1_ 1_ 0 | 1_ 1_ 1_ 1_ | 1_ - - - |
 }
 
 Scene2_Approaching_City:Violin@|0|{
@@ -267,8 +267,8 @@ Scene2_Dock_Threshold:Clarinet@|0|{
 
 Scene2_Dock_Threshold:Timpani[pitchMode=fixed]@|0|{
     <4*>
-    | 1__ - - - | 1__ - - - | 1__ - - - |
-    | 0 - - - | 0 - - - | 1__ - - - | 1__ - - - |
+    | 1_ - - - | 1_ - - - | 1_ - - - |
+    | 0 - - - | 0 - - - | 1_ - - - | 1_ - - - |
 }
 
 Scene2_Dock_Threshold:Drums@|0|{
@@ -442,8 +442,8 @@ Scene3_Army_Zongzhi_Union:Drums@|0|{
 Scene4_General_Intro:Timpani[pitchMode=fixed]@|0|{
     <4*>
     {!= 100}
-    | 1__ 0 5___ 0 | 1__ 1__ 5___ 0 |
-    | 1__ 0 5___ 0 | 1__ - 1__ 0 |
+    | 1_ 0 5__ 0 | 1_ 1_ 5__ 0 |
+    | 1_ 0 5__ 0 | 1_ - 1_ 0 |
 }
 
 Scene4_General_Intro:Trumpet@|0|{
@@ -479,8 +479,8 @@ Scene4_General_Noble_Theme:Strings@|0|{
 
 Scene4_General_Noble_Theme:Timpani[pitchMode=fixed]@|0|{
     <4*>
-    | 1__ 0 5___ 0 | 5___ 0 1__ 0 | 4___ 0 5___ 0 | 5___ 0 1__ 0 |
-    | 1__ 0 5___ 0 | 5___ 0 1__ 0 | 4___ 0 5___ 0 | 1__ - - 0 |
+    | 1_ 0 5__ 0 | 5__ 0 1_ 0 | 4__ 0 5__ 0 | 5__ 0 1_ 0 |
+    | 1_ 0 5__ 0 | 5__ 0 1_ 0 | 4__ 0 5__ 0 | 1_ - - 0 |
 }
 
 Scene4_General_Triumph_Climax:Trumpet@|0|{
@@ -503,8 +503,8 @@ Scene4_General_Triumph_Climax:Strings@|0|{
 
 Scene4_General_Triumph_Climax:Timpani[pitchMode=fixed]@|0|{
     <4*>
-    | 1__ - 5___ - | 5___ - 1__ - | 4___ - 5___ - | 5___ - 1__ - |
-    | 1__ - 5___ - | 5___ - 1__ - | 4___ - 5___ - | 1__ - - 0 |
+    | 1_ - 5__ - | 5__ - 1_ - | 4__ - 5__ - | 5__ - 1_ - |
+    | 1_ - 5__ - | 5__ - 1_ - | 4__ - 5__ - | 1_ - - 0 |
 }
 
 Scene4_General_Salute:Trumpet@|0|{
@@ -524,7 +524,7 @@ Scene4_General_Salute:Strings@|0|{
 
 Scene4_General_Salute:Timpani[pitchMode=fixed]@|0|{
     <4*>
-    | 1__ - - - | 5___ - - - | 1__ - 1__ - | 1__ 0 0 0 |
+    | 1_ - - - | 5__ - - - | 1_ - 1_ - | 1_ 0 0 0 |
 }
 
 /* =================================================================== */
