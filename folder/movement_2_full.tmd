@@ -133,7 +133,7 @@ Scene2_SteelBehemoth_Steel_Disturbance_Intro:Trombone@|0|{
     | 6__ - - - - - - - | 6__ - - - - - - - |
 }
 
-Scene2_SteelBehemoth_Steel_Disturbance_Intro:Timpani@|0|{
+Scene2_SteelBehemoth_Steel_Disturbance_Intro:Timpani[pitchMode=fixed]@|0|{
     <4*>
     | 1__ - - - | 0 - - - |
     | 1__ - - - | 1__ 1__ 1__ 0 |
@@ -220,7 +220,7 @@ Scene2_SteelBehemoth_Steel_Rhythm_Build:Drums@|0|{
     | X - S - X - S - | X - S S X - S S |
 }
 
-Scene2_SteelBehemoth_Steel_Rhythm_Build:Timpani@|0|{
+Scene2_SteelBehemoth_Steel_Rhythm_Build:Timpani[pitchMode=fixed]@|0|{
     <4*>
     | 1__ 0 0 0 | 1__ 0 0 0 |
     | 1__ 0 1__ 0 | 1__ 1__ 1__ 1__ |
@@ -276,7 +276,7 @@ Scene2_SteelBehemoth_Steel_Behemoth_Tutti:Drums@|0|{
     | B - S - X - S - | X - S S B - B - |
 }
 
-Scene2_SteelBehemoth_Steel_Behemoth_Tutti:Timpani@|0|{
+Scene2_SteelBehemoth_Steel_Behemoth_Tutti:Timpani[pitchMode=fixed]@|0|{
     <4*>
     | 1__ - - - | 1__ 0 1__ 0 |
     | 1__ 1__ 1__ 1__ | 1__ - - 0 |
@@ -309,7 +309,7 @@ Scene2_SteelBehemoth_Steel_Whistle_Departure:Strings@|0|{
     [Am] - - - | [Am] - - - |
 }
 
-Scene2_SteelBehemoth_Steel_Whistle_Departure:Timpani@|0|{
+Scene2_SteelBehemoth_Steel_Whistle_Departure:Timpani[pitchMode=fixed]@|0|{
     <4*>
     | 1__ - - - | 1__ - - - |
     | 1__ 0 0 0 | 0 - - - |
@@ -505,7 +505,7 @@ Scene4_SnowBattle_Snow_Deadly_Piano:Strings@|0|{
 }
 
 
-Scene4_SnowBattle_Snow_War_Explosion:Timpani@|0|{
+Scene4_SnowBattle_Snow_War_Explosion:Timpani[pitchMode=fixed]@|0|{
     <16*>
     
     | 1__ - 1__ 0  0 1__ 1__ 0  1__ 1__ 1__ 0  1__ 0 0 0 |
@@ -545,7 +545,7 @@ Scene5_SiegeChangchun_Siege_Cold_Hunger:Strings@|0|{
     [Dm] - - - | [E7] - - - |
 }
 
-Scene5_SiegeChangchun_Siege_Cold_Hunger:Timpani@|0|{
+Scene5_SiegeChangchun_Siege_Cold_Hunger:Timpani[pitchMode=fixed]@|0|{
     <4*>
     
     | 1__ 0 0 0 | 1__ 0 0 0 |
@@ -621,7 +621,7 @@ Scene5_SiegeChangchun_Siege_Collapse_Death:Strings@|0|{
     [Am] - - - | [Am] - - - |
 }
 
-Scene5_SiegeChangchun_Siege_Collapse_Death:Timpani@|0|{
+Scene5_SiegeChangchun_Siege_Collapse_Death:Timpani[pitchMode=fixed]@|0|{
     <4*>
     | 1__ - - - | 0 - - - |
     | 1__ - - - | 1__ 0 0 0 |
@@ -741,7 +741,7 @@ Scene6_OceanFugue_Fugue_Ocean_Swell:Strings@|0|{
     [Am] - - - | [Em] - - - | [F] - [G] - | [Am] - - - |
 }
 
-Scene6_OceanFugue_Fugue_Ocean_Swell:Timpani@|0|{
+Scene6_OceanFugue_Fugue_Ocean_Swell:Timpani[pitchMode=fixed]@|0|{
     <4*>
     | 1__ - - - | 1__ - - - |
     | 1__ 0 1__ 0 | 1__ - - 0 |

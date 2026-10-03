@@ -138,7 +138,7 @@ Scene2_RedEast_RedEast_Gale_Intro:Trombone@|0|{
     | 3__ - - - | 6__ 0 0 0 |
 }
 
-Scene2_RedEast_RedEast_Gale_Intro:Timpani@|0|{
+Scene2_RedEast_RedEast_Gale_Intro:Timpani[pitchMode=fixed]@|0|{
     <4*>
     /* 沉悶心跳與孤立單音敲擊 */
     | 6__ 0 0 0 | 0 - - - |
@@ -212,7 +212,7 @@ Scene2_RedEast_RedEast_March_Build:Strings@|0|{
     [F] - [E7] -  | [Am] - - - |
 }
 
-Scene2_RedEast_RedEast_March_Build:Timpani@|0|{
+Scene2_RedEast_RedEast_March_Build:Timpani[pitchMode=fixed]@|0|{
     <4*>
     | 6__ - 3__ - | 4__ - 3__ - |
     | 6__ - 3__ - | 6__ 0 0 0 |
@@ -276,7 +276,7 @@ Scene2_RedEast_RedEast_Storm_Tutti:Strings@|0|{
     [F] - [E7] -  | [Am] - - - |
 }
 
-Scene2_RedEast_RedEast_Storm_Tutti:Timpani@|0|{
+Scene2_RedEast_RedEast_Storm_Tutti:Timpani[pitchMode=fixed]@|0|{
     <4*>
     | 6__ 6__ 3__ 3__ | 4__ 4__ 3__ 3__ |
     | 6__ 6__ 3__ 3__ | 6__ 6__ 3__ 3__ |
@@ -304,7 +304,7 @@ Scene2_RedEast_RedEast_Iron_Curtain_End:Tuba@|0|{
     | 3___ - - - | 3___ 0 0 0 |
 }
 
-Scene2_RedEast_RedEast_Iron_Curtain_End:Timpani@|0|{
+Scene2_RedEast_RedEast_Iron_Curtain_End:Timpani[pitchMode=fixed]@|0|{
     <4*>
     | 3__ - - - | 3__ 0 0 0 |
 }
@@ -316,7 +316,7 @@ Scene2_RedEast_RedEast_Iron_Curtain_End:Strings@|0|{
 
 
 /* === Scene3_SevenBombs === */
-Scene3_SevenBombs_SevenBombs_Impacts_1_to_3:Timpani@|0|{
+Scene3_SevenBombs_SevenBombs_Impacts_1_to_3:Timpani[pitchMode=fixed]@|0|{
     <4*>
     /* 第 1 擊 */
     | 1__ - 1__ 0 | 0 - - - |
@@ -364,7 +364,7 @@ Scene3_SevenBombs_SevenBombs_Impacts_1_to_3:Tuba@|0|{
     | 4___ - - 0 | 3___ - - - |
 }
 
-Scene3_SevenBombs_SevenBombs_Impacts_4_to_6:Timpani@|0|{
+Scene3_SevenBombs_SevenBombs_Impacts_4_to_6:Timpani[pitchMode=fixed]@|0|{
     <4*>
     /* 第 4 擊 */
     | 1__ 1__ 1__ 1__ | 1__ 0 0 0 |
@@ -424,7 +424,7 @@ Scene3_SevenBombs_SevenBombs_Impacts_4_to_6:Strings@|0|{
     [Dm] - [E7] - | [Am] - [E7] - |
 }
 
-Scene3_SevenBombs_SevenBombs_Seventh_Final_Blast:Timpani@|0|{
+Scene3_SevenBombs_SevenBombs_Seventh_Final_Blast:Timpani[pitchMode=fixed]@|0|{
     <4*>
     /* 第 7 擊：毀滅性連環重槌爆裂 */
     | 1__ 1__ 1__ 1__ | 1__ 1__ 1__ 1__ |
@@ -492,7 +492,7 @@ Scene3_SevenBombs_SevenBombs_Burning_Ashes_Dirge:Strings@|0|{
     [E7] - - - | [Am] - - - |
 }
 
-Scene3_SevenBombs_SevenBombs_Burning_Ashes_Dirge:Timpani@|0|{
+Scene3_SevenBombs_SevenBombs_Burning_Ashes_Dirge:Timpani[pitchMode=fixed]@|0|{
     <4*>
     | 0 - - - | 0 - - - |
     | 0 - - - | 1__ 0 0 0 |
@@ -553,7 +553,7 @@ Scene4_GeneralVariation_General_Proud_March:Drums@|0|{
     | X 0 S 0  X 0 S S | X S X S  B 0 0 0 |
 }
 
-Scene4_GeneralVariation_General_Proud_March:Timpani@|0|{
+Scene4_GeneralVariation_General_Proud_March:Timpani[pitchMode=fixed]@|0|{
     <4*>
     | 1__ 0 5___ 0 | 5___ 0 1__ 0 | 4___ 0 5___ 0 | 5___ 0 1__ 0 |
     | 1__ 0 5___ 0 | 5___ 0 1__ 0 | 4___ 0 5___ 0 | 1__ - - 0 |
@@ -595,7 +595,7 @@ Scene4_GeneralVariation_General_Fall_Disruption:Cello@|0|{
     | 4__ - - - | 3__ - - - |
 }
 
-Scene4_GeneralVariation_General_Fall_Disruption:Timpani@|0|{
+Scene4_GeneralVariation_General_Fall_Disruption:Timpani[pitchMode=fixed]@|0|{
     <4*>
     | 6__ - - - | 0 - - - |
     | 4__ - - - | 3__ - - - |
@@ -888,7 +888,7 @@ Scene5_NurseryFugue_Fugue_Coda:Strings@|0|{
 
 
 /* === Scene6_ZongzhiDayuan === */
-Scene6_ZongzhiDayuan_Dayuan_Night_Omen:Timpani@|0|{
+Scene6_ZongzhiDayuan_Dayuan_Night_Omen:Timpani[pitchMode=fixed]@|0|{
     <4*>
     | 6___ 0 0 0 | 6___ 0 0 0 |
     | 6___ 0 0 0 | 6___ - - 0 |
@@ -1164,7 +1164,7 @@ Scene8_LegacyEpilogue_Epilogue_Grand_Chorus_Legacy:Cello@|0|{
     | 2__ - - - | 5__ - - - | 6__ - - - | 6__ - - - |
 }
 
-Scene8_LegacyEpilogue_Epilogue_Grand_Chorus_Legacy:Timpani@|0|{
+Scene8_LegacyEpilogue_Epilogue_Grand_Chorus_Legacy:Timpani[pitchMode=fixed]@|0|{
     <4*>
     | 4___ 0 0 0 | 4___ 0 0 0 | 5___ 0 0 0 | 5___ 0 0 0 |
     | 3___ 0 0 0 | 3___ 0 0 0 | 6___ 0 0 0 | 6___ 0 0 0 |
