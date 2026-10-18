@@ -30,7 +30,7 @@
 | :---: | :--- | :--- | :---: | :--- | :--- |
 | **一** | **[`1_awoba/`](grade_3/1_awoba/)** | あをば（青葉） | 2–3 | [`image.jpeg`](grade_3/1_awoba/image.jpeg)、[`image2.jpeg`](grade_3/1_awoba/image2.jpeg) | [`awoba.tmd`](grade_3/1_awoba/awoba.tmd) |
 | **二** | **[`2_daisha/`](grade_3/2_daisha/)** | だいしゃ（台車） | 4–5 | [`image.jpeg`](grade_3/2_daisha/image.jpeg)、[`image2.jpeg`](grade_3/2_daisha/image2.jpeg) | [`daisha.tmd`](grade_3/2_daisha/daisha.tmd)、[`daisha_piano.tmd`](grade_3/2_daisha/daisha_piano.tmd) |
-| **三** | **[`3_muranokajiya/`](grade_3/3_muranokajiya/)** | 村のかぢや（村之鍛冶屋） | 6–9 | [`image.jpeg`](grade_3/3_muranokajiya/image.jpeg)～[`image4.jpeg`](grade_3/3_muranokajiya/image4.jpeg) | [`muranokajiya_anime.tmd`](grade_3/3_muranokajiya/muranokajiya_anime.tmd) |
+| **三** | **[`3_muranokajiya/`](grade_3/3_muranokajiya/)** | 村のかぢや（村之鍛冶屋） | 6–9 | [`image.jpeg`](grade_3/3_muranokajiya/image.jpeg)～[`image4.jpeg`](grade_3/3_muranokajiya/image4.jpeg) | [`muranokajiya.tmd`](grade_3/3_muranokajiya/muranokajiya.tmd)、[`muranokajiya_anime.tmd`](grade_3/3_muranokajiya/muranokajiya_anime.tmd) |
 | **四** | **[`4_gyusha/`](grade_3/4_gyusha/)** | 牛車 | 10–11 | [`image.jpeg`](grade_3/4_gyusha/image.jpeg)、[`image2.jpeg`](grade_3/4_gyusha/image2.jpeg) | [`gyusha.tmd`](grade_3/4_gyusha/gyusha.tmd) |
 | **五** | **[`5_nagaioyasumi/`](grade_3/5_nagaioyasumi/)** | ながいお休（長假） | 12–13 | [`image.jpeg`](grade_3/5_nagaioyasumi/image.jpeg)、[`image2.jpeg`](grade_3/5_nagaioyasumi/image2.jpeg) | [`nagaioyasumi.tmd`](grade_3/5_nagaioyasumi/nagaioyasumi.tmd) |
 | **六** | **[`6_semi/`](grade_3/6_semi/)** | せみ（蟬） | 14–15 | [`image.jpeg`](grade_3/6_semi/image.jpeg)、[`image2.jpeg`](grade_3/6_semi/image2.jpeg) | *(待製譜)* |

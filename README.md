@@ -84,7 +84,7 @@ tmd-sheets/
 * [`grade_3/0_book_info/`](kogakko_shoka/grade_3/0_book_info/) — 封面、扉頁、目錄（もくろく）、版權頁與舊藏者手寫筆記
 * [`grade_3/1_awoba/`](kogakko_shoka/grade_3/1_awoba/) — 第一課〈あをば〉（[`awoba.tmd`](kogakko_shoka/grade_3/1_awoba/awoba.tmd)）
 * [`grade_3/2_daisha/`](kogakko_shoka/grade_3/2_daisha/) — 第二課〈だいしゃ（台車）〉（[`daisha.tmd`](kogakko_shoka/grade_3/2_daisha/daisha.tmd)、[`daisha_piano.tmd`](kogakko_shoka/grade_3/2_daisha/daisha_piano.tmd)）
-* [`grade_3/3_muranokajiya/`](kogakko_shoka/grade_3/3_muranokajiya/) — 第三課〈村のかぢや〉（[`muranokajiya_anime.tmd`](kogakko_shoka/grade_3/3_muranokajiya/muranokajiya_anime.tmd) 動漫熱血改編版）
+* [`grade_3/3_muranokajiya/`](kogakko_shoka/grade_3/3_muranokajiya/) — 第三課〈村のかぢや〉（[`muranokajiya.tmd`](kogakko_shoka/grade_3/3_muranokajiya/muranokajiya.tmd)、[`muranokajiya_anime.tmd`](kogakko_shoka/grade_3/3_muranokajiya/muranokajiya_anime.tmd) 動漫熱血改編版）
 * [`grade_3/4_gyusha/`](kogakko_shoka/grade_3/4_gyusha/) — 第四課〈牛車〉（[`gyusha.tmd`](kogakko_shoka/grade_3/4_gyusha/gyusha.tmd)）
 * [`grade_3/5_nagaioyasumi/`](kogakko_shoka/grade_3/5_nagaioyasumi/) — 第五課〈ながいお休〉（[`nagaioyasumi.tmd`](kogakko_shoka/grade_3/5_nagaioyasumi/nagaioyasumi.tmd)）
 * [`grade_3/6_semi/`](kogakko_shoka/grade_3/6_semi/) — 第六課〈せみ（蟬）〉
