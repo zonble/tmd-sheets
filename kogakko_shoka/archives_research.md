@@ -8,14 +8,14 @@
 
 昭和 9 年（1934 年）起由臺灣總督府編纂發行之《公學校唱歌》課本（五線譜版，封面為紅黑雙色鳳梨與小鳥圖案），以及相關歌詞本館藏現況如下：
 
-| 學年／版本 | 臺史博典藏號 | 國家文化記憶庫連結 | 版本與舊藏者資訊 | 線上數位化現況 | 圖檔 URL 規則 |
+| 學年／版本 | 臺史博典藏號 | 國家文化記憶庫連結 | 版本與舊藏者資訊 | 本地歸檔目錄（張數） | 圖檔 URL 規則 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **第三學年用**（五線譜課本） | [`2020.006.0855`](https://collections.nmth.gov.tw/CollectionContent.aspx?a=132&rno=2020.006.0855) | [`11000180518`](https://tcmb.culture.tw/zh-tw/detail?indexCode=MOCCOLLECTIONS&id=11000180518) | 昭和 9 年初版、昭和 17 年（1942）十二版；舊藏者署名「李政乃」 | **全書 45 頁高解析掃描**（已全數歸檔並完成 TMD 記譜於 [`grade_3/`](grade_3/)） | `https://collections.culture.tw/files/11/JPG/20200060855_P001.jpg` ～ `P045.jpg` |
-| **第三學年用**（五線譜課本・異版） | [`2020.014.0007`](https://collections.nmth.gov.tw/CollectionContent.aspx?a=132&rno=2020.014.0007) | — | 昭和 10 年（1935）二版；士林公學校學生「郭燦坤」藏書 | 僅 **5 張外觀與局部照** | `https://collections.culture.tw/files/11/JPG640/20200140007_I001.jpg` ～ `I005.jpg` |
-| **第四學年用**（五線譜課本） | [`2004.007.0365`](https://collections.nmth.gov.tw/CollectionContent.aspx?a=132&rno=2004.007.0365) | [`11000028571`](https://tcmb.culture.tw/zh-tw/detail?indexCode=MOCCOLLECTIONS&id=11000028571) | 紅黑鳳梨小鳥封面；舊藏者署名「劉永富」 | 僅 **3 張封面／封底外觀照**（內頁未上傳） | `https://collections.culture.tw/files/11/JPG640/20040070365_I001.jpg` ～ `I003.jpg` |
-| **第五學年用**（五線譜課本） | [`2004.007.0366`](https://collections.nmth.gov.tw/CollectionContent.aspx?a=132&rno=2004.007.0366) | [`11000028573`](https://tcmb.culture.tw/zh-tw/detail?indexCode=MOCCOLLECTIONS&id=11000028573) | 紅黑鳳梨小鳥封面 | 僅 **3 張封面／封底外觀照**（內頁未上傳） | `https://collections.culture.tw/files/11/JPG640/20040070366_I001.jpg` ～ `I003.jpg` |
-| **第六學年用**（五線譜課本） | [`2004.007.0367`](https://collections.nmth.gov.tw/CollectionContent.aspx?a=132&rno=2004.007.0367) | — | 紅黑鳳梨小鳥封面；舊藏者署名「劉永富」 | 僅 **3 張封面／封底外觀照**（內頁未上傳） | `https://collections.culture.tw/files/11/JPG640/20040070367_I001.jpg` ～ `I003.jpg` |
-| **第六學年用**（歌詞本） | [`2022.027.0010`](https://collections.nmth.gov.tw/CollectionContent.aspx?a=132&rno=2022.027.0010) | [`11000200036`](https://tcmb.culture.tw/zh-tw/detail?indexCode=MOCCOLLECTIONS&id=11000200036) | 花環封面歌詞本（無樂譜，僅收錄 20 首歌詞） | 僅 **4 張封面／封底外觀照**（館藏詮釋資料載有部分曲目） | `https://collections.culture.tw/files/11/JPG640/20220270010_I001.jpg` ～ `I004.jpg` |
+| **第三學年用**（五線譜課本） | [`2020.006.0855`](https://collections.nmth.gov.tw/CollectionContent.aspx?a=132&rno=2020.006.0855) | [`11000180518`](https://tcmb.culture.tw/zh-tw/detail?indexCode=MOCCOLLECTIONS&id=11000180518) | 昭和 9 年初版、昭和 17 年（1942）十二版；舊藏者署名「李政乃」 | **[`grade_3/`](grade_3/)**（全書 45 頁高解析掃描＋全 15 課 TMD 樂譜） | `https://collections.culture.tw/files/11/JPG/20200060855_P001.jpg` ～ `P045.jpg` |
+| **第三學年用**（五線譜課本・異版） | [`2020.014.0007`](https://collections.nmth.gov.tw/CollectionContent.aspx?a=132&rno=2020.014.0007) | — | 昭和 10 年（1935）二版；士林公學校學生「郭燦坤」藏書 | **[`other_editions/grade_3_1935_2020.014.0007/`](other_editions/grade_3_1935_2020.014.0007/)**（5 張外觀與局部照） | `https://collections.culture.tw/files/11/JPG640/20200140007_I001.jpg` ～ `I005.jpg` |
+| **第四學年用**（五線譜課本） | [`2004.007.0365`](https://collections.nmth.gov.tw/CollectionContent.aspx?a=132&rno=2004.007.0365) | [`11000028571`](https://tcmb.culture.tw/zh-tw/detail?indexCode=MOCCOLLECTIONS&id=11000028571) | 紅黑鳳梨小鳥封面；舊藏者署名「劉永富」 | **[`other_editions/grade_4_2004.007.0365/`](other_editions/grade_4_2004.007.0365/)**（3 張外觀照） | `https://collections.culture.tw/files/11/JPG640/20040070365_I001.jpg` ～ `I003.jpg` |
+| **第五學年用**（五線譜課本） | [`2004.007.0366`](https://collections.nmth.gov.tw/CollectionContent.aspx?a=132&rno=2004.007.0366) | [`11000028573`](https://tcmb.culture.tw/zh-tw/detail?indexCode=MOCCOLLECTIONS&id=11000028573) | 紅黑鳳梨小鳥封面 | **[`other_editions/grade_5_2004.007.0366/`](other_editions/grade_5_2004.007.0366/)**（3 張外觀照） | `https://collections.culture.tw/files/11/JPG640/20040070366_I001.jpg` ～ `I003.jpg` |
+| **第六學年用**（五線譜課本） | [`2004.007.0367`](https://collections.nmth.gov.tw/CollectionContent.aspx?a=132&rno=2004.007.0367) | — | 紅黑鳳梨小鳥封面；舊藏者署名「劉永富」 | **[`other_editions/grade_6_2004.007.0367/`](other_editions/grade_6_2004.007.0367/)**（3 張外觀照） | `https://collections.culture.tw/files/11/JPG640/20040070367_I001.jpg` ～ `I003.jpg` |
+| **第六學年用**（歌詞本） | [`2022.027.0010`](https://collections.nmth.gov.tw/CollectionContent.aspx?a=132&rno=2022.027.0010) | [`11000200036`](https://tcmb.culture.tw/zh-tw/detail?indexCode=MOCCOLLECTIONS&id=11000200036) | 花環封面歌詞本（無樂譜，僅收錄 20 首歌詞） | **[`other_editions/grade_6_lyrics_2022.027.0010/`](other_editions/grade_6_lyrics_2022.027.0010/)**（4 張外觀照） | `https://collections.culture.tw/files/11/JPG640/20220270010_I001.jpg` ～ `I004.jpg` |
 
 ### 附註：《公學校唱歌 第六學年用》（`2022.027.0010`）館藏詮釋資料所載曲目
 
@@ -26,18 +26,18 @@
 
 ## 二、臺灣教育會公認・日本教育唱歌研究會編《新定兒童唱歌》全套（全頁高解析掃描）
 
-在臺史博與《公學校唱歌 第三學年用》（`2020.006.0855`）同一批入藏並完成全書數位化的藏品中，有一整套**臺灣教育會公認・日本教育唱歌研究會編《新定兒童唱歌》**（昭和 7 年／1932 年發行，共 8 冊，每冊均附**完整五線譜、歌詞與樂理教學**，共計 **811 頁**高解析全頁掃描）：
+在臺史博與《公學校唱歌 第三學年用》（`2020.006.0855`）同一批入藏並完成全書數位化的藏品中，有一整套**臺灣教育會公認・日本教育唱歌研究會編《新定兒童唱歌》**（昭和 7 年／1932 年發行，共 8 冊，每冊均附**完整五線譜、歌詞與樂理教學**，共計 **811 頁**高解析全頁掃描，已全數下載歸檔於 [`shintei_jido_shoka/`](shintei_jido_shoka/)）：
 
-| 冊別 | 臺史博典藏號 | 國家文化記憶庫連結 | 全書掃描頁數 | 高解析圖檔 URL 規則 |
-| :--- | :--- | :--- | :---: | :--- |
-| **尋常科 第一學年** | [`2020.006.0847.0001`](https://collections.nmth.gov.tw/CollectionContent.aspx?a=132&rno=2020.006.0847.0001) | [`11000180510`](https://tcmb.culture.tw/zh-tw/detail?indexCode=MOCCOLLECTIONS&id=11000180510) | **83 頁** | `https://collections.culture.tw/files/11/JPG/202000608470001_P001.jpg` ～ `P083.jpg` |
-| **尋常科 第二學年** | [`2020.006.0847.0002`](https://collections.nmth.gov.tw/CollectionContent.aspx?a=132&rno=2020.006.0847.0002) | [`11000180511`](https://tcmb.culture.tw/zh-tw/detail?indexCode=MOCCOLLECTIONS&id=11000180511) | **83 頁** | `https://collections.culture.tw/files/11/JPG/202000608470002_P001.jpg` ～ `P083.jpg` |
-| **尋常科 第三學年** | [`2020.006.0847.0003`](https://collections.nmth.gov.tw/CollectionContent.aspx?a=132&rno=2020.006.0847.0003) | [`11000180512`](https://tcmb.culture.tw/zh-tw/detail?indexCode=MOCCOLLECTIONS&id=11000180512) | **100 頁** | `https://collections.culture.tw/files/11/JPG/202000608470003_P001.jpg` ～ `P100.jpg` |
-| **尋常科 第四學年** | [`2020.006.0847.0004`](https://collections.nmth.gov.tw/CollectionContent.aspx?a=132&rno=2020.006.0847.0004) | [`11000180513`](https://tcmb.culture.tw/zh-tw/detail?indexCode=MOCCOLLECTIONS&id=11000180513) | **93 頁** | `https://collections.culture.tw/files/11/JPG/202000608470004_P001.jpg` ～ `P093.jpg` |
-| **尋常科 第五學年** | [`2020.006.0847.0005`](https://collections.nmth.gov.tw/CollectionContent.aspx?a=132&rno=2020.006.0847.0005) | [`11000180514`](https://tcmb.culture.tw/zh-tw/detail?indexCode=MOCCOLLECTIONS&id=11000180514) | **89 頁** | `https://collections.culture.tw/files/11/JPG/202000608470005_P001.jpg` ～ `P089.jpg` |
-| **尋常科 第六學年** | [`2020.006.0847.0006`](https://collections.nmth.gov.tw/CollectionContent.aspx?a=132&rno=2020.006.0847.0006) | [`11000180515`](https://tcmb.culture.tw/zh-tw/detail?indexCode=MOCCOLLECTIONS&id=11000180515) | **95 頁** | `https://collections.culture.tw/files/11/JPG/202000608470006_P001.jpg` ～ `P095.jpg` |
-| **高等科 男子一二年用** | [`2020.006.0848`](https://collections.nmth.gov.tw/CollectionContent.aspx?a=132&rno=2020.006.0848) | [`11000180516`](https://tcmb.culture.tw/zh-tw/detail?indexCode=MOCCOLLECTIONS&id=11000180516) | **133 頁** | `https://collections.culture.tw/files/11/JPG/20200060848_P001.jpg` ～ `P133.jpg` |
-| **高等科 女子一二年用** | [`2020.006.0849`](https://collections.nmth.gov.tw/CollectionContent.aspx?a=132&rno=2020.006.0849) | [`11000180517`](https://tcmb.culture.tw/zh-tw/detail?indexCode=MOCCOLLECTIONS&id=11000180517) | **135 頁** | `https://collections.culture.tw/files/11/JPG/20200060849_P001.jpg` ～ `P135.jpg` |
+| 冊別 | 臺史博典藏號 | 國家文化記憶庫連結 | 本地歸檔目錄（全書頁數） | 高解析圖檔 URL 規則 |
+| :--- | :--- | :--- | :--- | :--- |
+| **尋常科 第一學年** | [`2020.006.0847.0001`](https://collections.nmth.gov.tw/CollectionContent.aspx?a=132&rno=2020.006.0847.0001) | [`11000180510`](https://tcmb.culture.tw/zh-tw/detail?indexCode=MOCCOLLECTIONS&id=11000180510) | **[`shintei_jido_shoka/grade_1_2020.006.0847.0001/`](shintei_jido_shoka/grade_1_2020.006.0847.0001/)**（83 頁） | `https://collections.culture.tw/files/11/JPG/202000608470001_P001.jpg` ～ `P083.jpg` |
+| **尋常科 第二學年** | [`2020.006.0847.0002`](https://collections.nmth.gov.tw/CollectionContent.aspx?a=132&rno=2020.006.0847.0002) | [`11000180511`](https://tcmb.culture.tw/zh-tw/detail?indexCode=MOCCOLLECTIONS&id=11000180511) | **[`shintei_jido_shoka/grade_2_2020.006.0847.0002/`](shintei_jido_shoka/grade_2_2020.006.0847.0002/)**（83 頁） | `https://collections.culture.tw/files/11/JPG/202000608470002_P001.jpg` ～ `P083.jpg` |
+| **尋常科 第三學年** | [`2020.006.0847.0003`](https://collections.nmth.gov.tw/CollectionContent.aspx?a=132&rno=2020.006.0847.0003) | [`11000180512`](https://tcmb.culture.tw/zh-tw/detail?indexCode=MOCCOLLECTIONS&id=11000180512) | **[`shintei_jido_shoka/grade_3_2020.006.0847.0003/`](shintei_jido_shoka/grade_3_2020.006.0847.0003/)**（100 頁） | `https://collections.culture.tw/files/11/JPG/202000608470003_P001.jpg` ～ `P100.jpg` |
+| **尋常科 第四學年** | [`2020.006.0847.0004`](https://collections.nmth.gov.tw/CollectionContent.aspx?a=132&rno=2020.006.0847.0004) | [`11000180513`](https://tcmb.culture.tw/zh-tw/detail?indexCode=MOCCOLLECTIONS&id=11000180513) | **[`shintei_jido_shoka/grade_4_2020.006.0847.0004/`](shintei_jido_shoka/grade_4_2020.006.0847.0004/)**（93 頁） | `https://collections.culture.tw/files/11/JPG/202000608470004_P001.jpg` ～ `P093.jpg` |
+| **尋常科 第五學年** | [`2020.006.0847.0005`](https://collections.nmth.gov.tw/CollectionContent.aspx?a=132&rno=2020.006.0847.0005) | [`11000180514`](https://tcmb.culture.tw/zh-tw/detail?indexCode=MOCCOLLECTIONS&id=11000180514) | **[`shintei_jido_shoka/grade_5_2020.006.0847.0005/`](shintei_jido_shoka/grade_5_2020.006.0847.0005/)**（89 頁） | `https://collections.culture.tw/files/11/JPG/202000608470005_P001.jpg` ～ `P089.jpg` |
+| **尋常科 第六學年** | [`2020.006.0847.0006`](https://collections.nmth.gov.tw/CollectionContent.aspx?a=132&rno=2020.006.0847.0006) | [`11000180515`](https://tcmb.culture.tw/zh-tw/detail?indexCode=MOCCOLLECTIONS&id=11000180515) | **[`shintei_jido_shoka/grade_6_2020.006.0847.0006/`](shintei_jido_shoka/grade_6_2020.006.0847.0006/)**（95 頁） | `https://collections.culture.tw/files/11/JPG/202000608470006_P001.jpg` ～ `P095.jpg` |
+| **高等科 男子一二年用** | [`2020.006.0848`](https://collections.nmth.gov.tw/CollectionContent.aspx?a=132&rno=2020.006.0848) | [`11000180516`](https://tcmb.culture.tw/zh-tw/detail?indexCode=MOCCOLLECTIONS&id=11000180516) | **[`shintei_jido_shoka/koto_boys_2020.006.0848/`](shintei_jido_shoka/koto_boys_2020.006.0848/)**（133 頁） | `https://collections.culture.tw/files/11/JPG/20200060848_P001.jpg` ～ `P133.jpg` |
+| **高等科 女子一二年用** | [`2020.006.0849`](https://collections.nmth.gov.tw/CollectionContent.aspx?a=132&rno=2020.006.0849) | [`11000180517`](https://tcmb.culture.tw/zh-tw/detail?indexCode=MOCCOLLECTIONS&id=11000180517) | **[`shintei_jido_shoka/koto_girls_2020.006.0849/`](shintei_jido_shoka/koto_girls_2020.006.0849/)**（135 頁） | `https://collections.culture.tw/files/11/JPG/20200060849_P001.jpg` ～ `P135.jpg` |
 
 ---
 
@@ -152,6 +152,6 @@
 
 ## 五、其他同批數位化之日治時期唱歌史料
 
-| 名稱 | 臺史博典藏號 | 說明與掃描頁數 | 高解析圖檔 URL 規則 |
-| :--- | :--- | :--- | :--- |
-| **《唱歌帖》六冊合集** | [`2020.006.0843`](https://collections.nmth.gov.tw/CollectionContent.aspx?a=132&rno=2020.006.0843) | 日治時期學生手抄簡譜與歌詞筆記本（共 6 冊合編，**262 頁全頁掃描**） | `https://collections.culture.tw/files/11/JPG/20200060843_P001.jpg` ～ `P262.jpg` |
+| 名稱 | 臺史博典藏號 | 本地歸檔目錄（掃描頁數） | 說明 | 高解析圖檔 URL 規則 |
+| :--- | :--- | :--- | :--- | :--- |
+| **《唱歌帖》六冊合集** | [`2020.006.0843`](https://collections.nmth.gov.tw/CollectionContent.aspx?a=132&rno=2020.006.0843) | **[`shokacho_2020.006.0843/`](shokacho_2020.006.0843/)**（262 頁） | 日治時期學生手抄簡譜與歌詞筆記本（共 6 冊合編） | `https://collections.culture.tw/files/11/JPG/20200060843_P001.jpg` ～ `P262.jpg` |
