@@ -37,7 +37,7 @@
 | **七** | **[`7_suiren/`](grade_3/7_suiren/)** | すゐれん（睡蓮） | 16–17 | [`image.jpeg`](grade_3/7_suiren/image.jpeg)、[`image2.jpeg`](grade_3/7_suiren/image2.jpeg) | [`suiren.tmd`](grade_3/7_suiren/suiren.tmd) |
 | **八** | **[`8_omatsuribi/`](grade_3/8_omatsuribi/)** | おまつり日（祭典之日） | 18–21 | [`image.jpeg`](grade_3/8_omatsuribi/image.jpeg)～[`image4.jpeg`](grade_3/8_omatsuribi/image4.jpeg) | [`omatsuribi.tmd`](grade_3/8_omatsuribi/omatsuribi.tmd) |
 | **九** | **[`9_niji/`](grade_3/9_niji/)** | にじ（彩虹） | 22–23 | [`image.jpeg`](grade_3/9_niji/image.jpeg)、[`image2.jpeg`](grade_3/9_niji/image2.jpeg) | [`niji.tmd`](grade_3/9_niji/niji.tmd) |
-| **一〇** | **[`10_undokai/`](grade_3/10_undokai/)** | うんどうくわい（運動會） | 24–25 | [`image.jpeg`](grade_3/10_undokai/image.jpeg)、[`image2.jpeg`](grade_3/10_undokai/image2.jpeg) | *(待製譜)* |
+| **一〇** | **[`10_undokai/`](grade_3/10_undokai/)** | うんどうくわい（運動會） | 24–25 | [`image.jpeg`](grade_3/10_undokai/image.jpeg)、[`image2.jpeg`](grade_3/10_undokai/image2.jpeg) | [`undokai.tmd`](grade_3/10_undokai/undokai.tmd) |
 | **一一** | **[`11_kisha/`](grade_3/11_kisha/)** | きしゃ（火車） | 26–27 | [`image.jpeg`](grade_3/11_kisha/image.jpeg)、[`image2.jpeg`](grade_3/11_kisha/image2.jpeg) | *(待製譜)* |
 | **一二** | **[`12_dainippon/`](grade_3/12_dainippon/)** | 大日本 | 28–29 | [`image.jpeg`](grade_3/12_dainippon/image.jpeg)、[`image2.jpeg`](grade_3/12_dainippon/image2.jpeg) | *(待製譜)* |
 | **一三** | **[`13_ojiisan/`](grade_3/13_ojiisan/)** | おぢいさん（老爺爺） | 30–31 | [`image.jpeg`](grade_3/13_ojiisan/image.jpeg)、[`image2.jpeg`](grade_3/13_ojiisan/image2.jpeg) | *(待製譜)* |
