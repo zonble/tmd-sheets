@@ -92,7 +92,7 @@ tmd-sheets/
 * [`grade_3/8_omatsuribi/`](kogakko_shoka/grade_3/8_omatsuribi/) — 第八課〈おまつり日（祭典之日）〉（[`omatsuribi.tmd`](kogakko_shoka/grade_3/8_omatsuribi/omatsuribi.tmd)）
 * [`grade_3/9_niji/`](kogakko_shoka/grade_3/9_niji/) — 第九課〈にじ（彩虹）〉（[`niji.tmd`](kogakko_shoka/grade_3/9_niji/niji.tmd)）
 * [`grade_3/10_undokai/`](kogakko_shoka/grade_3/10_undokai/) — 第十課〈うんどうくわい（運動會）〉（[`undokai.tmd`](kogakko_shoka/grade_3/10_undokai/undokai.tmd)）
-* [`grade_3/11_kisha/`](kogakko_shoka/grade_3/11_kisha/) — 第十一課〈きしゃ（火車）〉
+* [`grade_3/11_kisha/`](kogakko_shoka/grade_3/11_kisha/) — 第十一課〈きしゃ（火車）〉（[`kisha.tmd`](kogakko_shoka/grade_3/11_kisha/kisha.tmd)）
 * [`grade_3/12_dainippon/`](kogakko_shoka/grade_3/12_dainippon/) — 第十二課〈大日本〉
 * [`grade_3/13_ojiisan/`](kogakko_shoka/grade_3/13_ojiisan/) — 第十三課〈おぢいさん（老爺爺）〉
 * [`grade_3/14_sumiyaki/`](kogakko_shoka/grade_3/14_sumiyaki/) — 第十四課〈すみやき（燒炭）〉
