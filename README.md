@@ -96,7 +96,7 @@ tmd-sheets/
 * [`grade_3/12_dainippon/`](kogakko_shoka/grade_3/12_dainippon/) — 第十二課〈大日本〉（[`dainippon.tmd`](kogakko_shoka/grade_3/12_dainippon/dainippon.tmd)）
 * [`grade_3/13_ojiisan/`](kogakko_shoka/grade_3/13_ojiisan/) — 第十三課〈おぢいさん（老爺爺）〉（[`ojiisan.tmd`](kogakko_shoka/grade_3/13_ojiisan/ojiisan.tmd)）
 * [`grade_3/14_sumiyaki/`](kogakko_shoka/grade_3/14_sumiyaki/) — 第十四課〈すみやき（燒炭）〉（[`sumiyaki.tmd`](kogakko_shoka/grade_3/14_sumiyaki/sumiyaki.tmd)）
-* [`grade_3/15_shirasagi/`](kogakko_shoka/grade_3/15_shirasagi/) — 第十五課〈白さぎ（白鷺鷥）〉
+* [`grade_3/15_shirasagi/`](kogakko_shoka/grade_3/15_shirasagi/) — 第十五課〈白さぎ（白鷺鷥）〉（[`shirasagi.tmd`](kogakko_shoka/grade_3/15_shirasagi/shirasagi.tmd)）
 
 ---
 
