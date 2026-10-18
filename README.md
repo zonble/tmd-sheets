@@ -89,7 +89,7 @@ tmd-sheets/
 * [`grade_3/5_nagaioyasumi/`](kogakko_shoka/grade_3/5_nagaioyasumi/) — 第五課〈ながいお休〉（[`nagaioyasumi.tmd`](kogakko_shoka/grade_3/5_nagaioyasumi/nagaioyasumi.tmd)）
 * [`grade_3/6_semi/`](kogakko_shoka/grade_3/6_semi/) — 第六課〈せみ（蟬）〉（[`semi.tmd`](kogakko_shoka/grade_3/6_semi/semi.tmd)）
 * [`grade_3/7_suiren/`](kogakko_shoka/grade_3/7_suiren/) — 第七課〈すゐれん（睡蓮）〉（[`suiren.tmd`](kogakko_shoka/grade_3/7_suiren/suiren.tmd)）
-* [`grade_3/8_omatsuribi/`](kogakko_shoka/grade_3/8_omatsuribi/) — 第八課〈おまつり日（祭典之日）〉
+* [`grade_3/8_omatsuribi/`](kogakko_shoka/grade_3/8_omatsuribi/) — 第八課〈おまつり日（祭典之日）〉（[`omatsuribi.tmd`](kogakko_shoka/grade_3/8_omatsuribi/omatsuribi.tmd)）
 * [`grade_3/9_niji/`](kogakko_shoka/grade_3/9_niji/) — 第九課〈にじ（彩虹）〉
 * [`grade_3/10_undokai/`](kogakko_shoka/grade_3/10_undokai/) — 第十課〈うんどうくわい（運動會）〉
 * [`grade_3/11_kisha/`](kogakko_shoka/grade_3/11_kisha/) — 第十一課〈きしゃ（火車）〉
