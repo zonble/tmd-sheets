@@ -87,7 +87,7 @@ tmd-sheets/
 * [`grade_3/3_muranokajiya/`](kogakko_shoka/grade_3/3_muranokajiya/) — 第三課〈村のかぢや〉（[`muranokajiya.tmd`](kogakko_shoka/grade_3/3_muranokajiya/muranokajiya.tmd)、[`muranokajiya_anime.tmd`](kogakko_shoka/grade_3/3_muranokajiya/muranokajiya_anime.tmd) 動漫熱血改編版）
 * [`grade_3/4_gyusha/`](kogakko_shoka/grade_3/4_gyusha/) — 第四課〈牛車〉（[`gyusha.tmd`](kogakko_shoka/grade_3/4_gyusha/gyusha.tmd)）
 * [`grade_3/5_nagaioyasumi/`](kogakko_shoka/grade_3/5_nagaioyasumi/) — 第五課〈ながいお休〉（[`nagaioyasumi.tmd`](kogakko_shoka/grade_3/5_nagaioyasumi/nagaioyasumi.tmd)）
-* [`grade_3/6_semi/`](kogakko_shoka/grade_3/6_semi/) — 第六課〈せみ（蟬）〉
+* [`grade_3/6_semi/`](kogakko_shoka/grade_3/6_semi/) — 第六課〈せみ（蟬）〉（[`semi.tmd`](kogakko_shoka/grade_3/6_semi/semi.tmd)）
 * [`grade_3/7_suiren/`](kogakko_shoka/grade_3/7_suiren/) — 第七課〈すゐれん（睡蓮）〉
 * [`grade_3/8_omatsuribi/`](kogakko_shoka/grade_3/8_omatsuribi/) — 第八課〈おまつり日（祭典之日）〉
 * [`grade_3/9_niji/`](kogakko_shoka/grade_3/9_niji/) — 第九課〈にじ（彩虹）〉

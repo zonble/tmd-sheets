@@ -33,7 +33,7 @@
 | **三** | **[`3_muranokajiya/`](grade_3/3_muranokajiya/)** | 村のかぢや（村之鍛冶屋） | 6–9 | [`image.jpeg`](grade_3/3_muranokajiya/image.jpeg)～[`image4.jpeg`](grade_3/3_muranokajiya/image4.jpeg) | [`muranokajiya.tmd`](grade_3/3_muranokajiya/muranokajiya.tmd)、[`muranokajiya_anime.tmd`](grade_3/3_muranokajiya/muranokajiya_anime.tmd) |
 | **四** | **[`4_gyusha/`](grade_3/4_gyusha/)** | 牛車 | 10–11 | [`image.jpeg`](grade_3/4_gyusha/image.jpeg)、[`image2.jpeg`](grade_3/4_gyusha/image2.jpeg) | [`gyusha.tmd`](grade_3/4_gyusha/gyusha.tmd) |
 | **五** | **[`5_nagaioyasumi/`](grade_3/5_nagaioyasumi/)** | ながいお休（長假） | 12–13 | [`image.jpeg`](grade_3/5_nagaioyasumi/image.jpeg)、[`image2.jpeg`](grade_3/5_nagaioyasumi/image2.jpeg) | [`nagaioyasumi.tmd`](grade_3/5_nagaioyasumi/nagaioyasumi.tmd) |
-| **六** | **[`6_semi/`](grade_3/6_semi/)** | せみ（蟬） | 14–15 | [`image.jpeg`](grade_3/6_semi/image.jpeg)、[`image2.jpeg`](grade_3/6_semi/image2.jpeg) | *(待製譜)* |
+| **六** | **[`6_semi/`](grade_3/6_semi/)** | せみ（蟬） | 14–15 | [`image.jpeg`](grade_3/6_semi/image.jpeg)、[`image2.jpeg`](grade_3/6_semi/image2.jpeg) | [`semi.tmd`](grade_3/6_semi/semi.tmd) |
 | **七** | **[`7_suiren/`](grade_3/7_suiren/)** | すゐれん（睡蓮） | 16–17 | [`image.jpeg`](grade_3/7_suiren/image.jpeg)、[`image2.jpeg`](grade_3/7_suiren/image2.jpeg) | *(待製譜)* |
 | **八** | **[`8_omatsuribi/`](grade_3/8_omatsuribi/)** | おまつり日（祭典之日） | 18–21 | [`image.jpeg`](grade_3/8_omatsuribi/image.jpeg)～[`image4.jpeg`](grade_3/8_omatsuribi/image4.jpeg) | *(待製譜)* |
 | **九** | **[`9_niji/`](grade_3/9_niji/)** | にじ（彩虹） | 22–23 | [`image.jpeg`](grade_3/9_niji/image.jpeg)、[`image2.jpeg`](grade_3/9_niji/image2.jpeg) | *(待製譜)* |
