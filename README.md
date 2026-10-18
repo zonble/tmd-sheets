@@ -94,7 +94,7 @@ tmd-sheets/
 * [`grade_3/10_undokai/`](kogakko_shoka/grade_3/10_undokai/) — 第十課〈うんどうくわい（運動會）〉（[`undokai.tmd`](kogakko_shoka/grade_3/10_undokai/undokai.tmd)）
 * [`grade_3/11_kisha/`](kogakko_shoka/grade_3/11_kisha/) — 第十一課〈きしゃ（火車）〉（[`kisha.tmd`](kogakko_shoka/grade_3/11_kisha/kisha.tmd)）
 * [`grade_3/12_dainippon/`](kogakko_shoka/grade_3/12_dainippon/) — 第十二課〈大日本〉（[`dainippon.tmd`](kogakko_shoka/grade_3/12_dainippon/dainippon.tmd)）
-* [`grade_3/13_ojiisan/`](kogakko_shoka/grade_3/13_ojiisan/) — 第十三課〈おぢいさん（老爺爺）〉
+* [`grade_3/13_ojiisan/`](kogakko_shoka/grade_3/13_ojiisan/) — 第十三課〈おぢいさん（老爺爺）〉（[`ojiisan.tmd`](kogakko_shoka/grade_3/13_ojiisan/ojiisan.tmd)）
 * [`grade_3/14_sumiyaki/`](kogakko_shoka/grade_3/14_sumiyaki/) — 第十四課〈すみやき（燒炭）〉
 * [`grade_3/15_shirasagi/`](kogakko_shoka/grade_3/15_shirasagi/) — 第十五課〈白さぎ（白鷺鷥）〉
 
