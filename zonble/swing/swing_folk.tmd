@@ -2,6 +2,8 @@
 ** 鐘擺 (民謠版 / Folk Acoustic Version) **
 != 100
 ?= C
+~ "composer: zonble"
+~ "note: 原曲寫於 2011 年（2026年民謠版改編）"
 <4/4>
 
 /*

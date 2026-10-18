@@ -19,17 +19,38 @@ tmd-sheets/
 
 ## 1. 個人原創與改編作品集 (`zonble/`)
 
+### 創作編年史（Chronology）
+
+| 原曲年份 | 作品名稱 | 資料夾 | 說明與 2026 年改編版本 |
+| :--- | :--- | :--- | :--- |
+| **小時候** | **《點蟲蟲》** | [`bugs/`](zonble/bugs/) | 童年童謠旋律；2026 年改編為兒歌版、琶音前奏版、長笛與馬林巴配器版 |
+| **1991.10** | **《金雨樹之歌》** | [`golden_rain/`](zonble/golden_rain/) | 15 歲口琴練習曲；2026 年改編為秋日台灣欒樹民謠版、十月深秋弦樂版 |
+| **1998.02** | **《等不及想要看著你長大》** | [`cannotwait/`](zonble/cannotwait/) | 寫於大園空難後；2026 年改編為木管與大提琴室內樂版，並融入《宗治的1945》第三樂章 |
+| **2001** | **《少年》** | [`zk3/`](zonble/zk3/) | 2026 年擴編為室內樂合奏版（`zk3_chamber.tmd`）與全編制交響樂版（`zk3_symphony.tmd`） |
+| **2004** | **《orz》** | [`orz/`](zonble/orz/) | 2026 年擴編為西班牙佛朗明哥純器樂版（`orz_flamenco.tmd`）與華彩樂段版（`orz_flamenco_cadenza.tmd`） |
+| **2006** | **《藿香薊》** | [`huoxiangji/`](zonble/huoxiangji/) | 原曲含小提琴與鋼琴前奏；2026 年改編為 Spring Chamber 春日室內樂版 |
+| **2011** | **《鐘擺》** | [`swing/`](zonble/swing/) | 2026 年改編為民謠版（木吉他/口琴）與後搖滾大音牆版 |
+| **2016** | **《Kazoo Player》** | [`kazoo_player/`](zonble/kazoo_player/) | 40 歲作品；2026 年擴編為銅管轟炸 × 雙電吉他音牆 × 後龐克版 |
+| **2017** | **《塵埃》** | [`dust/`](zonble/dust/) | 2026 年擴編為民謠搖滾吉他音牆版與狂轟濫炸管弦版 |
+| **2019** | **《千千萬萬》** | [`thousands/`](zonble/thousands/) | 2026 年擴編為副歌行軍軍鼓管弦版 |
+| **退伍前夕 / 2026** | **《山外的街道上》** | [`shanwai/`](zonble/shanwai/) | 金門服役快退伍時即有旋律雛形，2026 年完成全曲與 Flamenco / 民謠搖滾 / 拉丁 / 探戈編曲 |
+| **2026** | **《Legacy》** | [`legacy/`](zonble/legacy/) | 含 Re-arranged 抒情搖滾版、Cinematic Art-Pop 版、Post-Rock Epics 版，並化為《宗治的1945》全劇終曲 |
+| **2026** | **《品川車站》** | [`shinagawa_station/`](zonble/shinagawa_station/) | 車站動機發展之列車變奏曲、雙車交會與大廳迴音 |
+| **2026** | **《勇者傳說 / Simple Motif》** | [`motif/`](zonble/motif/) | 原始動機、童年約定、勇者音頭、RPG 場景變奏曲與全景交響組曲 |
+| **2026** | **《Landing at Taoyuan》** | [`landing_at_taoyuan/`](zonble/landing_at_taoyuan/) | 德佛札克風格管弦狂想曲（Rhapsody for Orchestra） |
+| **2026** | **《宗治的1945》** | [`zongzhi_1945/`](zonble/zongzhi_1945/) | 橫跨 1937–2026 的三樂章家族史詩交響組曲 |
+
 ### 交響與大型組曲
-* **[`zongzhi_1945/`](zonble/zongzhi_1945/) — 《宗治的1945》三樂章交響組曲**
+* **[`zongzhi_1945/`](zonble/zongzhi_1945/) — 《宗治的1945》三樂章交響組曲（2026）**
   * 樂章大綱與索引：[`README.md`](zonble/zongzhi_1945/README.md)
   * 完整總譜：
     * 第一樂章〈城〉：[`movement_1_full.tmd`](zonble/zongzhi_1945/movement_1_full.tmd)
     * 第二樂章〈雪〉：[`movement_2_full.tmd`](zonble/zongzhi_1945/movement_2_full.tmd)
     * 第三樂章〈島〉：[`movement_3_full.tmd`](zonble/zongzhi_1945/movement_3_full.tmd)
-  * 主題與段落分譜：[`sections/`](zonble/zongzhi_1945/sections/)（共 21 首主題、賦格與變奏段落）
-* **[`landing_at_taoyuan/`](zonble/landing_at_taoyuan/) — 《Landing at Taoyuan: Rhapsody for Orchestra》**
+  * 主題與段落分譜：[`sections/`](zonble/zongzhi_1945/sections/)（共 21 首主題、賦格與變奏段落，含終曲 [`movement_3_epilogue_legacy.tmd`](zonble/zongzhi_1945/sections/movement_3_epilogue_legacy.tmd)）
+* **[`landing_at_taoyuan/`](zonble/landing_at_taoyuan/) — 《Landing at Taoyuan: Rhapsody for Orchestra》（2026）**
   * [`landing_at_taoyuan.tmd`](zonble/landing_at_taoyuan/landing_at_taoyuan.tmd)
-* **[`motif/`](zonble/motif/) — 《勇者傳說 / Simple Motif》系列**
+* **[`motif/`](zonble/motif/) — 《勇者傳說 / Simple Motif》系列（2026）**
   * [`motif.tmd`](zonble/motif/motif.tmd) — Simple Motif（原始動機）
   * [`childhood.tmd`](zonble/motif/childhood.tmd) — 童年約定 - 純真童年
   * [`hero_ondo.tmd`](zonble/motif/hero_ondo.tmd) — 夏日祭典「勇者音頭」
@@ -37,27 +58,33 @@ tmd-sheets/
   * [`rpg_suite_with_transitions.tmd`](zonble/motif/rpg_suite_with_transitions.tmd) — 勇者冒險全景交響組曲（含過場音樂）
 
 ### 單曲與多版本編曲
-* **[`bugs/`](zonble/bugs/) — 《點蟲蟲》**
+* **[`bugs/`](zonble/bugs/) — 《點蟲蟲》（小時候作品，2026 改編）**
   * [`bugs.tmd`](zonble/bugs/bugs.tmd)（原版）、[`bugs_chords.tmd`](zonble/bugs/bugs_chords.tmd)（兒歌版）、[`bugs_arpeggio.tmd`](zonble/bugs/bugs_arpeggio.tmd)（琶音前奏版）、[`bugs_marimba.tmd`](zonble/bugs/bugs_marimba.tmd)（長笛與馬林巴配器版）
-* **[`cannotwait/`](zonble/cannotwait/) — 《等不及想要看著你長大》**
+* **[`cannotwait/`](zonble/cannotwait/) — 《等不及想要看著你長大》（1998.02 原曲，2026 改編）**
   * [`cannot_wait.tmd`](zonble/cannotwait/cannot_wait.tmd)（原版）、[`cannot_wait_chamber.tmd`](zonble/cannotwait/cannot_wait_chamber.tmd)（木管與大提琴室內樂版）
-* **[`dust/`](zonble/dust/) — 《塵埃》**
+* **[`dust/`](zonble/dust/) — 《塵埃》（2017 原曲，2026 改編）**
   * [`dust.tmd`](zonble/dust/dust.tmd)（原版）、[`dust_folk.tmd`](zonble/dust/dust_folk.tmd)（民謠搖滾吉他音牆版）、[`dust_orchestra.tmd`](zonble/dust/dust_orchestra.tmd)（狂轟濫炸管弦版）
-* **[`golden_rain/`](zonble/golden_rain/) — 《金雨樹之歌》**
+* **[`golden_rain/`](zonble/golden_rain/) — 《金雨樹之歌》（1991.10 原曲，2026 改編）**
   * [`golden_rain.tmd`](zonble/golden_rain/golden_rain.tmd)（原版）、[`golden_rain_autumn.tmd`](zonble/golden_rain/golden_rain_autumn.tmd)（秋日台灣欒樹民謠版）、[`golden_rain_october.tmd`](zonble/golden_rain/golden_rain_october.tmd)（十月深秋弦樂厚重版）
-* **[`huoxiangji/`](zonble/huoxiangji/) — 《藿香薊》**
+* **[`huoxiangji/`](zonble/huoxiangji/) — 《藿香薊》（2006 原曲，2026 改編）**
   * [`huoxiangji.tmd`](zonble/huoxiangji/huoxiangji.tmd)（原版）、[`huoxiangji_spring.tmd`](zonble/huoxiangji/huoxiangji_spring.tmd)（Spring Chamber 室內樂版）
-* **[`kazoo_player/`](zonble/kazoo_player/) — 《Kazoo Player》**
+* **[`kazoo_player/`](zonble/kazoo_player/) — 《Kazoo Player》（2016 原曲，2026 改編）**
   * [`kazoo_player.tmd`](zonble/kazoo_player/kazoo_player.tmd)（原版）、[`kazoo_player_wall.tmd`](zonble/kazoo_player/kazoo_player_wall.tmd)（銅管轟炸 × 吉他音牆版）
-* **[`shanwai/`](zonble/shanwai/) — 《山外的街道上》**
+* **[`legacy/`](zonble/legacy/) — 《Legacy》（2026）**
+  * [`legacy-rearranged.tmd`](zonble/legacy/legacy-rearranged.tmd)（Re-arranged 版）、[`legacy-cinematic.tmd`](zonble/legacy/legacy-cinematic.tmd)（Cinematic Art-Pop 版）、[`legacy-postrock.tmd`](zonble/legacy/legacy-postrock.tmd)（Post-Rock Epics 版）
+* **[`orz/`](zonble/orz/) — 《orz》（2004 原曲，2026 改編）**
+  * [`orz.tmd`](zonble/orz/orz.tmd)（原版）、[`orz_flamenco.tmd`](zonble/orz/orz_flamenco.tmd)（佛朗明哥純器樂版）、[`orz_flamenco_cadenza.tmd`](zonble/orz/orz_flamenco_cadenza.tmd)（佛朗明哥華彩樂段版）
+* **[`shanwai/`](zonble/shanwai/) — 《山外的街道上》（退伍前夕構思旋律，2026 完成全曲與編曲）**
   * [`shanwai.tmd`](zonble/shanwai/shanwai.tmd)（原版）、[`shanwai_flamenco.tmd`](zonble/shanwai/shanwai_flamenco.tmd)（Flamenco 吉他與木箱鼓版）
   * [`archive/`](zonble/shanwai/archive/)：收錄民謠搖滾（`shanwai_folk_rock.tmd`）、拉丁（`shanwai_latin.tmd`）、探戈（`shanwai_tango.tmd`）等實驗編曲版本
-* **[`shinagawa_station/`](zonble/shinagawa_station/) — 《品川車站》**
+* **[`shinagawa_station/`](zonble/shinagawa_station/) — 《品川車站》（2026）**
   * [`shinagawa-station.tmd`](zonble/shinagawa_station/shinagawa-station.tmd)（原版）、[`shinagawa-station-full.tmd`](zonble/shinagawa_station/shinagawa-station-full.tmd)（變奏曲）、[`shinagawa-station-dialogue.tmd`](zonble/shinagawa_station/shinagawa-station-dialogue.tmd)（Call & Response）、[`shinagawa-two-trains.tmd`](zonble/shinagawa_station/shinagawa-two-trains.tmd)（雙車交會）、[`shinagawa-concourse-echoes.tmd`](zonble/shinagawa_station/shinagawa-concourse-echoes.tmd)（人潮、迴音與雙車交會）
-* **[`swing/`](zonble/swing/) — 《鐘擺》**
+* **[`swing/`](zonble/swing/) — 《鐘擺》（2011 原曲，2026 改編）**
   * [`swing_folk.tmd`](zonble/swing/swing_folk.tmd)（民謠版）、[`swing_postrock.tmd`](zonble/swing/swing_postrock.tmd)（後搖滾音牆版）
-* **[`thousands/`](zonble/thousands/) — 《千千萬萬》**
+* **[`thousands/`](zonble/thousands/) — 《千千萬萬》（2019 原曲，2026 改編）**
   * [`thousands.tmd`](zonble/thousands/thousands.tmd)（原版）、[`thousands_orchestra_snare.tmd`](zonble/thousands/thousands_orchestra_snare.tmd)（副歌行軍軍鼓版）
+* **[`zk3/`](zonble/zk3/) — 《少年》（2001 原曲，2026 改編）**
+  * [`zk3.tmd`](zonble/zk3/zk3.tmd)（原版）、[`zk3_chamber.tmd`](zonble/zk3/zk3_chamber.tmd)（室內樂合奏版）、[`zk3_symphony.tmd`](zonble/zk3/zk3_symphony.tmd)（交響樂版）
 
 ---
 
