@@ -76,7 +76,7 @@ tmd-sheets/
 
 ## 3. 日治時期公學校唱歌 (`kogakko_shoka/`)
 
-完整書影與曲目索引參見 [`kogakko_shoka/index.md`](kogakko_shoka/index.md)（國立臺灣歷史博物館典藏《公學校唱歌》第三學年用，館藏號 `2020.006.0855`）：
+完整書影與曲目索引參見 [`kogakko_shoka/index.md`](kogakko_shoka/index.md)（國立臺灣歷史博物館典藏《公學校唱歌》第三學年用，館藏號 `2020.006.0855`），各學年與《新定兒童唱歌》全套館藏數位化調研參見 [`kogakko_shoka/archives_research.md`](kogakko_shoka/archives_research.md)：
 
 * **連篇組曲改編**：
   * [`kogakko_shoka_grade3_chamber_suite.tmd`](kogakko_shoka/grade_3/kogakko_shoka_grade3_chamber_suite.tmd) — 《臺灣公學校唱歌（第三學年）室內樂組曲》
