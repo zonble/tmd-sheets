@@ -90,3 +90,18 @@
 | **高等科一年級** | 第二學期 (9) | **〈臺灣の歌〉** | 昭和 6 年臺灣教育會選歌（內田隆詞／信時潔曲） | [`1_2_09_taiwan_no_uta/`](shintei_jido_shoka/scores/koto_boys_2020.006.0848/1_2_09_taiwan_no_uta/) |
 | **高等科一年級（男）** | 第二學期 (10) | **〈殖民の歌〉** | 殖民之歌（北村季晴編） | [`1_2_10_shokumin_no_uta/`](shintei_jido_shoka/scores/koto_boys_2020.006.0848/1_2_10_shokumin_no_uta/) |
 | **高等科二年級（女）** | 第二學期 (9) | **〈淡水河〉** | 淡水河泛舟與觀音山暮色 | [`2_2_09_tansuigawa/`](shintei_jido_shoka/scores/koto_girls_2020.006.0849/2_2_09_tansuigawa/) |
+
+---
+
+## 日治時期《唱歌帖》六冊合集（舊藏者楊金土，`2020.006.0843`）全頁編目與數位轉錄 (`shokacho_scores/`)
+
+臺史博典藏號 `2020.006.0843`《唱歌帖》六冊合集（共 259 頁有效掃描圖檔，抄錄於大正 12 年／1923 年至昭和 3 年／1928 年間，舊藏者署名「楊金土」）共辨識並轉錄 **195 首樂曲（390 個 `.tmd` 樂譜檔，含每首原譜版 `<slug>.tmd` 與鋼琴伴奏版 `<slug>_piano.tmd`）**，100% 通過 `tmd check` 驗證：
+
+* **總目錄與臺灣音樂史料亮點索引**：**[`shokacho_scores/index.md`](shokacho_scores/index.md)**
+* **分區逐頁詳細編目**：
+  * [`catalog_part1.md`](shokacho_scores/catalog_part1.md)（`P001`–`P044`，31 首）
+  * [`catalog_part2.md`](shokacho_scores/catalog_part2.md)（`P045`–`P088`，33 首，含臺灣北管／藝旦小曲 **〈嘆烟花〉** [`p081_tan_yenhua/`](shokacho_scores/p081_tan_yenhua/) 與皇室奉迎歌夾頁）
+  * [`catalog_part3.md`](shokacho_scores/catalog_part3.md)（`P089`–`P132`，26 首，含臺北市北門町「臺灣子供世界社」印行之五線譜＋簡譜雙行對照《唱歌筆記帖》）
+  * [`catalog_part4.md`](shokacho_scores/catalog_part4.md)（`P133`–`P176`，35 首，含《子供の國》報刊剪貼譜與大正 13–14 年《小公唱歌教材集》手抄譜）
+  * [`catalog_part5.md`](shokacho_scores/catalog_part5.md)（`P177`–`P220`，37 首，含 **〈新高山〉** [`p202_niitakayama/`](shokacho_scores/p202_niitakayama/)、**〈南洋の歌〉** [`p207_nanyo_no_uta/`](shokacho_scores/p207_nanyo_no_uta/)、**〈鄭成功〉** [`p217_teiseiko/`](shokacho_scores/p217_teiseiko/)）
+  * [`catalog_part6.md`](shokacho_scores/catalog_part6.md)（`P221`–`P259`，33 首，《蓬萊唱歌集》手抄專冊，含臺灣本土音樂家**郭水返**作曲 **〈水グルマ〉** [`p231_mizuguruma/`](shokacho_scores/p231_mizuguruma/)、**陳笑聲**作曲 **〈牛よ牛よ〉** [`p246_ushi_yo_ushi_yo/`](shokacho_scores/p246_ushi_yo_ushi_yo/)、以及**黑澤隆朝**作曲 **〈しゃぼん玉〉** [`p252_shabondama/`](shokacho_scores/p252_shabondama/)）

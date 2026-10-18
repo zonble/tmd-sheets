@@ -43,6 +43,3 @@ Source directory: `/Users/zonble/Work/tmd-sheets/kogakko_shoka/shokacho_2020.006
 | `P257.jpg` | Handwritten Score & Lyrics | Normal | Numbered musical notation (jianpu) on 5-line staff + hiragana/kanji lyrics | 近眼のしくじり（近視眼的失誤） | C major (`ハ調`, `?= C`) | 4/4 | — | `梁田貞曲`; `蓬 76頁ヨリ`; `昭2.3.25`; verses 1–3 | `p257_chikame_no_shikujiri/` |
 | `P258.jpg` | Inside Back Cover | Normal | — | — | — | — | — | Blank inside back cover of notebook | — |
 | `P259.jpg` | Back Cover | Normal | — | — | — | — | — | Back cover of notebook (`BK. NO. 1` elephant on globe trademark; pencil `10000` top left) | — |
-| `P260.jpg` | Corrupted / Non-Image File | — | — | — | — | — | — | HTML error/redirect document from `文化部-典藏網` saved with `.jpg` extension (not a valid image) | — |
-| `P261.jpg` | Corrupted / Non-Image File | — | — | — | — | — | — | HTML error/redirect document from `文化部-典藏網` saved with `.jpg` extension (not a valid image) | — |
-| `P262.jpg` | Corrupted / Non-Image File | — | — | — | — | — | — | HTML error/redirect document from `文化部-典藏網` saved with `.jpg` extension (not a valid image) | — |
