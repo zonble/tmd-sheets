@@ -1,0 +1,50 @@
+# Shokacho Score Catalog — Part 3 (`P089.jpg`–`P132.jpg`)
+
+Source directory: `/Users/zonble/Work/tmd-sheets/kogakko_shoka/shokacho_2020.006.0843/`
+
+| Scan Page | Page Type | Orientation | Notation Type | Song Title (Japanese / Chinese) | Key Signature | Time Signature | Tempo | Marginal Notes / Dates / Source Annotations | Target `.tmd` Directory |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| `P089.jpg` | Handwritten Score & Lyrics | Normal | 5-line staff + katakana/kanji lyrics | 小楠公（小楠公／楠木正行） | A major (3 sharps, `?= A`) | 6/8 | — | Notebook p. `21.`; dynamics `p`, `mf`, `pp`; full kanji verse at bottom | `p089_sho_nanko/` |
+| `P090.jpg` | Handwritten Score | Normal | 5-line staff (2-part canon) + katakana/hiragana lyrics | 曉景（二部輪唱）（曉景（二部輪唱）） | Eb major (3 flats, `?= E,`) | 4/4 (`C`) | `♩=116` | Notebook p. `22.`; 2-voice round (Voice 2 enters 1 measure after Voice 1); continues on `P091.jpg` | `p090_gyokei/` |
+| `P091.jpg` | Handwritten Score (Continuation) | Normal | 5-line staff (2-part canon) + katakana/hiragana lyrics | 曉景（二部輪唱）（曉景（二部輪唱），續） | Eb major (3 flats, `?= E,`) | 4/4 (`C`) | — | Notebook p. `23.`; continuation and conclusion of `P090.jpg` | `p090_gyokei/` |
+| `P092.jpg` | Handwritten Score | Normal | 5-line staff + hiragana lyrics | お山の大將（山大王／孩子王） | C major (`?= C`) | 4/4 (`C`) → 12/8 → 4/4 (`C`) | — | Notebook p. `24.`; meter changes to `12/8` in middle section and returns to `C` (`4/4`) | `p092_oyama_no_taisho/` |
+| `P093.jpg` | Handwritten Score & Lyrics | Normal | 5-line staff + hiragana/kanji lyrics | 草花（草花） | Bb major (2 flats, `?= B,`) | 2/2 (`C` / 4/4) | — | Notebook p. `25.`; dynamics `mf`, `p`; verses 1–8 written below staff; small 1-bar ending patch (`なり`) at bottom left | `p093_kusabana/` |
+| `P094.jpg` | Handwritten Score | Normal | 5-line staff + katakana/hiragana lyrics | み國の誇り（我國之驕傲） | D major (2 sharps, `?= D`) | 4/4 (`C`) / 2/4 | `勇マシク` | Notebook p. `26.`; header `青年唱歌`; one `2/4` measure on system 5; continues on `P095.jpg` | `p094_mikuni_no_hokori/` |
+| `P095.jpg` | Handwritten Score (Continuation) | Normal | 5-line staff + katakana/hiragana lyrics | み國の誇り（我國之驕傲，續） | D major (2 sharps, `?= D`) | 4/4 | — | Notebook p. `27.`; continuation and conclusion of `P094.jpg` | `p094_mikuni_no_hokori/` |
+| `P096.jpg` | Handwritten Score & Lyrics | Normal | 5-line staff + katakana/kanji lyrics | 摘草（採草／踏青） | F major (1 flat, `?= F`) | 4/4 (`C`) | — | Notebook p. `28.`; dynamics `p`, `mp`, `mf`; 2 verses of kanji/hiragana lyrics at bottom | `p096_tsumikusa/` |
+| `P097.jpg` | Handwritten Score | Normal | 5-line staff + katakana/hiragana lyrics | 埴生の宿（埴生之宿／甜蜜的家） | D major (2 sharps, `?= D`) | 4/4 | — | Notebook p. `29.`; Japanese adaptation of H. R. Bishop's *Home! Sweet Home!* (verses 1–2 under staff) | `p097_hanyu_no_yado/` |
+| `P098.jpg` | Handwritten Score | Normal | 5-line staff + katakana lyrics | 君德（君德） | Eb major (3 flats, `?= E,`) | 4/4 | — | Notebook p. `30.`; dynamic `mf`; lyrics continue on `P099.jpg` | `p098_kuntoku/` |
+| `P099.jpg` | Lyrics Only | Normal | Kanji/katakana lyrics | 君德（君德，歌詞） | — | — | — | Notebook p. `31.`; full 2-verse kanji/katakana lyrics for `君德` (`P098.jpg`) | — |
+| `P100.jpg` | Handwritten Score | Normal | 5-line staff + katakana lyrics | 開校記念日（創校紀念日） | D major (2 sharps, `?= D`) | 4/4 | `♩=100` | Notebook p. `32.`; lyrics continue on `P101.jpg` | `p100_kaiko_kinenbi/` |
+| `P101.jpg` | Lyrics Only | Normal | Kanji/hiragana lyrics | 開校記念日（創校紀念日，歌詞） | — | — | — | Notebook p. `33.`; 3 verses of kanji/hiragana lyrics for `開校記念日` (`P100.jpg`) | — |
+| `P102.jpg` | Handwritten Score (Left Half of Spread) | Normal | 5-line staff (2-part chorus) + hiragana lyrics | 樂しき我家（快樂的我家） | Bb major (2 flats, `?= B,`) | 4/4 (`C`) | — | Notebook p. `34.`; systems read across facing pages `P102.jpg` → `P103.jpg` | `p102_tanoshiki_wagaya/` |
+| `P103.jpg` | Handwritten Score & Lyrics (Right Half of Spread) | Normal | 5-line staff (2-part chorus) + kanji/hiragana lyrics | 樂しき我家（快樂的我家，續） | Bb major (2 flats, `?= B,`) | 4/4 (`C`) | — | Notebook p. `35.`; right half of each system from `P102.jpg` plus Verse 3 lyrics on right | `p102_tanoshiki_wagaya/` |
+| `P104.jpg` | Handwritten Score & Lyrics | Normal | 5-line staff + katakana/kanji lyrics | 美しき天然（美麗的天然） | F major / D minor (1 flat, `?= F`, `key= Dm`) | 3/4 | — | Notebook p. `36.`; score and lyrics continue on `P105.jpg` | `p104_utsukushiki_tennen/` |
+| `P105.jpg` | Handwritten Score & Lyrics (Continuation) | Normal | 5-line staff + katakana/kanji lyrics | 美しき天然（美麗的天然，續） | F major / D minor (1 flat, `?= F`, `key= Dm`) | 3/4 | — | Notebook p. `37.`; conclusion of score and verses 2–4 of `美しき天然` (`P104.jpg`) | `p104_utsukushiki_tennen/` |
+| `P106.jpg` | Handwritten Score | Normal | Numbered musical notation (jianpu) on staff paper | カナリヤ（金絲雀） | C major (`ハ調`, `?= C`) | 4/4 → 3/4 | — | Notebook p. `38.`; `（大正十三年十月二日抄）人より.`; 4/4 setting followed by 3/4 setting continuing onto top of `P107.jpg` | `p106_kanariya/` |
+| `P107.jpg` | Handwritten Score | Normal | Numbered musical notation (jianpu) on staff paper | 1. カナリヤ（金絲雀，續）<br>2. 太陽（太陽） | 1. C major (`?= C`)<br>2. Bb major / G minor (`変ロ調（短調）`, `?= B,`, `key= Gm`) | 1. 3/4<br>2. 2/4 | — | Top: continuation of `カナリヤ` from `P106.jpg`.<br>Bottom: `太陽`, `変ロ調 2/4（短調）`, `（大正幼年唱歌第十二集ヨリ）ロシヤ 14. 1. 8.` | `p106_kanariya/`<br>`p107_taiyo/` |
+| `P108.jpg` | Handwritten Score | Normal | Numbered musical notation (jianpu) on staff paper | 鬼が島（鬼島） | F major (`ヘ調`, `?= F`) | 2/4 | — | `ヘ調 2/4`; `（大正幼年唱歌第五集20頁ヨリ） 14. 1. 15.` | `p108_onigashima/` |
+| `P109.jpg` | Handwritten Score | Normal | Numbered musical notation (jianpu) on staff paper | とんび（老鷹／鳶） | D major (`ニ調`, `?= D`) | 4/4 | — | `ニ調 4/4`; `（大正幼年唱歌第一集17頁ヨリ） 14. 4. 28` | `p109_tonbi/` |
+| `P110.jpg` | Blank Staff Page | Normal | Empty 5-line staff with sketched treble clef | — | — | — | — | Blank staff page at end of first notebook | — |
+| `P111.jpg` | Inside Back Cover | Normal | — | — | — | — | — | Blank inside back cover of first notebook | — |
+| `P112.jpg` | Back Cover | Normal | — | — | — | — | — | Back cover of first notebook (`BK. NO. 1` elephant trademark) | — |
+| `P113.jpg` | Front Cover | Normal | — | — | — | — | — | Front cover of second notebook: `選定 唱歌筆記帳` | — |
+| `P114.jpg` | Inside Front Cover | Normal | — | — | — | — | — | Blank inside front cover of second notebook | — |
+| `P115.jpg` | Title Page & Handwritten Index | Normal | — | — | — | — | — | Printed title page `唱歌筆記帖` (`臺灣子供世界社發行`, red `見本` stamp) with handwritten song list in margins | — |
+| `P116.jpg` | Printed Frontmatter | Normal | — | — | — | — | — | `緒言` (Preface explaining dual staff and numbered notation) | — |
+| `P117.jpg` | Printed Theory Page | Normal | Dual 5-line staff + jianpu | — | — | — | — | Page `(1)`: `音階` (`ハ調長音階`, `ト調長音階`, `ニ調長音階`, `イ調長音階`) | — |
+| `P118.jpg` | Printed Theory Page | Normal | Dual 5-line staff + jianpu | — | — | — | — | Page `(2)`: `ホ調長音階`, `ヘ調長音階`, `変ロ調長音階`, `変ホ調長音階`, `変イ調長音階` | — |
+| `P119.jpg` | Printed Theory Page | Normal | Staff + jianpu table | — | — | — | — | Page `(3)`: `音符`, `休止符`, `拍子ト拍子記號` | — |
+| `P120.jpg` | Printed Score & Lyrics | Normal | Dual 5-line staff + jianpu + lyrics | 君が代（君之代） | C major (`?= C`) | 4/4 | — | Printed p. `(4)`, handwritten `1.`; national anthem | `p120_kimigayo/` |
+| `P121.jpg` | Printed Score | Normal | Dual 5-line staff + jianpu + lyrics | 勅語奉答（教育勅語奉答歌：あやにかしこき） | D major (2 sharps, `?= D`) | 4/4 | `♩=84` → `♩=100` → `♩=84` | Printed p. `(5)`, handwritten `2.`; Koyama Sakunosuke setting (`あやにかしこきすめらぎの`) | `p121_chokugo_hoto/` |
+| `P122.jpg` | Printed Score | Normal | Dual 5-line staff + jianpu + lyrics | 勅語奉答（教育勅語奉答歌：あな尊しや） | D major (2 sharps, `?= D`) | 4/4 | `♩=96` → `♩=104` → `♩=96` | Printed p. `(6)`, handwritten `3.`; alternate setting (`あな尊しやあきらけく`) | `p122_chokugo_hoto_2/` |
+| `P123.jpg` | Printed Score & Lyrics | Normal | Dual 5-line staff + jianpu + lyrics | 一月一日（一月一日／元旦） | D major (2 sharps, `?= D`) | 4/4 | — | Printed p. `(7)`, handwritten `4`; verses 1–2 | `p123_ichigatsu_ichijitsu/` |
+| `P124.jpg` | Printed Score & Lyrics | Normal | Dual 5-line staff + jianpu + lyrics | 紀元節（紀元節） | C major (`?= C`) | 4/4 | — | Printed p. `(8)`, handwritten `5.`; verses 1–4 | `p124_kigensetsu/` |
+| `P125.jpg` | Printed Score & Lyrics | Normal | Dual 5-line staff + jianpu + lyrics | 始政紀念日（始政紀念日） | C major (`?= C`) | 4/4 | `♩=100` | Printed p. `(9)`, handwritten `6.`; Taiwan Dominion Day song, verses 1–3 | `p125_shisei_kinenbi/` |
+| `P126.jpg` | Printed Score & Lyrics | Normal | Dual 5-line staff + jianpu + lyrics | 天長節（天長節） | D major (2 sharps, `?= D`) | 4/4 | — | Printed p. `(10)`, handwritten `7.`; verses 1–2 | `p126_tenchosetsu/` |
+| `P127.jpg` | Handwritten Score & Lyrics | Normal | 5-line staff + katakana lyrics | 朝起（早起） | F major (`ヘ調`, 1 flat, `?= F`) | 4/4 (`C`) | `♩=144` | Handwritten `8`; subtitle `（ヘ調四分ノ四拍子）`; dynamics `mf`, `p`, `f`; verses 1–2 | `p127_asaoki/` |
+| `P128.jpg` | Handwritten Score & Lyrics | Normal | 5-line staff + katakana lyrics | 夕立（西北雨／驟雨） | D major (`ニ調`, 2 sharps, `?= D`) | 2/4 | `♩=120` | Handwritten `9`; subtitle `（ニ調四分ノ二拍子）`; dynamics `p`, `mf`, `f`, `ff`, `dim.`; verses 1–3 | `p128_yudachi/` |
+| `P129.jpg` | Printed Specimen Score | Normal | Dual 5-line staff + jianpu + katakana lyrics | (6) うたのけいこ（歌唱練習） | F major (1 flat, `?= F`) | 4/4 | — | Handwritten `(10)`; right margin: `歐米小學唱歌集 アメリカ篇一 見本（菊版）`; dynamics `p`, `mf`, `dim.` | `p129_uta_no_keiko/` |
+| `P130.jpg` | Printed Prospectus / Advertisement | Normal | — | — | — | — | — | Verso of `P129.jpg`: `四大國小學教科書纂譯 歐米小學讀本 附 歐米小學唱歌集 内容説明書` | — |
+| `P131.jpg` | Handwritten Loose Sheet Score & Lyrics | Normal | Numbered musical notation (jianpu) + kanji/katakana lyrics | 天然の美（天然之美） | F major / D minor (`ヘ調`, `?= F`, `key= Dm`) | 3/4 | — | `ヘ調 3/4`; `大正十三年五月十五日抄.` (crossed out `126 p 24.`); verses 1–4 at bottom | `p131_tennen_no_bi/` |
+| `P132.jpg` | Newspaper Clipping | Normal | — | — | — | — | — | Pasted newspaper articles: `鳥帽子岩登りの成功（松本通信）` and `海と女の身體（原靜代）` | — |
