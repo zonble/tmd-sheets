@@ -47,9 +47,46 @@
 
 ---
 
-## 臺灣教育會《新定兒童唱歌》轉錄曲目 (`shintei_jido_shoka/scores/`)
+## 臺灣教育會公認《新定兒童唱歌》全套 8 冊數位轉錄 (`shintei_jido_shoka/scores/`)
 
-| 冊別（館藏號） | 學期課次 | 曲名 | 詞曲 | 掃描圖檔（譜／詞） | TMD 樂譜（原譜／鋼琴伴奏） |
-| :--- | :---: | :--- | :--- | :--- | :--- |
-| **尋常科第三學年** (`2020.006.0847.0003`) | 第二學期 (7) | **臺灣行進歌** | 山口充一 詞／池田玉子 曲 | [`P044.jpg`](shintei_jido_shoka/grade_3_2020.006.0847.0003/P044.jpg)、[`P045.jpg`](shintei_jido_shoka/grade_3_2020.006.0847.0003/P045.jpg) | [`taiwan_koshinka.tmd`](shintei_jido_shoka/scores/grade_3_2020.006.0847.0003/2_07_taiwan_koshinka/taiwan_koshinka.tmd)、[`taiwan_koshinka_piano.tmd`](shintei_jido_shoka/scores/grade_3_2020.006.0847.0003/2_07_taiwan_koshinka/taiwan_koshinka_piano.tmd) |
-| **高等科男子用** (`2020.006.0848`) | 高一第二學期 (9) | **臺灣の歌** | 內田隆 詞／信時潔 曲 | [`P056.jpg`](shintei_jido_shoka/koto_boys_2020.006.0848/P056.jpg)～[`P058.jpg`](shintei_jido_shoka/koto_boys_2020.006.0848/P058.jpg) | [`taiwan_no_uta.tmd`](shintei_jido_shoka/scores/koto_boys_2020.006.0848/1_2_09_taiwan_no_uta/taiwan_no_uta.tmd)、[`taiwan_no_uta_piano.tmd`](shintei_jido_shoka/scores/koto_boys_2020.006.0848/1_2_09_taiwan_no_uta/taiwan_no_uta_piano.tmd) |
+全套 8 冊共 **424 首歌（848 個 `.tmd` 樂譜檔，含每首原譜版 `<slug>.tmd` 與鋼琴伴奏版 `<slug>_piano.tmd`）** 已 100% 轉錄並通過 `tmd check` 驗證：
+
+| 冊別 | 臺史博館藏號 | 原書掃描目錄 | TMD 樂譜目錄 | 收錄曲數（`.tmd` 檔數） |
+| :--- | :--- | :--- | :--- | :---: |
+| **尋常科 第一學年** | `2020.006.0847.0001` | [`grade_1_2020.006.0847.0001/`](shintei_jido_shoka/grade_1_2020.006.0847.0001/) | **[`scores/grade_1_2020.006.0847.0001/`](shintei_jido_shoka/scores/grade_1_2020.006.0847.0001/)** | 59 首（118 檔） |
+| **尋常科 第二學年** | `2020.006.0847.0002` | [`grade_2_2020.006.0847.0002/`](shintei_jido_shoka/grade_2_2020.006.0847.0002/) | **[`scores/grade_2_2020.006.0847.0002/`](shintei_jido_shoka/scores/grade_2_2020.006.0847.0002/)** | 47 首（94 檔） |
+| **尋常科 第三學年** | `2020.006.0847.0003` | [`grade_3_2020.006.0847.0003/`](shintei_jido_shoka/grade_3_2020.006.0847.0003/) | **[`scores/grade_3_2020.006.0847.0003/`](shintei_jido_shoka/scores/grade_3_2020.006.0847.0003/)** | 53 首（106 檔） |
+| **尋常科 第四學年** | `2020.006.0847.0004` | [`grade_4_2020.006.0847.0004/`](shintei_jido_shoka/grade_4_2020.006.0847.0004/) | **[`scores/grade_4_2020.006.0847.0004/`](shintei_jido_shoka/scores/grade_4_2020.006.0847.0004/)** | 50 首（100 檔） |
+| **尋常科 第五學年** | `2020.006.0847.0005` | [`grade_5_2020.006.0847.0005/`](shintei_jido_shoka/grade_5_2020.006.0847.0005/) | **[`scores/grade_5_2020.006.0847.0005/`](shintei_jido_shoka/scores/grade_5_2020.006.0847.0005/)** | 46 首（92 檔） |
+| **尋常科 第六學年** | `2020.006.0847.0006` | [`grade_6_2020.006.0847.0006/`](shintei_jido_shoka/grade_6_2020.006.0847.0006/) | **[`scores/grade_6_2020.006.0847.0006/`](shintei_jido_shoka/scores/grade_6_2020.006.0847.0006/)** | 45 首（90 檔） |
+| **高等科 男子一二年用** | `2020.006.0848` | [`koto_boys_2020.006.0848/`](shintei_jido_shoka/koto_boys_2020.006.0848/) | **[`scores/koto_boys_2020.006.0848/`](shintei_jido_shoka/scores/koto_boys_2020.006.0848/)** | 62 首（124 檔） |
+| **高等科 女子一二年用** | `2020.006.0849` | [`koto_girls_2020.006.0849/`](shintei_jido_shoka/koto_girls_2020.006.0849/) | **[`scores/koto_girls_2020.006.0849/`](shintei_jido_shoka/scores/koto_girls_2020.006.0849/)** | 62 首（124 檔） |
+
+### 《新定兒童唱歌》23 首臺灣本土題材代表曲目快速索引
+
+| 冊別 | 學期課次 | 曲名 | 題材說明 | TMD 樂譜目錄（含原譜與鋼琴伴奏版） |
+| :--- | :---: | :--- | :--- | :--- |
+| **各冊共通** | 儀式歌 (7) | **〈始政記念日〉** | 6 月 17 日臺灣始政紀念日儀式歌 | [`0_07_shisei_kinenbi/`](shintei_jido_shoka/scores/grade_1_2020.006.0847.0001/0_07_shisei_kinenbi/) |
+| **尋常科一年級** | 第三學期 (3) | **〈カーレンサン〉** | 臺灣鄉土題材童謠 | [`3_03_karensan/`](shintei_jido_shoka/scores/grade_1_2020.006.0847.0001/3_03_karensan/) |
+| **尋常科一年級** | 第三學期 (5) | **〈スヰギウ〉** | 臺灣水牛 | [`3_05_suigyu/`](shintei_jido_shoka/scores/grade_1_2020.006.0847.0001/3_05_suigyu/) |
+| **尋常科二年級** | 第二學期 (8) | **〈水牛〉** | 臺灣水牛（臺灣教育會詞／一條愼三郎曲） | [`2_08_suigyu/`](shintei_jido_shoka/scores/grade_2_2020.006.0847.0002/2_08_suigyu/) |
+| **尋常科三年級** | 第二學期 (4) | **〈お祭日〉** | 10 月 28 日臺灣神社大祭（圓山のお宮） | [`2_04_omatsuribi/`](shintei_jido_shoka/scores/grade_3_2020.006.0847.0003/2_04_omatsuribi/) |
+| **尋常科三年級** | 第二學期 (7) | **〈臺灣行進歌〉** | 臺灣進行曲（山口充一詞／池田玉子曲） | [`2_07_taiwan_koshinka/`](shintei_jido_shoka/scores/grade_3_2020.006.0847.0003/2_07_taiwan_koshinka/) |
+| **尋常科三年級** | 第三學期 (7) | **〈常夏の島〉** | 常夏之島（香蕉、甘蔗與四季常綠） | [`3_07_tokonatsu_no_shima/`](shintei_jido_shoka/scores/grade_3_2020.006.0847.0003/3_07_tokonatsu_no_shima/) |
+| **尋常科四年級** | 第一學期 (3) | **〈ジャンク〉** | 戎克船（中式帆船） | [`1_03_janku/`](shintei_jido_shoka/scores/grade_4_2020.006.0847.0004/1_03_janku/) |
+| **尋常科四年級** | 第一學期 (7) | **〈能久親王〉** | 北白川宮能久親王 | [`1_07_yoshihisa_shinno/`](shintei_jido_shoka/scores/grade_4_2020.006.0847.0004/1_07_yoshihisa_shinno/) |
+| **尋常科四年級** | 第二學期 (11) | **〈これぞ臺灣〉** | 這就是臺灣（川嶋傳詞／中山常雄曲） | [`2_11_korezo_taiwan/`](shintei_jido_shoka/scores/grade_4_2020.006.0847.0004/2_11_korezo_taiwan/) |
+| **尋常科四年級** | 第三學期 (3) | **〈いかだかづら〉** | 九重葛（熱帶花卉） | [`3_03_ikadakazura/`](shintei_jido_shoka/scores/grade_4_2020.006.0847.0004/3_03_ikadakazura/) |
+| **尋常科五年級** | 第一學期 (2) | **〈神木〉** | 阿里山神木 | [`1_02_shinboku/`](shintei_jido_shoka/scores/grade_5_2020.006.0847.0005/1_02_shinboku/) |
+| **尋常科五年級** | 第二學期 (6) | **〈新高山〉** | 新高山（玉山） | [`2_06_niitakayama/`](shintei_jido_shoka/scores/grade_5_2020.006.0847.0005/2_06_niitakayama/) |
+| **尋常科五年級** | 第二學期 (9) | **〈つり橋〉** | 山區吊橋（鐵線橋） | [`2_09_tsuribashi/`](shintei_jido_shoka/scores/grade_5_2020.006.0847.0005/2_09_tsuribashi/) |
+| **尋常科五年級** | 第三學期 (3) | **〈六氏先生〉** | 芝山巖六氏先生 | [`3_03_rokushi_sensei/`](shintei_jido_shoka/scores/grade_5_2020.006.0847.0005/3_03_rokushi_sensei/) |
+| **尋常科五年級** | 參考教材 (6) | **〈鄭成功〉** | 鄭成功 | [`4_06_teiseiko/`](shintei_jido_shoka/scores/grade_5_2020.006.0847.0005/4_06_teiseiko/) |
+| **尋常科六年級** | 第一學期 (3) | **〈鵞鑾鼻〉** | 鵝鑾鼻與燈塔 | [`1_03_garanbi/`](shintei_jido_shoka/scores/grade_6_2020.006.0847.0006/1_03_garanbi/) |
+| **尋常科六年級** | 第一學期 (6) | **〈鱶と少年〉** | 鯊魚與少年 | [`1_06_fuka_to_shonen/`](shintei_jido_shoka/scores/grade_6_2020.006.0847.0006/1_06_fuka_to_shonen/) |
+| **尋常科六年級** | 參考教材 (3) | **〈南洋の歌〉** | 南洋之歌 | [`4_03_nanyo_no_uta/`](shintei_jido_shoka/scores/grade_6_2020.006.0847.0006/4_03_nanyo_no_uta/) |
+| **尋常科六年級** | 參考教材 (7) | **〈臺灣の風景〉** | 臺灣四季名勝（霧社、淡水河、高雄港、新高山） | [`4_07_taiwan_no_fukei/`](shintei_jido_shoka/scores/grade_6_2020.006.0847.0006/4_07_taiwan_no_fukei/) |
+| **尋常科六年級** | 參考教材 (18) | **〈富士と新高〉** | 富士山與新高山（二部合唱） | [`4_18_fuji_to_niitaka/`](shintei_jido_shoka/scores/grade_6_2020.006.0847.0006/4_18_fuji_to_niitaka/) |
+| **高等科一年級** | 第二學期 (9) | **〈臺灣の歌〉** | 昭和 6 年臺灣教育會選歌（內田隆詞／信時潔曲） | [`1_2_09_taiwan_no_uta/`](shintei_jido_shoka/scores/koto_boys_2020.006.0848/1_2_09_taiwan_no_uta/) |
+| **高等科一年級（男）** | 第二學期 (10) | **〈殖民の歌〉** | 殖民之歌（北村季晴編） | [`1_2_10_shokumin_no_uta/`](shintei_jido_shoka/scores/koto_boys_2020.006.0848/1_2_10_shokumin_no_uta/) |
+| **高等科二年級（女）** | 第二學期 (9) | **〈淡水河〉** | 淡水河泛舟與觀音山暮色 | [`2_2_09_tansuigawa/`](shintei_jido_shoka/scores/koto_girls_2020.006.0849/2_2_09_tansuigawa/) |
