@@ -76,13 +76,27 @@ tmd-sheets/
 
 ## 3. 日治時期公學校唱歌 (`kogakko_shoka/`)
 
-典藏來源參見 [`index.md`](kogakko_shoka/index.md)（國立臺灣歷史博物館典藏《公學校唱歌》三年級教材）：
+完整書影與曲目索引參見 [`kogakko_shoka/index.md`](kogakko_shoka/index.md)（國立臺灣歷史博物館典藏《公學校唱歌》第三學年用，館藏號 `2020.006.0855`）：
 
+* **連篇組曲改編**：
+  * [`kogakko_shoka_grade3_chamber_suite.tmd`](kogakko_shoka/grade_3/kogakko_shoka_grade3_chamber_suite.tmd) — 《臺灣公學校唱歌（第三學年）室內樂組曲》
+  * [`kogakko_shoka_grade3_chamber_fugue_suite.tmd`](kogakko_shoka/grade_3/kogakko_shoka_grade3_chamber_fugue_suite.tmd) — 《臺灣公學校唱歌（第三學年）室內樂組曲 — 終曲五主題大賦格版》
+* [`grade_3/0_book_info/`](kogakko_shoka/grade_3/0_book_info/) — 封面、扉頁、目錄（もくろく）、版權頁與舊藏者手寫筆記
 * [`grade_3/1_awoba/`](kogakko_shoka/grade_3/1_awoba/) — 第一課〈あをば〉（[`awoba.tmd`](kogakko_shoka/grade_3/1_awoba/awoba.tmd)）
 * [`grade_3/2_daisha/`](kogakko_shoka/grade_3/2_daisha/) — 第二課〈だいしゃ（台車）〉（[`daisha.tmd`](kogakko_shoka/grade_3/2_daisha/daisha.tmd)、[`daisha_piano.tmd`](kogakko_shoka/grade_3/2_daisha/daisha_piano.tmd)）
-* [`grade_3/3_muranokajiya/`](kogakko_shoka/grade_3/3_muranokajiya/) — 第三課〈村のかじや〉（[`muranokajiya_anime.tmd`](kogakko_shoka/grade_3/3_muranokajiya/muranokajiya_anime.tmd) 動漫熱血改編版）
+* [`grade_3/3_muranokajiya/`](kogakko_shoka/grade_3/3_muranokajiya/) — 第三課〈村のかぢや〉（[`muranokajiya_anime.tmd`](kogakko_shoka/grade_3/3_muranokajiya/muranokajiya_anime.tmd) 動漫熱血改編版）
 * [`grade_3/4_gyusha/`](kogakko_shoka/grade_3/4_gyusha/) — 第四課〈牛車〉（[`gyusha.tmd`](kogakko_shoka/grade_3/4_gyusha/gyusha.tmd)）
 * [`grade_3/5_nagaioyasumi/`](kogakko_shoka/grade_3/5_nagaioyasumi/) — 第五課〈ながいお休〉（[`nagaioyasumi.tmd`](kogakko_shoka/grade_3/5_nagaioyasumi/nagaioyasumi.tmd)）
+* [`grade_3/6_semi/`](kogakko_shoka/grade_3/6_semi/) — 第六課〈せみ（蟬）〉
+* [`grade_3/7_suiren/`](kogakko_shoka/grade_3/7_suiren/) — 第七課〈すゐれん（睡蓮）〉
+* [`grade_3/8_omatsuribi/`](kogakko_shoka/grade_3/8_omatsuribi/) — 第八課〈おまつり日（祭典之日）〉
+* [`grade_3/9_niji/`](kogakko_shoka/grade_3/9_niji/) — 第九課〈にじ（彩虹）〉
+* [`grade_3/10_undokai/`](kogakko_shoka/grade_3/10_undokai/) — 第十課〈うんどうくわい（運動會）〉
+* [`grade_3/11_kisha/`](kogakko_shoka/grade_3/11_kisha/) — 第十一課〈きしゃ（火車）〉
+* [`grade_3/12_dainippon/`](kogakko_shoka/grade_3/12_dainippon/) — 第十二課〈大日本〉
+* [`grade_3/13_ojiisan/`](kogakko_shoka/grade_3/13_ojiisan/) — 第十三課〈おぢいさん（老爺爺）〉
+* [`grade_3/14_sumiyaki/`](kogakko_shoka/grade_3/14_sumiyaki/) — 第十四課〈すみやき（燒炭）〉
+* [`grade_3/15_shirasagi/`](kogakko_shoka/grade_3/15_shirasagi/) — 第十五課〈白さぎ（白鷺鷥）〉
 
 ---
 
