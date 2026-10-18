@@ -41,5 +41,5 @@
 | **一一** | **[`11_kisha/`](grade_3/11_kisha/)** | きしゃ（火車） | 26–27 | [`image.jpeg`](grade_3/11_kisha/image.jpeg)、[`image2.jpeg`](grade_3/11_kisha/image2.jpeg) | [`kisha.tmd`](grade_3/11_kisha/kisha.tmd) |
 | **一二** | **[`12_dainippon/`](grade_3/12_dainippon/)** | 大日本 | 28–29 | [`image.jpeg`](grade_3/12_dainippon/image.jpeg)、[`image2.jpeg`](grade_3/12_dainippon/image2.jpeg) | [`dainippon.tmd`](grade_3/12_dainippon/dainippon.tmd) |
 | **一三** | **[`13_ojiisan/`](grade_3/13_ojiisan/)** | おぢいさん（老爺爺） | 30–31 | [`image.jpeg`](grade_3/13_ojiisan/image.jpeg)、[`image2.jpeg`](grade_3/13_ojiisan/image2.jpeg) | [`ojiisan.tmd`](grade_3/13_ojiisan/ojiisan.tmd) |
-| **一四** | **[`14_sumiyaki/`](grade_3/14_sumiyaki/)** | すみやき（燒炭） | 32–33 | [`image.jpeg`](grade_3/14_sumiyaki/image.jpeg)、[`image2.jpeg`](grade_3/14_sumiyaki/image2.jpeg) | *(待製譜)* |
+| **一四** | **[`14_sumiyaki/`](grade_3/14_sumiyaki/)** | すみやき（燒炭） | 32–33 | [`image.jpeg`](grade_3/14_sumiyaki/image.jpeg)、[`image2.jpeg`](grade_3/14_sumiyaki/image2.jpeg) | [`sumiyaki.tmd`](grade_3/14_sumiyaki/sumiyaki.tmd) |
 | **一五** | **[`15_shirasagi/`](grade_3/15_shirasagi/)** | 白さぎ（白鷺鷥） | 34–35 | [`image.jpeg`](grade_3/15_shirasagi/image.jpeg)、[`image2.jpeg`](grade_3/15_shirasagi/image2.jpeg) | *(待製譜)* |
