@@ -152,6 +152,10 @@
 
 ## 五、其他同批數位化之日治時期唱歌史料
 
-| 名稱 | 臺史博典藏號 | 本地歸檔目錄（掃描頁數） | 說明 | 高解析圖檔 URL 規則 |
+| 名稱 | 臺史博典藏號 | 本地歸檔目錄（掃描頁數） | 說明與考證成果 | 高解析圖檔 URL 規則 |
 | :--- | :--- | :--- | :--- | :--- |
-| **《唱歌帖》六冊合集** | [`2020.006.0843`](https://collections.nmth.gov.tw/CollectionContent.aspx?a=132&rno=2020.006.0843) | **[`shokacho_2020.006.0843/`](shokacho_2020.006.0843/)**（262 頁） | 日治時期學生手抄簡譜與歌詞筆記本（共 6 冊合編） | `https://collections.culture.tw/files/11/JPG/20200060843_P001.jpg` ～ `P262.jpg` |
+| **《楊金土手抄唱歌帖》六冊合集（原編第 `1`、`II`、`I`、`VII`、`VIII`、`X` 冊）** | [`2020.006.0843`](https://collections.nmth.gov.tw/CollectionContent.aspx?a=132&rno=2020.006.0843) | 原圖：[`shokacho_2020.006.0843/`](shokacho_2020.006.0843/)（259 頁有效圖檔）<br>樂譜與目錄：**[`shokacho_scores/index.md`](shokacho_scores/index.md)**<br>考證：**[`shokacho_scores/research_notes.md`](shokacho_scores/research_notes.md)** | 大正 12 年（1923）至昭和 3 年（1928）封面署名「楊金土」之手抄音樂筆記本（共 6 冊、195 首樂曲，含《蓬萊唱歌集》、陳英聲〈牛よ牛よ〉、郭水返〈水グルマ〉、黑澤隆朝〈しゃぼん玉〉、張福興〈鵞鑾鼻〉／〈淡水河〉及北管小曲〈嘆烟花〉等，已全數完成 390 個 `.tmd` 檔轉錄） | `https://collections.culture.tw/files/11/JPG/20200060843_P001.jpg` ～ `P259.jpg`<br>（`P260` 以後為 404；外觀照為 `JPG640/20200060843_I001.jpg` ～ `I004.jpg`） |
+| **《楊金土手抄唱歌帖》支那曲（原編第 `IX` 冊）** | [`2020.006.0844`](https://collections.nmth.gov.tw/CollectionContent.aspx?a=132&rno=2020.006.0844) | （14 頁全頁掃描 + 3 張外觀照） | 封面五線譜同樣署名 **「楊金土」** 並標註羅馬數字 **`IX`（第 9 冊）**，封面題「支那曲」，內頁（`P006.jpg`）以五線譜抄錄〈1. 思春（昭2.7.11 抄・合調）〉等傳統北管／藝旦曲 | `https://collections.culture.tw/files/11/JPG/20200060844_P001.jpg` ～ `P014.jpg`<br>（外觀照為 `JPG640/20200060844_I001.JPG` ～ `I003.JPG`） |
+| **《唱歌帖》空白本（2 冊）** | [`2020.006.0845`](https://collections.nmth.gov.tw/CollectionContent.aspx?a=132&rno=2020.006.0845) | （未釋出高解析內頁） | 與 `2020.006.0843`、`0844` 同批入藏之同款深灰色《唱歌帖》空白五線譜本（共 2 冊） | — |
+
+
