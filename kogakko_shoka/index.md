@@ -4,6 +4,7 @@
 * **典藏單位**：國立臺灣歷史博物館（館藏號：`2020.006.0855`）
 * **典藏連結**：[國家文化記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=MOCCOLLECTIONS&id=11000180518)
 * **延伸館藏調研**：[`archives_research.md`](archives_research.md)（各學年《公學校唱歌》與《新定兒童唱歌》全套館藏編號、高解析圖檔 URL 規則與曲目索引）
+* **跨冊重複／同名歌曲總索引**：[`duplicate_songs.md`](duplicate_songs.md)（全 639 首數位化曲目中，跨冊重複或同名之 **93 組、213 首** 歌曲對照索引；機器可讀檔：[`duplicate_songs.json`](duplicate_songs.json)）
 
 ---
 
@@ -101,8 +102,9 @@
 * **專題考證與研究筆記（含封面密碼、原編冊次重建、`P115.jpg` 親筆總目錄錄文與《蓬萊唱歌集》考證）**：**[`shokacho_scores/research_notes.md`](shokacho_scores/research_notes.md)**
 * **分區逐頁詳細編目**：
   * [`catalog_part1.md`](shokacho_scores/catalog_part1.md)（`P001`–`P044`，31 首，原編第 `VIII` 冊《蓬萊唱歌集》續冊與第 `3`/`I` 冊前半）
-  * [`catalog_part2.md`](shokacho_scores/catalog_part2.md)（`P045`–`P088`，33 首，含臺灣北管／藝旦小曲 **〈嘆烟花〉** [`p081_tan_yenhua/`](shokacho_scores/p081_tan_yenhua/)、**張福興**作曲署名版 **〈鵞鑾鼻〉** [`p081_garambi/`](shokacho_scores/p081_garambi/) 與 **〈淡水河〉** [`p081_tamsui_gawa/`](shokacho_scores/p081_tamsui_gawa/)，以及皇室奉迎歌夾頁）
+  * [`catalog_part2.md`](shokacho_scores/catalog_part2.md)（`P045`–`P088`，33 首，含臺灣北管／藝旦小曲 **〈嘆烟花〉** [`p081_tan_yenhua/`](shokacho_scores/p081_tan_yenhua/) 以及皇室奉迎歌夾頁）
   * [`catalog_part3.md`](shokacho_scores/catalog_part3.md)（`P089`–`P132`，26 首，含 `P115.jpg` 楊金土親筆第 1–6 冊總目錄及臺北市北門町「臺灣子供世界社」印行之五線譜＋簡譜雙行對照《唱歌筆記帖》）
   * [`catalog_part4.md`](shokacho_scores/catalog_part4.md)（`P133`–`P176`，35 首，含《子供の國》報刊剪貼譜與大正 13–14 年《小公唱歌教材集》手抄譜）
   * [`catalog_part5.md`](shokacho_scores/catalog_part5.md)（`P177`–`P220`，37 首，含 **〈新高山〉** [`p202_niitakayama/`](shokacho_scores/p202_niitakayama/)、**〈南洋の歌〉** [`p207_nanyo_no_uta/`](shokacho_scores/p207_nanyo_no_uta/)、**〈鄭成功〉** [`p217_teiseiko/`](shokacho_scores/p217_teiseiko/)）
   * [`catalog_part6.md`](shokacho_scores/catalog_part6.md)（`P221`–`P259`，33 首，原編第 `VII` 冊《蓬萊唱歌集》手抄專冊，含臺灣本土音樂家**郭水返**作曲 **〈水グルマ〉** [`p231_mizuguruma/`](shokacho_scores/p231_mizuguruma/)、大稻埕蓬萊公學校訓導暨第一代西畫家**陳英聲（陳英声）** 1922 年作曲 **〈牛よ牛よ〉（牛啊牛啊）** [`p246_ushi_yo_ushi_yo/`](shokacho_scores/p246_ushi_yo_ushi_yo/)、以及**黑澤隆朝**作曲 **〈しゃぼん玉〉** [`p252_shabondama/`](shokacho_scores/p252_shabondama/)）
+  * [`catalog_2020.006.0844.md`](shokacho_scores/catalog_2020.006.0844.md)（`2020.006.0844`《唱歌帖》支那曲，`P001`–`P014`，原編第 `IX` 冊，4 首：〈1. 思春〉、〈2. 柬甫寨人の戲曲〉、〈3. 小紅桃〉、〈4. 安南行進曲〉）

@@ -12,7 +12,10 @@ from __future__ import annotations
 
 import argparse
 import html
+import json
+import os
 import re
+import shutil
 import subprocess
 import sys
 from pathlib import Path
@@ -21,13 +24,28 @@ from pathlib import Path
 TITLE_RE = re.compile(r"^\s*\*\*\s*(.*?)\s*\*\*\s*$")
 CREDIT_RE = re.compile(r'^\s*~\s*"(.*?)"\s*$')
 BLOCK_COMMENT_RE = re.compile(r"/\*(.*?)\*/", re.DOTALL)
+KOGAKKO_ROOT = Path(__file__).resolve().parent.parent
+DUPLICATE_INDEX_JSON = KOGAKKO_ROOT / "duplicate_songs.json"
+DUPLICATE_INDEX_MD = KOGAKKO_ROOT / "duplicate_songs.md"
+
+
+def resolve_binary(name: str) -> str:
+    found = shutil.which(name)
+    if found:
+        return found
+    for fallback_dir in ("/usr/local/bin", "/opt/homebrew/bin"):
+        candidate = Path(fallback_dir) / name
+        if candidate.is_file() and os.access(candidate, os.X_OK):
+            return str(candidate)
+    return name
 
 
 def run(command: list[str], *, cwd: Path | None = None) -> str:
     """Run a command and return stdout, preserving useful diagnostics on error."""
+    cmd = [resolve_binary(command[0]), *command[1:]] if command else command
     try:
         result = subprocess.run(
-            command,
+            cmd,
             cwd=cwd,
             check=True,
             text=True,
@@ -38,7 +56,7 @@ def run(command: list[str], *, cwd: Path | None = None) -> str:
     except subprocess.CalledProcessError as exc:
         detail = (exc.stdout or "") + (exc.stderr or "")
         raise RuntimeError(
-            f"指令失敗（{exc.returncode}）：{' '.join(command)}\n{detail.strip()}"
+            f"指令失敗（{exc.returncode}）：{' '.join(cmd)}\n{detail.strip()}"
         ) from exc
     return result.stdout
 
@@ -148,6 +166,57 @@ def render_analysis(main_tmd: Path, folder: Path) -> str:
     return run(["tmd", "inspect", str(main_tmd), "--locale", "zh-Hant"], cwd=folder)
 
 
+def render_cross_references(folder: Path) -> str:
+    """Return a Markdown section linking to duplicate/same-title songs across textbooks."""
+    if not DUPLICATE_INDEX_JSON.is_file():
+        return ""
+    try:
+        rel_dir = folder.resolve().relative_to(KOGAKKO_ROOT.resolve()).as_posix()
+    except ValueError:
+        return ""
+
+    data = json.loads(DUPLICATE_INDEX_JSON.read_text(encoding="utf-8"))
+    matched_entry = None
+    matched_cluster = None
+    for cluster in data.get("clusters", []):
+        for entry in cluster.get("entries", []):
+            if entry.get("rel_dir") == rel_dir:
+                matched_entry = entry
+                matched_cluster = cluster
+                break
+        if matched_entry:
+            break
+
+    if not matched_entry or not matched_entry.get("peers"):
+        return ""
+
+    lines = [
+        "## 跨冊／重複收錄參照",
+        "",
+        f"> {matched_cluster.get('description', '')}",
+        "",
+    ]
+    for peer in matched_entry["peers"]:
+        peer_md_abs = KOGAKKO_ROOT / peer["md_file"]
+        peer_tmd_abs = KOGAKKO_ROOT / peer["tmd_file"]
+        peer_dir_abs = KOGAKKO_ROOT / peer["rel_dir"]
+        rel_md = Path(os.path.relpath(peer_md_abs, folder)).as_posix()
+        rel_tmd = Path(os.path.relpath(peer_tmd_abs, folder)).as_posix()
+        rel_dir_link = Path(os.path.relpath(peer_dir_abs, folder)).as_posix() + "/"
+        relation = peer.get("relation", "參照")
+        book_label = peer.get("book_label", "")
+        raw_title = peer.get("raw_title", peer.get("jp_title", ""))
+        key_meter = f"`{peer.get('key', '?')}` / `{peer.get('meter', '?')}`"
+        lines.append(
+            f"- **[{relation}]** {book_label}：[〈{raw_title}〉]({rel_md})"
+            f"（{key_meter} — [目錄]({rel_dir_link}) ｜ [原始 TMD]({rel_tmd})）"
+        )
+
+    rel_index_md = Path(os.path.relpath(DUPLICATE_INDEX_MD, folder)).as_posix()
+    lines.append(f"- 總表：[跨冊重複／同名歌曲總索引]({rel_index_md})")
+    return "\n".join(lines) + "\n\n"
+
+
 def generate(
     folder: Path,
     keep_wav: bool = False,
@@ -199,6 +268,7 @@ def generate(
     notes_block = notes or "（TMD 檔案未包含額外 note）"
     lyrics_block = lyrics or "（TMD 檔案未包含歌詞註解）"
     abc = abc_path.read_text(encoding="utf-8")
+    cross_ref_section = render_cross_references(folder)
 
     markdown = f"""# {title}
 
@@ -210,7 +280,7 @@ def generate(
 
 {notes_block}
 
-## 歌詞
+{cross_ref_section}## 歌詞
 
 ```text
 {lyrics_block}
