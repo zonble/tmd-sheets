@@ -94,17 +94,18 @@
 
 ---
 
-## 日治時期《唱歌帖》六冊合集（舊藏者楊金土，`2020.006.0843`）全頁編目與數位轉錄 (`shokacho_scores/`)
+## 日治時期《楊金土手抄唱歌帖》十冊合集（`2020.006.0843`、`2020.006.0844`）分冊編目與數位轉錄 (`shokacho_scores/`)
 
-臺史博典藏號 `2020.006.0843`《唱歌帖》六冊合集（共 259 頁有效掃描圖檔，抄錄於大正 12 年／1923 年至昭和 3 年／1928 年間，舊藏者署名「楊金土」）共辨識並轉錄 **195 首樂曲（390 個 `.tmd` 樂譜檔，含每首原譜版 `<slug>.tmd` 與鋼琴伴奏版 `<slug>_piano.tmd`）**，100% 通過 `tmd check` 驗證：
+臺史博典藏號 `2020.006.0843`《唱歌帖》六冊合集（259 頁有效掃描圖檔，195 首）與 `2020.006.0844`《唱歌帖 支那曲》（14 頁掃描圖檔，4 首），抄錄於大正 12 年（1923 年）至昭和 3 年（1928 年）間，舊藏者署名 **「楊金土」**。全套現存 7 冊共辨識並轉錄 **199 首樂曲（398 個 `.tmd` 樂譜檔，含每首原譜版 `<slug>.tmd` 與鋼琴伴奏版 `<slug>_piano.tmd`）**，已根據各冊封面標記與第 1 冊扉頁（`P115.jpg`）楊金土親筆總目錄，按**原編第 1 冊至第 10 冊**建立子目錄，並 100% 通過 `tmd check` 驗證：
 
-* **總目錄與臺灣音樂史料亮點索引**：**[`shokacho_scores/index.md`](shokacho_scores/index.md)**
+* **十冊分冊總目錄與臺灣音樂史料亮點索引**：**[`shokacho_scores/index.md`](shokacho_scores/index.md)**
 * **專題考證與研究筆記（含封面密碼、原編冊次重建、`P115.jpg` 親筆總目錄錄文與《蓬萊唱歌集》考證）**：**[`shokacho_scores/research_notes.md`](shokacho_scores/research_notes.md)**
-* **分區逐頁詳細編目**：
-  * [`catalog_part1.md`](shokacho_scores/catalog_part1.md)（`P001`–`P044`，31 首，原編第 `VIII` 冊《蓬萊唱歌集》續冊與第 `3`/`I` 冊前半）
-  * [`catalog_part2.md`](shokacho_scores/catalog_part2.md)（`P045`–`P088`，33 首，含臺灣北管／藝旦小曲 **〈嘆烟花〉** [`p081_tan_yenhua/`](shokacho_scores/p081_tan_yenhua/) 以及皇室奉迎歌夾頁）
-  * [`catalog_part3.md`](shokacho_scores/catalog_part3.md)（`P089`–`P132`，26 首，含 `P115.jpg` 楊金土親筆第 1–6 冊總目錄及臺北市北門町「臺灣子供世界社」印行之五線譜＋簡譜雙行對照《唱歌筆記帖》）
-  * [`catalog_part4.md`](shokacho_scores/catalog_part4.md)（`P133`–`P176`，35 首，含《子供の國》報刊剪貼譜與大正 13–14 年《小公唱歌教材集》手抄譜）
-  * [`catalog_part5.md`](shokacho_scores/catalog_part5.md)（`P177`–`P220`，37 首，含 **〈新高山〉** [`p202_niitakayama/`](shokacho_scores/p202_niitakayama/)、**〈南洋の歌〉** [`p207_nanyo_no_uta/`](shokacho_scores/p207_nanyo_no_uta/)、**〈鄭成功〉** [`p217_teiseiko/`](shokacho_scores/p217_teiseiko/)）
-  * [`catalog_part6.md`](shokacho_scores/catalog_part6.md)（`P221`–`P259`，33 首，原編第 `VII` 冊《蓬萊唱歌集》手抄專冊，含臺灣本土音樂家**郭水返**作曲 **〈水グルマ〉** [`p231_mizuguruma/`](shokacho_scores/p231_mizuguruma/)、大稻埕蓬萊公學校訓導暨第一代西畫家**陳英聲（陳英声）** 1922 年作曲 **〈牛よ牛よ〉（牛啊牛啊）** [`p246_ushi_yo_ushi_yo/`](shokacho_scores/p246_ushi_yo_ushi_yo/)、以及**黑澤隆朝**作曲 **〈しゃぼん玉〉** [`p252_shabondama/`](shokacho_scores/p252_shabondama/)）
-  * [`catalog_2020.006.0844.md`](shokacho_scores/catalog_2020.006.0844.md)（`2020.006.0844`《唱歌帖》支那曲，`P001`–`P014`，原編第 `IX` 冊，4 首：〈1. 思春〉、〈2. 柬甫寨人の戲曲〉、〈3. 小紅桃〉、〈4. 安南行進曲〉）
+* **各冊樂譜目錄與逐頁明細**：
+  * **[`shokacho_scores/vol_01/`](shokacho_scores/vol_01/index.md)** — **原編第 1 冊**（封面標 `1`，《選定 唱歌筆記帳／唱歌筆記帖》，`2020.006.0843` `P113`–`P187`，**53 首**）：含 `P115.jpg` 楊金土親筆第 1–6 冊總目錄、「臺灣子供世界社」印行之五線譜＋簡譜雙行對照儀式歌、《子供の國》報刊剪貼譜與《小公學校唱歌教材集》手抄譜
+  * **[`shokacho_scores/vol_02/`](shokacho_scores/vol_02/index.md)** — **原編第 2 冊**（封面標 `2` / `II`・楊金土，`2020.006.0843` `P065`–`P112`，**35 首**）：含臺灣傳統北管／藝旦小曲 **〈嘆烟花〉** [`vol_02/p081_tan_yenhua/`](shokacho_scores/vol_02/p081_tan_yenhua/)、《大正幼年唱歌》與五線譜合唱貼頁
+  * **[`shokacho_scores/vol_03/`](shokacho_scores/vol_03/index.md)** — **原編第 3 冊**（封面標 `3` / `I` / `Y`・楊金土，`2020.006.0843` `P031`–`P064`，**22 首**）：含《共益商社唱歌教科書教師用卷二》與臺灣皇室奉迎歌／祝典歌夾頁（一條慎三郎作曲〈銀婚式奉祝行進歌〉等）
+  * **原編第 4～6 冊**（實體佚失，曲目清單 26 首保存於第 1 冊扉頁 `P115.jpg`，錄文見 [`shokacho_scores/index.md`](shokacho_scores/index.md)）
+  * **[`shokacho_scores/vol_07/`](shokacho_scores/vol_07/index.md)** — **原編第 7 冊**（封面標 `VII`・楊金土，`2020.006.0843` `P224`–`P259`，**32 首**）：《蓬萊唱歌集》手抄專冊（上），含臺灣本土音樂家**郭水返**作曲 **〈水グルマ〉** [`vol_07/p231_mizuguruma/`](shokacho_scores/vol_07/p231_mizuguruma/)、大稻埕蓬萊公學校訓導暨第一代西畫家**陳英聲（陳英声）** 1922 年作曲 **〈牛よ牛よ〉（牛啊牛啊）** [`vol_07/p246_ushi_yo_ushi_yo/`](shokacho_scores/vol_07/p246_ushi_yo_ushi_yo/)、以及**黑澤隆朝**作曲 **〈しゃぼん玉〉** [`vol_07/p252_shabondama/`](shokacho_scores/vol_07/p252_shabondama/)
+  * **[`shokacho_scores/vol_08/`](shokacho_scores/vol_08/index.md)** — **原編第 8 冊**（封面標 `VIII`・楊金土，`2020.006.0843` `P001`–`P030`，**22 首**）：《蓬萊唱歌集》手抄專冊（下），接續第 7 冊抄錄《蓬萊唱歌集》後半部、一條慎三郎《一條歌集》與兒童雜誌《りす》歌曲
+  * **[`shokacho_scores/vol_09/`](shokacho_scores/vol_09/index.md)** — **原編第 9 冊**（封面標 `IX`・楊金土・題「支那曲」，`2020.006.0844` `P001`–`P014`，**4 首**）：五線譜「合調」傳統戲曲／器樂曲牌〈1. 思春〉、〈2. 柬甫寨人の戲曲〉、〈3. 小紅桃〉、〈4. 安南行進曲〉
+  * **[`shokacho_scores/vol_10/`](shokacho_scores/vol_10/index.md)** — **原編第 10 冊**（封面標 `X`・楊金土・鈐紅印「楊」，`2020.006.0843` `P188`–`P223`，**31 首**）：抄自《澄宮殿下御作 童謡集》與 1915 年《小公學校唱歌教材集》，含 **〈新高山〉** [`vol_10/p202_niitakayama/`](shokacho_scores/vol_10/p202_niitakayama/)、**〈南洋の歌〉** [`vol_10/p207_nanyo_no_uta/`](shokacho_scores/vol_10/p207_nanyo_no_uta/)、**〈鄭成功〉** [`vol_10/p217_teiseiko/`](shokacho_scores/vol_10/p217_teiseiko/)
