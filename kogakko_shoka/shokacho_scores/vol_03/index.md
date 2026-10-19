@@ -1,0 +1,79 @@
+# 楊金土手抄《唱歌帖》原編第 3 冊（封面標記 `3` / `I` / `Y`）
+
+* **返回總目錄**：[《楊金土手抄唱歌帖》十冊總目錄 (`../index.md`)](../index.md) ｜ [專題考證 (`../research_notes.md`)](../research_notes.md)
+* **封面標記與署名**：封面頂端手寫標註 **`3`**，左上角裝飾五線譜內鉛筆署名 **「楊金土」**、標註羅馬數字 **`I`**，左側邊框標註 **`Y`**（對應 [`P115.jpg`](../../shokacho_2020.006.0843/P115.jpg) 總目錄之 `3.`）
+* **對應臺史博館藏與掃描範圍**：`2020.006.0843` 第 2 冊（掃描頁碼 [`P031.jpg`](../../shokacho_2020.006.0843/P031.jpg) – [`P064.jpg`](../../shokacho_2020.006.0843/P064.jpg)，共 34 頁）
+* **原冊題名／板式**：《唱歌帖》（封底印有 `BK. NO. 1` 地球大象商標）
+* **抄錄年代**：大正 12 年（1923）至昭和 3 年（1928）
+* **主要內容與抄錄來源**：前半（`P035`–`P043`）抄自《共益商社唱歌教科書教師用卷二》及軍號譜〈起床喇叭・點呼喇叭・消燈喇叭〉；後半（`P044`–`P063`）彙集多份珍貴臺灣皇室行啟與祝典樂譜夾頁，包含 1923 年〈皇太子殿下奉迎の歌〉、〈始政紀念日〉、1924 年〈皇太子殿下御成婚奉祝歌〉、〈皇太子殿下御成婚奉祝提燈行列進行歌〉、1925 年一條慎三郎作曲〈銀婚式奉祝行進歌〉與松井實作歌〈秩父宮殿下奉迎行進歌〉等。
+* **收錄樂曲數**：共 **22 首**（44 個 `.tmd` 樂譜檔，含每首原譜版與 `_piano.tmd` 鋼琴伴奏版）
+
+---
+
+## 一、本冊收錄樂曲總表（共 22 首）
+
+| # | 掃描頁碼 | 目錄名稱 | 曲名（TMD 標題） | 調號／拍號 | 樂譜檔案與說明頁 |
+| :---: | :---: | :--- | :--- | :---: | :--- |
+| 1 | [`P035.jpg`](../../shokacho_2020.006.0843/P035.jpg) | [`p035_boto/`](p035_boto/) | **ボート** | `G` / `—` | [目錄](p035_boto/) ｜ [`boto.tmd`](p035_boto/boto.tmd) ｜ [`boto_piano.tmd`](p035_boto/boto_piano.tmd) |
+| 2 | [`P036.jpg`](../../shokacho_2020.006.0843/P036.jpg) | [`p036_ame/`](p036_ame/) | **雨** | `F` / `—` | [目錄](p036_ame/) ｜ [`ame.tmd`](p036_ame/ame.tmd) ｜ [`ame_piano.tmd`](p036_ame/ame_piano.tmd) |
+| 3 | [`P037.jpg`](../../shokacho_2020.006.0843/P037.jpg) | [`p037_umi/`](p037_umi/) | **海（其一）** | `D` / `—` | [目錄](p037_umi/) ｜ [`umi.tmd`](p037_umi/umi.tmd) ｜ [`umi_piano.tmd`](p037_umi/umi_piano.tmd) |
+| 4 | [`P039.jpg`](../../shokacho_2020.006.0843/P039.jpg) | [`p039_umi/`](p039_umi/) | **海（其二）** | `F` / `—` | [目錄](p039_umi/) ｜ [`umi.tmd`](p039_umi/umi.tmd) ｜ [`umi_piano.tmd`](p039_umi/umi_piano.tmd) |
+| 5 | [`P040.jpg`](../../shokacho_2020.006.0843/P040.jpg) | [`p040_mudai/`](p040_mudai/) | **無題・三拍子曲** | `F` / `—` | [目錄](p040_mudai/) ｜ [`mudai.tmd`](p040_mudai/mudai.tmd) ｜ [`mudai_piano.tmd`](p040_mudai/mudai_piano.tmd) |
+| 6 | [`P041.jpg`](../../shokacho_2020.006.0843/P041.jpg) | [`p041_kisho_rappa/`](p041_kisho_rappa/) | **起床喇叭・點呼喇叭・消燈喇叭** | `C` / `—` | [目錄](p041_kisho_rappa/) ｜ [`kisho_rappa.tmd`](p041_kisho_rappa/kisho_rappa.tmd) ｜ [`kisho_rappa_piano.tmd`](p041_kisho_rappa/kisho_rappa_piano.tmd) |
+| 7 | [`P042.jpg`](../../shokacho_2020.006.0843/P042.jpg) | [`p042_hotaru_no_hikari/`](p042_hotaru_no_hikari/) | **螢の光** | `F` / `—` | [目錄](p042_hotaru_no_hikari/) ｜ [`hotaru_no_hikari.tmd`](p042_hotaru_no_hikari/hotaru_no_hikari.tmd) ｜ [`hotaru_no_hikari_piano.tmd`](p042_hotaru_no_hikari/hotaru_no_hikari_piano.tmd) |
+| 8 | [`P043.jpg`](../../shokacho_2020.006.0843/P043.jpg) | [`p043_yukedomo/`](p043_yukedomo/) | **行けども** | `C` / `—` | [目錄](p043_yukedomo/) ｜ [`yukedomo.tmd`](p043_yukedomo/yukedomo.tmd) ｜ [`yukedomo_piano.tmd`](p043_yukedomo/yukedomo_piano.tmd) |
+| 9 | [`P044.jpg`](../../shokacho_2020.006.0843/P044.jpg) | [`p044_kotaishi_denka_hogei_no_uta/`](p044_kotaishi_denka_hogei_no_uta/) | **皇太子殿下奉迎の歌** | `G` / `—` | [目錄](p044_kotaishi_denka_hogei_no_uta/) ｜ [`kotaishi_denka_hogei_no_uta.tmd`](p044_kotaishi_denka_hogei_no_uta/kotaishi_denka_hogei_no_uta.tmd) ｜ [`kotaishi_denka_hogei_no_uta_piano.tmd`](p044_kotaishi_denka_hogei_no_uta/kotaishi_denka_hogei_no_uta_piano.tmd) |
+| 10 | [`P045.jpg`](../../shokacho_2020.006.0843/P045.jpg) | [`p045_yashima_gassen/`](p045_yashima_gassen/) | **屋島合戰** | `F` / `—` | [目錄](p045_yashima_gassen/) ｜ [`yashima_gassen.tmd`](p045_yashima_gassen/yashima_gassen.tmd) ｜ [`yashima_gassen_piano.tmd`](p045_yashima_gassen/yashima_gassen_piano.tmd) |
+| 11 | [`P046.jpg`](../../shokacho_2020.006.0843/P046.jpg) | [`p046_uten_seiten/`](p046_uten_seiten/) | **雨天晴天** | `A` / `—` | [目錄](p046_uten_seiten/) ｜ [`uten_seiten.tmd`](p046_uten_seiten/uten_seiten.tmd) ｜ [`uten_seiten_piano.tmd`](p046_uten_seiten/uten_seiten_piano.tmd) |
+| 12 | [`P047.jpg`](../../shokacho_2020.006.0843/P047.jpg) | [`p047_shisei_kinembi/`](p047_shisei_kinembi/) | **始政紀念日** | `C` / `—` | [目錄](p047_shisei_kinembi/) ｜ [`shisei_kinembi.tmd`](p047_shisei_kinembi/shisei_kinembi.tmd) ｜ [`shisei_kinembi_piano.tmd`](p047_shisei_kinembi/shisei_kinembi_piano.tmd) |
+| 13 | [`P048.jpg`](../../shokacho_2020.006.0843/P048.jpg) | [`p048a_kimi_ga_yo/`](p048a_kimi_ga_yo/) | **君が代** | `C` / `—` | [目錄](p048a_kimi_ga_yo/) ｜ [`kimi_ga_yo.tmd`](p048a_kimi_ga_yo/kimi_ga_yo.tmd) ｜ [`kimi_ga_yo_piano.tmd`](p048a_kimi_ga_yo/kimi_ga_yo_piano.tmd) |
+| 14 | [`P048.jpg`](../../shokacho_2020.006.0843/P048.jpg) | [`p048b_guntai_koshin/`](p048b_guntai_koshin/) | **軍隊行進** | `C` / `—` | [目錄](p048b_guntai_koshin/) ｜ [`guntai_koshin.tmd`](p048b_guntai_koshin/guntai_koshin.tmd) ｜ [`guntai_koshin_piano.tmd`](p048b_guntai_koshin/guntai_koshin_piano.tmd) |
+| 15 | [`P049.jpg`](../../shokacho_2020.006.0843/P049.jpg) | [`p049_kotaishi_denka_goseikon_hoshukuka/`](p049_kotaishi_denka_goseikon_hoshukuka/) | **皇太子殿下御成婚奉祝歌** | `D` / `—` | [目錄](p049_kotaishi_denka_goseikon_hoshukuka/) ｜ [`kotaishi_denka_goseikon_hoshukuka.tmd`](p049_kotaishi_denka_goseikon_hoshukuka/kotaishi_denka_goseikon_hoshukuka.tmd) ｜ [`kotaishi_denka_goseikon_hoshukuka_piano.tmd`](p049_kotaishi_denka_goseikon_hoshukuka/kotaishi_denka_goseikon_hoshukuka_piano.tmd) |
+| 16 | [`P051.jpg`](../../shokacho_2020.006.0843/P051.jpg) | [`p051_kongoseki_mizu_wa_utsuwa/`](p051_kongoseki_mizu_wa_utsuwa/) | **金剛石・水は器** | `G` / `—` | [目錄](p051_kongoseki_mizu_wa_utsuwa/) ｜ [`kongoseki_mizu_wa_utsuwa.tmd`](p051_kongoseki_mizu_wa_utsuwa/kongoseki_mizu_wa_utsuwa.tmd) ｜ [`kongoseki_mizu_wa_utsuwa_piano.tmd`](p051_kongoseki_mizu_wa_utsuwa/kongoseki_mizu_wa_utsuwa_piano.tmd) |
+| 17 | [`P053.jpg`](../../shokacho_2020.006.0843/P053.jpg) | [`p053_rikugun_kinembi_koshinka/`](p053_rikugun_kinembi_koshinka/) | **陸軍記念日行進歌** | `C` / `—` | [目錄](p053_rikugun_kinembi_koshinka/) ｜ [`rikugun_kinembi_koshinka.tmd`](p053_rikugun_kinembi_koshinka/rikugun_kinembi_koshinka.tmd) ｜ [`rikugun_kinembi_koshinka_piano.tmd`](p053_rikugun_kinembi_koshinka/rikugun_kinembi_koshinka_piano.tmd) |
+| 18 | [`P056.jpg`](../../shokacho_2020.006.0843/P056.jpg) | [`p056_ginkonshiki_hoshuku_koshinka/`](p056_ginkonshiki_hoshuku_koshinka/) | **銀婚式奉祝行進歌** | `G` / `—` | [目錄](p056_ginkonshiki_hoshuku_koshinka/) ｜ [`ginkonshiki_hoshuku_koshinka.tmd`](p056_ginkonshiki_hoshuku_koshinka/ginkonshiki_hoshuku_koshinka.tmd) ｜ [`ginkonshiki_hoshuku_koshinka_piano.tmd`](p056_ginkonshiki_hoshuku_koshinka/ginkonshiki_hoshuku_koshinka_piano.tmd) |
+| 19 | [`P057.jpg`](../../shokacho_2020.006.0843/P057.jpg) | [`p057_chichibunomiya_denka_hogei_koshinka/`](p057_chichibunomiya_denka_hogei_koshinka/) | **秩父宮殿下奉迎行進歌** | `F` / `—` | [目錄](p057_chichibunomiya_denka_hogei_koshinka/) ｜ [`chichibunomiya_denka_hogei_koshinka.tmd`](p057_chichibunomiya_denka_hogei_koshinka/chichibunomiya_denka_hogei_koshinka.tmd) ｜ [`chichibunomiya_denka_hogei_koshinka_piano.tmd`](p057_chichibunomiya_denka_hogei_koshinka/chichibunomiya_denka_hogei_koshinka_piano.tmd) |
+| 20 | [`P061.jpg`](../../shokacho_2020.006.0843/P061.jpg) | [`p061_kotaishi_denka_chochin_gyoretsu_shinkoka/`](p061_kotaishi_denka_chochin_gyoretsu_shinkoka/) | **皇太子殿下御成婚奉祝提燈行列進行歌** | `G` / `—` | [目錄](p061_kotaishi_denka_chochin_gyoretsu_shinkoka/) ｜ [`kotaishi_denka_chochin_gyoretsu_shinkoka.tmd`](p061_kotaishi_denka_chochin_gyoretsu_shinkoka/kotaishi_denka_chochin_gyoretsu_shinkoka.tmd) ｜ [`kotaishi_denka_chochin_gyoretsu_shinkoka_piano.tmd`](p061_kotaishi_denka_chochin_gyoretsu_shinkoka/kotaishi_denka_chochin_gyoretsu_shinkoka_piano.tmd) |
+| 21 | [`P062.jpg`](../../shokacho_2020.006.0843/P062.jpg) | [`p062_boyu/`](p062_boyu/) | **亡友** | `E,` / `—` | [目錄](p062_boyu/) ｜ [`boyu.tmd`](p062_boyu/boyu.tmd) ｜ [`boyu_piano.tmd`](p062_boyu/boyu_piano.tmd) |
+| 22 | [`P063.jpg`](../../shokacho_2020.006.0843/P063.jpg) | [`p063_rengeso/`](p063_rengeso/) | **れんげさう** | `F` / `—` | [目錄](p063_rengeso/) ｜ [`rengeso.tmd`](p063_rengeso/rengeso.tmd) ｜ [`rengeso_piano.tmd`](p063_rengeso/rengeso_piano.tmd) |
+
+---
+
+## 二、本冊逐頁掃描明細表（含封面、扉頁、無譜歌詞頁與空白頁）
+
+| 掃描頁碼 | 頁面類型 | 記譜形式 | 曲名（日文原名／中文譯名） | 調號・拍號・速度 | 邊注・年代・出處・備註 | 對應 `.tmd` 目錄 |
+| :---: | :--- | :--- | :--- | :--- | :--- | :--- |
+| [`P031.jpg`](../../shokacho_2020.006.0843/P031.jpg) | Cover (Book 2) | Printed | 唱歌帖 / 唱歌帖（第二冊封面） | N/A | Handwritten `3` at top, `Y` in left margin box | — |
+| [`P032.jpg`](../../shokacho_2020.006.0843/P032.jpg) | Inside Front Cover (Book 2) | Blank | — | N/A | Blank inside front cover | — |
+| [`P033.jpg`](../../shokacho_2020.006.0843/P033.jpg) | Front Matter / Reference Chart | Printed diagram | 口の開きかた・音階圖解 / 張口發音法與音階圖解 | N/A | Printed vowel mouth chart & scale diagram | — |
+| [`P034.jpg`](../../shokacho_2020.006.0843/P034.jpg) | Front Matter / Reference Chart | Printed table | 長短記號・雜記號 / 音符休止符與音樂記號表 | N/A | Printed musical symbol reference table | — |
+| [`P035.jpg`](../../shokacho_2020.006.0843/P035.jpg) | Music Score | Handwritten 5-line staff | ボート / 小艇（划船） | ト調 (G major), 2/4, `♩=126`, `活潑ニ` | `1.` / `共益商社唱歌教科書教師用巻二 第五頁` | [`p035_boto/`](p035_boto/) |
+| [`P036.jpg`](../../shokacho_2020.006.0843/P036.jpg) | Music Score | Handwritten 5-line staff + jianpu hybrid | 雨 / 雨 | ヘ調 (F major), Section 1 (`小兒`): 4/8, `♪=116`, `樂シク`; Section 2 (`雨`): 4/4 (`C`), `♩=100`, `ヤヽオチツイテ` | `2.` / `共益商社唱歌教科書教師用巻二 第七頁` | [`p036_ame/`](p036_ame/) |
+| [`P037.jpg`](../../shokacho_2020.006.0843/P037.jpg) | Music Score | Handwritten jianpu on staff | 海 / 海（其一） | ニ調 (D major), 4/4, `♩=104` | `3.` / `共益商社唱歌教科書教師用巻二 第十九頁` | [`p037_umi/`](p037_umi/) |
+| [`P038.jpg`](../../shokacho_2020.006.0843/P038.jpg) | Title-Only Blank Staff | Handwritten title on blank staff | 月 / 月（未記譜） | N/A | `4.` / `共益商社唱歌教科書教師用巻二 第二十三頁` (title and source written, staves left blank) | — |
+| [`P039.jpg`](../../shokacho_2020.006.0843/P039.jpg) | Music Score | Handwritten jianpu on staff | 海 / 海（其二） | ヘ調 (F major), 3/4, `♩=84` | `5.` | [`p039_umi/`](p039_umi/) |
+| [`P040.jpg`](../../shokacho_2020.006.0843/P040.jpg) | Music Score (Part 1 of 2) | Handwritten 5-line staff (intro) + jianpu on staff | （無題・三拍子曲） / （無題三拍子曲） | ヘ調 (F major), 3/4, `輕快ニ` (`♩=120`) | `6.` (continues onto top of `P041.jpg`) | [`p040_mudai/`](p040_mudai/) |
+| [`P041.jpg`](../../shokacho_2020.006.0843/P041.jpg) | Music Score (Continuation + New Score) | Top: Handwritten jianpu on staff<br>Bottom: Handwritten jianpu on pasted sheet | Top: （無題・三拍子曲つゞき） / （無題三拍子曲・續）<br>Bottom: 起床喇叭・點呼喇叭・消燈喇叭 / 起床號、點名號、熄燈號 | Top: ヘ調 (F major), 3/4<br>Bottom: ハ調 (C major), 2/4 (`♩=120` / `♩=108` / `♩=72`) | `7.` / Bottom pasted sheet with notes `次ハ二消ユ`, `次ハ二ヰユ` | Top: [`p040_mudai/`](p040_mudai/)<br>Bottom: [`p041_kisho_rappa/`](p041_kisho_rappa/) |
+| [`P042.jpg`](../../shokacho_2020.006.0843/P042.jpg) | Music Score | Handwritten jianpu on staff | 螢の光 / 螢之光（驪歌） | ヘ調 (F major), 4/4, Tempo: unspec. (`♩=84`) | `8` (4 verses) | [`p042_hotaru_no_hikari/`](p042_hotaru_no_hikari/) |
+| [`P043.jpg`](../../shokacho_2020.006.0843/P043.jpg) | Music Score | Handwritten jianpu on staff | 行けども / 雖行（故郷の空） | ハ調 (C major), 4/4, Tempo: unspec. (`♩=96`) | `9` (Melody of *Comin' Thro' the Rye*) | [`p043_yukedomo/`](p043_yukedomo/) |
+| [`P044.jpg`](../../shokacho_2020.006.0843/P044.jpg) | Music Score | Printed 5-line staff (pasted sheet) | 皇太子殿下奉迎の歌 / 皇太子殿下奉迎之歌 | ト調 (G major), 2/4, Tempo: unspec. (`♩=100`) | `10.` / `第三歌萬歲ノ句ハ七段目ヲ用フ` | [`p044_kotaishi_denka_hogei_no_uta/`](p044_kotaishi_denka_hogei_no_uta/) |
+| [`P045.jpg`](../../shokacho_2020.006.0843/P045.jpg) | 樂譜 | 手抄五線譜 | **屋島合戰**（屋島合戰） | ♭1 (F大調), 4/4 (C) | [第1冊 p.11] 下半部被 `P046` 摺頁遮蓋；共 3 行 12 小節 | [`p045_yashima_gassen/`](p045_yashima_gassen/) |
+| [`P046.jpg`](../../shokacho_2020.006.0843/P046.jpg) | 樂譜＋歌詞 | 手抄五線譜（含二部/伴奏音） | **雨天晴天**（雨天晴天） | ♯3 (A大調), 2/4 | [第1冊 p.11夾頁] 左上註「活潑ニ」、下方註「題目ハ『雨天晴天』」；右側附第2段直書歌詞 | [`p046_uten_seiten/`](p046_uten_seiten/) |
+| [`P047.jpg`](../../shokacho_2020.006.0843/P047.jpg) | 樂譜 | 手抄五線譜 | **始政紀念日**（始政紀念日） | C大調, 4/4, ♩=100 | [第1冊 p.12] 譜下併列三段歌詞（1. 扶桑の空に… 2. 内外の海の… 3. 昔の蝦夷に…） | [`p047_shisei_kinembi/`](p047_shisei_kinembi/) |
+| [`P048.jpg`](../../shokacho_2020.006.0843/P048.jpg) | 樂譜（同頁2曲） | 上：手抄五線譜<br>下：手抄簡譜貼紙 | 1. **君が代**（君之代）<br>2. **軍隊行進**（軍隊行進） | 1. C大調(壱越調), 4/4, ♩=69<br>2. C大調, 2/4 | [第1冊 p.13] 上半部《君が代》標有 p, mf, f 力度；下半部貼紙為《軍隊行進》器樂簡譜（32小節） | [`p048a_kimi_ga_yo/`](p048a_kimi_ga_yo/)<br>[`p048b_guntai_koshin/`](p048b_guntai_koshin/) |
+| [`P049.jpg`](../../shokacho_2020.006.0843/P049.jpg) | 樂譜 | 手抄簡譜（貼頁） | **皇太子殿下御成婚奉祝歌**（皇太子殿下御成婚奉祝歌） | ニ調 (D大調), 4/4, ♩=100 | [第1冊 p.14] 註「大正十三年正月 文部省」；含2段歌詞 | [`p049_kotaishi_denka_goseikon_hoshukuka/`](p049_kotaishi_denka_goseikon_hoshukuka/) |
+| [`P050.jpg`](../../shokacho_2020.006.0843/P050.jpg) | 透印頁 | （薄紙背面透印） | （《金剛石・水は器》之背面透印） | — | [第1冊夾頁背面] `P051.jpg` 薄紙背面透印，無獨立內容（已翻轉檢視於 `/tmp/shokacho_rot/P050.jpg`） | （同 [`p051_kongoseki_mizu_wa_utsuwa/`](p051_kongoseki_mizu_wa_utsuwa/)） |
+| [`P051.jpg`](../../shokacho_2020.006.0843/P051.jpg) | 樂譜 | 手抄五線譜 | **金剛石・水は器**（金剛石・水如器）［前20小節］ | ♯1 (G大調), 4/4, ♩=92 | [第1冊夾頁 (1/2)] 昭憲皇太后御歌二首合譜（上行片假名為《金剛石》，下行平假名為《水は器》） | [`p051_kongoseki_mizu_wa_utsuwa/`](p051_kongoseki_mizu_wa_utsuwa/) |
+| [`P052.jpg`](../../shokacho_2020.006.0843/P052.jpg) | 樂譜（續頁） | 手抄五線譜 | **金剛石・水は器**（金剛石・水如器）［後12小節］ | ♯1 (G大調), 4/4, ♩=92 | [第1冊夾頁 (2/2)] 續 `P051.jpg` 第21–32小節 | （續 [`p051_kongoseki_mizu_wa_utsuwa/`](p051_kongoseki_mizu_wa_utsuwa/)） |
+| [`P053.jpg`](../../shokacho_2020.006.0843/P053.jpg) | 樂譜＋歌詞 | 手抄五線譜 | **陸軍記念日行進歌**（陸軍紀念日行進歌）［前12小節］ | C大調, 2/4 | [第1冊夾頁 (1/2)] 下方手抄第1、2段完整漢字假名歌詞 | [`p053_rikugun_kinembi_koshinka/`](p053_rikugun_kinembi_koshinka/) |
+| [`P054.jpg`](../../shokacho_2020.006.0843/P054.jpg) | 樂譜＋歌詞（續） | 手抄五線譜 | **陸軍記念日行進歌**（陸軍紀念日行進歌）［後12小節］ | C大調, 2/4 | [第1冊夾頁 (2/2)] 續 `P053.jpg` 第13–24小節；下方手抄第3、4段完整歌詞 | （續 [`p053_rikugun_kinembi_koshinka/`](p053_rikugun_kinembi_koshinka/)） |
+| [`P055.jpg`](../../shokacho_2020.006.0843/P055.jpg) | 夾頁封面/題簽 | 文字題簽 | **銀婚式奉祝行進歌**（題簽頁） | — | [第1冊夾頁外摺面] 題「銀婚式奉祝行進歌 古山氏作歌 一條氏作曲」（即 `P056.jpg` 摺疊外頁） | （同 [`p056_ginkonshiki_hoshuku_koshinka/`](p056_ginkonshiki_hoshuku_koshinka/)） |
+| [`P056.jpg`](../../shokacho_2020.006.0843/P056.jpg) | 樂譜 | 謄寫版印刷五線譜＋手寫標記 | **銀婚式奉祝行進歌**（銀婚式奉祝行進歌） | ♯1 (G大調), 2/4 | [第1冊夾頁展開] 註「（大正十四年五月） 古山氏作歌 一條氏作曲」；含1、2段結尾與第3段「萬萬歳」結尾 | [`p056_ginkonshiki_hoshuku_koshinka/`](p056_ginkonshiki_hoshuku_koshinka/) |
+| [`P057.jpg`](../../shokacho_2020.006.0843/P057.jpg) | 樂譜 | 手抄五線譜 | **秩父宮殿下奉迎行進歌**（秩父宮殿下奉迎行進歌） | ♭1 (F大調), 2/4 | [第1冊 p.15貼頁] 註「（♭ロ調ニテモ可）（大正十四年五月）」；底頁上方露出 `P061` 標題 | [`p057_chichibunomiya_denka_hogei_koshinka/`](p057_chichibunomiya_denka_hogei_koshinka/) |
+| [`P058.jpg`](../../shokacho_2020.006.0843/P058.jpg) | 純歌詞 | 活版/謄寫印刷文字 | **秩父宮殿下奉迎行進歌**（全4段歌詞） | — | [第1冊 p.15貼頁背] 註「松井實氏作歌」；原圖倒置 180°，配合 `P057.jpg` 樂譜使用 | （同 [`p057_chichibunomiya_denka_hogei_koshinka/`](p057_chichibunomiya_denka_hogei_koshinka/)） |
+| [`P059.jpg`](../../shokacho_2020.006.0843/P059.jpg) | 純歌詞 | 印刷文字單 | **北白川宮大妃殿下奉迎歌**（北白川宮大妃殿下奉迎歌） | — | [第1冊 p.15夾頁] 註「（大正十五年十月 日） 作歌 古山榮三郎」；全3段歌詞，無樂譜 | —（純歌詞頁） |
+| [`P060.jpg`](../../shokacho_2020.006.0843/P060.jpg) | 純歌詞 | 印刷文字單 | **天長節奉祝歌**（天長節奉祝歌） | — | [第1冊 p.15夾頁] 註「（昭和三年四月廿九日） 石井權三氏作歌」；全3段歌詞，無樂譜 | —（純歌詞頁） |
+| [`P061.jpg`](../../shokacho_2020.006.0843/P061.jpg) | 樂譜 | 手抄五線譜 | **皇太子殿下御成婚奉祝提燈行列進行歌**（皇太子殿下御成婚奉祝提燈行列進行歌） | ♯1 (G大調), 2/4 | [第1冊 p.15底頁] 掀開 `P057`–`P060` 貼頁後顯現之第15頁本頁；含3段歌詞，共20小節 | [`p061_kotaishi_denka_chochin_gyoretsu_shinkoka/`](p061_kotaishi_denka_chochin_gyoretsu_shinkoka/) |
+| [`P062.jpg`](../../shokacho_2020.006.0843/P062.jpg) | 樂譜 | 手抄五線譜 | **亡友**（亡友） | ♭3 (E♭大調), 2/4 | [第1冊 p.16] 悼念亡友之歌（含前段反覆記號與3段歌詞） | [`p062_boyu/`](p062_boyu/) |
+| [`P063.jpg`](../../shokacho_2020.006.0843/P063.jpg) | 樂譜 | 手抄五線譜 | **れんげさう**（紫雲英） | ヘ調 (F大調), 4/4 | [第1冊 p.17] 註「（小学生ノ歌） 正聴会編 唱歌学習帳 四年」；含2段歌詞 | [`p063_rengeso/`](p063_rengeso/) |
+| [`P064.jpg`](../../shokacho_2020.006.0843/P064.jpg) | 封底 | — | （第一冊封底：`BK. NO. 1` 地球大象商標） | — | [第1冊 封底] 筆記本第一冊封底 | — |
