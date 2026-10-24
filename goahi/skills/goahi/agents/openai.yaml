@@ -1,0 +1,4 @@
+interface:
+  display_name: "Goahi 戲曲鑼鼓樂譜"
+  short_description: "在 Goahi 目錄編寫與檢查傳統戲曲 TMD 樂譜"
+  default_prompt: "使用 Goahi skill，依本目錄的 TMD 慣例編寫或檢查傳統戲曲鑼鼓與曲牌樂譜。"
